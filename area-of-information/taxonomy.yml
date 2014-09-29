@@ -1,0 +1,93 @@
+name: "mlst_area"
+title:
+  en: "Maelstrom - Area of Information"
+  fr: "Maelstrom - Domaines d'information"
+description:
+  en: "Area of Information"
+  fr: "Domaines d'information"
+vocabularies:
+- name: "Sociodemographic_economic_characteristics"
+  title:
+    en: "Socio-demographic and economic characteristics"
+  description:
+    en: "Refers to sociodemographic or socioeconomic characteristics of an individual"
+  terms:
+  - name: "Age"
+    title:
+      en: "Age/birthdate"
+    description:
+      en: "Information about current age (e.g. when participating in the study)"
+  - name: "Sex"
+    title:
+      en: "Sex/gender"
+    description:
+      en: "Information about the sex (e.g. biological characteristics) or the gender (social role related to sex adopted by the individual)"
+  - name: "Birth_place"
+    title:
+      en: "Birth place"
+    description:
+      en: "Information about birth place (e.g. country of birth: Canada, USA)"
+  - name: "Citizenship"
+    title:
+      en: "Citizenship and immigrant status"
+    description:
+      en: "Information about an individual’s citizenship and immigrant status (e.g. landed immigrant, Canadian citizen)"
+  - name: "Ethnic_race_religion"
+    title:
+      en: "Ethnicity, race and religion"
+    description:
+      en: "Information about an individual’s ethnic (e.g. French Canadian, Italian, Chinese, Japanese), racial (e.g. Black, White, Asian) and religious background (e.g. Caucasian, Arab, Buddhist)"
+  - name: "Language"
+    title:
+      en: "Language"
+    description:
+      en: "Information about an individual’s linguistic background (e.g. French, English mother tongue, knowledge of Spanish)"
+  - name: "Residence"
+    title:
+      en: "Residence"
+    description:
+      en: "Information about past and current locations where an individual dwells more than transiently (e.g. address, region, country)"
+  - name: "Marital_status"
+    title:
+      en: "Marital/partner status and partnerships"
+    description:
+      en: "Information about an individual’s past and current interpersonal relationship status (e.g. married, divorced, single)"
+  - name: "Family_hh_struct"
+    title:
+      en: "Family and household structure"
+    description:
+      en: "Information about past and current household structure (e.g. number of individuals living with the participant)"
+  - name: "Education"
+    title:
+      en: "Education"
+    description:
+      en: "Information about education (e.g. highest level of education achieved, years of schooling completed)"
+  - name: "Labour_retirement"
+    title:
+      en: "Labour force and retirement"
+    description:
+      en: "Information about past and current labour force participation and the retirement period (e.g. employment status, sector of employment, participation in military, years worked, start of retirement)"
+  - name: "Income"
+    title:
+      en: "Income, possessions, and benefits"
+    description:
+      en: "Information about past and current income, possessions, and benefits from work (e.g. income before tax, health insurance coverage, sick leave, home ownership)"
+  - name: "Other_sociodemogr_chars"
+    title:
+      en: "Other socio-demographic and economic characteristics"
+- name: "Lifestyle_behaviours"
+  title:
+    en: "Lifestyle and health behaviours"
+  description:
+    en: "Refers to information about past and current lifestyle, behaviours, activities and life plans"
+  terms:
+  - name: "Tobacco"
+    title:
+      en: "Tobacco"
+    description:
+      en: "Information about the use of tobacco in any form (e.g. smoking, chewing or sniffing frequency and quantity) and associated behaviours"
+  - name: "Alcohol"
+    title:
+      en: "Alcohol"
+    description:
+      en: "Information about the consumption of alcoholic beverages (e.g. frequency, quantity and type of alcohol consumed) and associated behaviours"

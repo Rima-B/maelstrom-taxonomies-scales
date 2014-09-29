@@ -1,0 +1,34 @@
+name: "mlst_harmo"
+title:
+  en: "Maelstrom - Harmonization"
+  fr: "Maelstrom - Harmonisation"
+description:
+  en: "Harmonization"
+  fr: "Harmonisation"
+vocabularies:
+- name: "status"
+  title:
+    en: "Harmonization Status"
+  description:
+    en: "Harmonization Status"
+  terms:
+  - name: "complete"
+    title:
+      en: "Complete"
+    description:
+      en: "Harmonization is complete"
+  - name: "undetermined"
+    title:
+      en: "Undetermined"
+    description:
+      en: "Harmonization is undetermined (information pending)"
+  - name: "impossible"
+    title:
+      en: "Impossible"
+    description:
+      en: "Harmonization is impossible"
+- name: "comment"
+  title:
+    en: "Comment"
+  description:
+    en: "Detailed comments about the harmonization method"
