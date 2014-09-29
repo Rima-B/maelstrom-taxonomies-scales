@@ -91,3 +91,66 @@ vocabularies:
       en: "Alcohol"
     description:
       en: "Information about the consumption of alcoholic beverages (e.g. frequency, quantity and type of alcohol consumed) and associated behaviours"
+  - name: "Drugs"
+    title:
+      en: "Illicit drugs"
+    description:
+      en: "Information about the use of illicit drugs in any form (e.g. quantity and frequency of smoking, swallowing, sniffing) and associated behaviours"
+  - name: "Nutrition"
+    title:
+      en: "Nutrition"
+    description:
+      en: "Information about the consumption of food excluding vitamins and supplements (e.g. type, quantity and frequency of food intake) and associated behaviours"
+  - name: "Phys_act"
+    title:
+      en: "Physical activity"
+    description:
+      en: "Information about the type, frequency and intensity physical activity such as exercise and sports (e.g. jogging, playing hockey), daily activities (e.g. household chores, walking the dog) or sedentarity (e.g. TV watching)"
+  - name: "Pers_hygiene"
+    title:
+      en: "Personal hygiene"
+    description:
+      en: "Information about personal hygiene, including oral hygiene (e.g. how often teeth are brushed)"
+  - name: "Sleep"
+    title:
+      en: "Sleep"
+    description:
+      en: "Information about the type, frequency and intensity of sleep behaviours (e.g. hours of sleep, quality of sleep)"
+  - name: "Sex_behav"
+    title:
+      en: "Sexual behaviours"
+    description:
+      en: "Information about the type, frequency and intensity of sexual behaviours (e.g. number of partners, frequency of intercourse)"
+  - name: "Leisure_act"
+    title:
+      en: "Leisure activities"
+    description:
+      en: "Information about the type, frequency and intensity of leisure activities other than physical activity (e.g. reading, travelling, socializing, sudoku)."
+  - name: "Other_lifestyle"
+    title:
+      en: "Other lifestyle information"
+- name: "Health_status_functional_limitations"
+  title:
+    en: "Health status and functional limitations  Definition"
+  description:
+    en: "Refers to perception of general health, well-being and quality of life. It refers to subjective assessment of the health of an individual (opposed to diagnosed health problems)."
+  - name: "Perc_health"
+    title:
+      en: "Perception of health"
+    description:
+      en: "Information about the perception of health, a sense of well-being and ability to enjoy life (e.g. related to aging). It refers to the subjective rating of general health by the individual considering physical and mental aspects of health."
+  - name: "Qual_life"
+    title:
+      en: "Quality of life"
+    description:
+      en: "Information about past and current the quality of life (e.g. Quality of life scales, WHOQOL-BREF)"
+  - name: "Act_daily_living"
+    title:
+      en: "Activities of daily living"
+    description:
+      en: "Information about daily activities (ADL) that involve caring for and moving the body (e.g. walking, bathing, dressing, toileting, eating) and instrumental activities of daily living (IADL) that people can get help with but still live independently (e.g. cooking, driving, using the telephone or computer, shopping, handling finances, managing medication)."
+  - name: "Use _devices"
+    title:
+      en: "Use of assistive devices"
+    description:
+      en: "Information about the use of assistive devices to enhance and increase independence in performing activities of daily living (e.g. glasses, hearing aids, crutches)."
