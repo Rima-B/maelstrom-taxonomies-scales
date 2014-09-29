@@ -136,6 +136,7 @@ vocabularies:
     en: "Health status and functional limitations"
   description:
     en: "Refers to perception of general health, well-being and quality of life. It refers to subjective assessment of the health of an individual (opposed to diagnosed health problems)."
+  terms:
   - name: "Perc_health"
     title:
       en: "Perception of health"
