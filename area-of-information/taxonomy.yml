@@ -129,9 +129,11 @@ vocabularies:
   - name: "Other_lifestyle"
     title:
       en: "Other lifestyle information"
+    description:
+      en: ""
 - name: "Health_status_functional_limitations"
   title:
-    en: "Health status and functional limitations  Definition"
+    en: "Health status and functional limitations"
   description:
     en: "Refers to perception of general health, well-being and quality of life. It refers to subjective assessment of the health of an individual (opposed to diagnosed health problems)."
   - name: "Perc_health"
