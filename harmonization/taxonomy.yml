@@ -1,10 +1,10 @@
-name: "mlst_harmo"
+name: "Harmonization"
 title:
-  en: "Maelstrom - Harmonization"
-  fr: "Maelstrom - Harmonisation"
-description:
   en: "Harmonization"
   fr: "Harmonisation"
+description:
+  en: "Harmonization qualification by Maelstrom"
+  fr: "Qualification de l'harmonisation par Maelstrom"
 vocabularies:
 - name: "status"
   title:

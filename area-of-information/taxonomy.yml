@@ -1,10 +1,10 @@
-name: "mlst_area"
+name: "Area_of_information"
 title:
-  en: "Maelstrom - Area of Information"
-  fr: "Maelstrom - Domaines d'information"
-description:
   en: "Area of Information"
   fr: "Domaines d'information"
+description:
+  en: "Area of Information classification by Maelstrom"
+  fr: "Classement de Maelstrom par domaines d'information"
 vocabularies:
 - name: "Sociodemographic_economic_characteristics"
   title:
