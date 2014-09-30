@@ -1,435 +1,547 @@
-name: "Area_of_information"
-title:
-  en: "Area of Information"
-  fr: "Domaines d'information"
-description:
-  en: "Area of Information classification by Maelstrom"
-  fr: "Classement de Maelstrom par domaines d'information"
-vocabularies:
-- name: "Sociodemographic_economic_characteristics"
-  title:
-    en: "Socio-demographic and economic characteristics"
-  description:
-    en: "Refers to sociodemographic or socioeconomic characteristics of an individual"
-  terms:
-  - name: "Age"
-    title:
-      en: "Age/birthdate"
-    description:
-      en: "Information about current age (e.g. when participating in the study)"
-  - name: "Sex"
-    title:
-      en: "Sex/gender"
-    description:
-      en: "Information about the sex (e.g. biological characteristics) or the gender (social role related to sex adopted by the individual)"
-  - name: "Birth_place"
-    title:
-      en: "Birth place"
-    description:
-      en: "Information about birth place (e.g. country of birth: Canada, USA)"
-  - name: "Citizenship"
-    title:
-      en: "Citizenship and immigrant status"
-    description:
-      en: "Information about an individual’s citizenship and immigrant status (e.g. landed immigrant, Canadian citizen)"
-  - name: "Ethnic_race_religion"
-    title:
-      en: "Ethnicity, race and religion"
-    description:
-      en: "Information about an individual’s ethnic (e.g. French Canadian, Italian, Chinese, Japanese), racial (e.g. Black, White, Asian) and religious background (e.g. Caucasian, Arab, Buddhist)"
-  - name: "Language"
-    title:
-      en: "Language"
-    description:
-      en: "Information about an individual’s linguistic background (e.g. French, English mother tongue, knowledge of Spanish)"
-  - name: "Residence"
-    title:
-      en: "Residence"
-    description:
-      en: "Information about past and current locations where an individual dwells more than transiently (e.g. address, region, country)"
-  - name: "Marital_status"
-    title:
-      en: "Marital/partner status and partnerships"
-    description:
-      en: "Information about an individual’s past and current interpersonal relationship status (e.g. married, divorced, single)"
-  - name: "Family_hh_struct"
-    title:
-      en: "Family and household structure"
-    description:
-      en: "Information about past and current household structure (e.g. number of individuals living with the participant)"
-  - name: "Education"
-    title:
-      en: "Education"
-    description:
-      en: "Information about education (e.g. highest level of education achieved, years of schooling completed)"
-  - name: "Labour_retirement"
-    title:
-      en: "Labour force and retirement"
-    description:
-      en: "Information about past and current labour force participation and the retirement period (e.g. employment status, sector of employment, participation in military, years worked, start of retirement)"
-  - name: "Income"
-    title:
-      en: "Income, possessions, and benefits"
-    description:
-      en: "Information about past and current income, possessions, and benefits from work (e.g. income before tax, health insurance coverage, sick leave, home ownership)"
-  - name: "Other_sociodemogr_chars"
-    title:
-      en: "Other socio-demographic and economic characteristics"
-- name: "Lifestyle_behaviours"
-  title:
-    en: "Lifestyle and health behaviours"
-  description:
-    en: "Refers to information about past and current lifestyle, behaviours, activities and life plans"
-  terms:
-  - name: "Tobacco"
-    title:
-      en: "Tobacco"
-    description:
-      en: "Information about the use of tobacco in any form (e.g. smoking, chewing or sniffing frequency and quantity) and associated behaviours"
-  - name: "Alcohol"
-    title:
-      en: "Alcohol"
-    description:
-      en: "Information about the consumption of alcoholic beverages (e.g. frequency, quantity and type of alcohol consumed) and associated behaviours"
-  - name: "Drugs"
-    title:
-      en: "Illicit drugs"
-    description:
-      en: "Information about the use of illicit drugs in any form (e.g. quantity and frequency of smoking, swallowing, sniffing) and associated behaviours"
-  - name: "Nutrition"
-    title:
-      en: "Nutrition"
-    description:
-      en: "Information about the consumption of food excluding vitamins and supplements (e.g. type, quantity and frequency of food intake) and associated behaviours"
-  - name: "Phys_act"
-    title:
-      en: "Physical activity"
-    description:
-      en: "Information about the type, frequency and intensity physical activity such as exercise and sports (e.g. jogging, playing hockey), daily activities (e.g. household chores, walking the dog) or sedentarity (e.g. TV watching)"
-  - name: "Pers_hygiene"
-    title:
-      en: "Personal hygiene"
-    description:
-      en: "Information about personal hygiene, including oral hygiene (e.g. how often teeth are brushed)"
-  - name: "Sleep"
-    title:
-      en: "Sleep"
-    description:
-      en: "Information about the type, frequency and intensity of sleep behaviours (e.g. hours of sleep, quality of sleep)"
-  - name: "Sex_behav"
-    title:
-      en: "Sexual behaviours"
-    description:
-      en: "Information about the type, frequency and intensity of sexual behaviours (e.g. number of partners, frequency of intercourse)"
-  - name: "Leisure_act"
-    title:
-      en: "Leisure activities"
-    description:
-      en: "Information about the type, frequency and intensity of leisure activities other than physical activity (e.g. reading, travelling, socializing, sudoku)."
-  - name: "Other_lifestyle"
-    title:
-      en: "Other lifestyle information"
-    description:
-      en: ""
-- name: "Health_status_functional_limitations"
-  title:
-    en: "Health status and functional limitations"
-  description:
-    en: "Refers to perception of general health, well-being and quality of life. It refers to subjective assessment of the health of an individual (opposed to diagnosed health problems)."
-  terms:
-  - name: "Perc_health"
-    title:
-      en: "Perception of health"
-    description:
-      en: "Information about the perception of health, a sense of well-being and ability to enjoy life (e.g. related to aging). It refers to the subjective rating of general health by the individual considering physical and mental aspects of health."
-  - name: "Qual_life"
-    title:
-      en: "Quality of life"
-    description:
-      en: "Information about past and current the quality of life (e.g. Quality of life scales, WHOQOL-BREF)"
-  - name: "Act_daily_living"
-    title:
-      en: "Activities of daily living"
-    description:
-      en: "Information about daily activities (ADL) that involve caring for and moving the body (e.g. walking, bathing, dressing, toileting, eating) and instrumental activities of daily living (IADL) that people can get help with but still live independently (e.g. cooking, driving, using the telephone or computer, shopping, handling finances, managing medication)."
-  - name: "Use _devices"
-    title:
-      en: "Use of assistive devices"
-    description:
-      en: "Information about the use of assistive devices to enhance and increase independence in performing activities of daily living (e.g. glasses, hearing aids, crutches)."
-- name: "Diseases"
-  title:
-    en: "Diseases"
-  description:
-    en: "Refers to information about past and current disease as categorized in ICD-10"
-  terms:
-  - name: "Infectious_dis"
-    title:
-      en: "Certain infectious and parasitic diseases (A00-B99)"
-    description:
-      en: "Information about past and current infectious and parasitic diseases generally recognized as communicable or transmissible such as HIV/Aids, Malaria, Tuberculosis"
-  - name: "Neoplasms"
-    title:
-      en: "Neoplasms (C00-D48)"
-    description:
-      en: "Information about past and current cancers (e.g. benign and malignant neoplasms, in situ neoplasms)"
-  - name: "Blood_immune_dis"
-    title:
-      en: "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (D50-D89)"
-    description:
-      en: "Information about past and current diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (e.g. nutritional anaemias, coagulation defects, NOT HIV/Aids, NOT lupus, NOT allergies)"
-  - name: "Endocrine_metabolic_dis"
-    title:
-      en: "Endocrine, nutritional and metabolic diseases (E00-E90)"
-    description:
-      en: "Information about past and current endocrine, nutritional and metabolic diseases (e.g. diabetes, thyroid and metabolic disorders, malnutrition)"
-  - name: "Mental_behav_dis"
-    title:
-      en: "Mental and behavioural disorders (F00-F99)"
-    description:
-      en: "Information about past and current mental and behavioural disorders (e.g. schizophrenia, chronic PTSD, mood affective disorders, mental disorders from substance abuse)"
-  - name: "Nervous_sys_dis"
-    title:
-      en: "Diseases of the nervous system (G00-G99)"
-    description:
-      en: "Information about past and current diseases of the nervous system (e.g. Parkinson, Alzheimer Huntington, inflammatory diseases of the central nervous system)"
-  - name: "Eye_adnexa_dis"
-    title:
-      en: "Diseases of the eye and adnexa (H00-H59)"
-    description:
-      en: "Information about past and current diseases of the eye and adnexa (e.g. glaucoma, conjunctivitis, cataracts, strabism, low vision)"
-  - name: "Ear_mastoid_dis"
-    title:
-      en: "Diseases of the ear and mastoid process (H60-H95)"
-    description:
-      en: "Information about past and current diseases of the ear and mastoid process (e.g. otitis, mastoiditis, labyrinthitis, unspecified hearing loss)"
-  - name: "Circulatory_sys_dis"
-    title:
-      en: "Diseases of the circulatory system (I00-I99)"
-    description:
-      en: "Information about past and current diseases of the circulatory system (e.g. hypertension, ischaemic heart diseases, cerebrovascular diseases)"
-  - name: "Respiratory_sys_dis"
-    title:
-      en: "Diseases of the respiratory system (J00-J99)"
-    description:
-      en: "Information about past and current diseases of the respiratory system (e.g. asthma, bronchitis, emphysema, chronic obstructive pulmonary disease COPD, pneumonia, influenza)"
-  - name: "Digestive_sys_dis"
-    title:
-      en: "Diseases of the digestive system (K00-K93)"
-    description:
-      en: "Information about past and current diseases of the digestive system (e.g. Crohn, hepatitis, irritable bowel disease, cirrhosis, colitis)"
-  - name: "Skin_subcutaneous_dis"
-    title:
-      en: "Diseases of the skin and subcutaneous tissue (L00-L99)"
-    description:
-      en: "Information about past and current diseases of the skin and subcutaneous tissue (e.g. dermatitis, eczema, urticarial, erythema)"
-  - name: "Musculoskeletal_sys_dis"
-    title:
-      en: "Diseases of the musculoskeletal system and connective tissue (M00-M99)"
-    description:
-      en: "Information about past and current diseases of the musculoskeletal system and connective tissue (e.g. arthritis, arthrosis, lupus, low back pain)"
-  - name: "Genitourinary_sys_dis"
-    title:
-      en: "Diseases of the genitourinary system (N00-N99)"
-    description:
-      en: "Information about past and current diseases of the genitourinary system (e.g. renal failure, cystitis, UTI, prostate inflammation, mastitis, endometriosis)."
-  - name: "Pregnancy_childbirth"
-    title:
-      en: "Pregnancy, childbirth and the puerperium (O00-O9A)"
-    description:
-      en: "Information about conditions related to or aggravated by pregnancy, childbirth, or by puerperium (maternal causes or obstetric causes). Newborn information excluded here."
-  - name: "Perinatal_cond"
-    title:
-      en: "Certain conditions originating in the perinatal period (P00-P96)"
-    description:
-      en: "Information about effects of complications of pregnancy, labour and delivery on fetus and newborn. Birth traumas, disorders and infections specific to the perinatal period. Maternal information excluded here."
-  - name: "Cong_malform_chrom_abnor"
-    title:
-      en: "Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)"
-    description:
-      en: "Information about congenital malformations, deformations and chromosomal abnormalities (e.g. cleft lip and palate, spina bifida, aortic septal defect)."
-  - name: "Injury_poisoning"
-    title:
-      en: "Injury, poisoning and certain other consequences of external causes (S00-T98)"
-    description:
-      en: "Information about past and current injury, poisoning and certain other consequences of external causes (e.g. burns, fractures, cuts, corrosions, poisoning)."
-  - name: "Morbidity_mortality_ext"
-    title:
-      en: "External causes of morbidity and mortality (V01-Y98)"
-    description:
-      en: "Information about past and current external causes of morbidity and mortality (e.g. traffic injuries, falls, explosion, intentional self-harm)."
-  - name: "Other_dis"
-    title:
-      en: "Other diseases"
-    description:
-      en: ""
-- name: "Symptoms_signs"
-  title:
-    en: "Symptoms and signs"
-  description:
-    en: "Refers to information about the bodily experience of health."
-  terms:
-  - name: "Circulatory_respiratory_sympt"
-    title:
-      en: "Symptoms and signs involving the circulatory and respiratory systems (R00-R09)"
-    description:
-      en: "Information about past and current symptoms and signs involving the circulatory and respiratory systems (e.g. tachycardia, epistaxis, cough, wheezing)"
-  - name: "Digestive_sympt"
-    title:
-      en: "Symptoms and signs involving the digestive system and abdomen (R10-R19)"
-    description:
-      en: "Information about past and current symptoms and signs involving the digestive system and abdomen (e.g. nausea, vomiting, heartburn, bloating)"
-  - name: "Skin_subcut_sympt"
-    title:
-      en: "Symptoms and signs involving the skin and subcutaneous tissue (R20-R23)"
-    description:
-      en: "Information about past and current symptoms and signs involving the skin and subcutaneous tissue (e.g. local swellings, masses, lumps, cyanosis, flushing, desquamation)"
-  - name: "Nervous_musculoskeletal_sympt"
-    title:
-      en: "Symptoms and signs involving nervous and musculoskeletal systems (R25-R29)"
-    description:
-      en: "Information about past and current symptoms and signs involving the nervous and musculoskeletal systems (e.g. tremor, abnormal reflexes, cramps, spasms)"
-  - name: "Urinary_sympt"
-    title:
-      en: "Symptoms and signs involving the urinary system (R30-R39)"
-    description:
-      en: "Information about past and current symptoms and signs involving the urinary system (e.g. dysuria, retention of urine)"
-  - name: "Cognitive_perc_emotional_sympt"
-    title:
-      en: "Symptoms and signs involving cognition, perception, emotional state and behaviour (R40-R46)"
-    description:
-      en: "Information about past and current symptoms and signs involving cognition, perception, emotional state and behaviour (e.g. somnolence, dizziness, hallucinations, nervousness, hostility)"
-  - name: "Speech_voice_sympt"
-    title:
-      en: "Symptoms and signs involving speech and voice (R47-R49)"
-    description:
-      en: "Information about past and current symptoms and signs involving speech and voice (e.g. aphasia, dysphonia, hypernasality)"
-  - name: "General_sympt"
-    title:
-      en: "General symptoms and signs (R50-R69)"
-    description:
-      en: "Information about past and current general symptoms and signs (e.g. fever, headache, malaise and fatigue, lethargy, senility)"
-- name: "Medication_supplements"
-  title:
-    en: "Medication and supplements"
-  description:
-    en: "Refers to information about medication (whether prescribed or over the counter), including drugs and supplements (e.g. vitamins, plant extracts) used to treat or prevent diseases or to alleviate symptoms of disease."
-  terms:
-  - name: "Medication_suppl"
-    title:
-      en: "Medication and supplement intake"
-    description:
-      en: "Information regarding any drugs or medicines that treat, prevent or alleviate symptoms of a disease taken by the subject (e.g. Advil, chemotherapy, vitamin C, Ginseng)."
-  - name: "Adherence_medication"
-    title:
-      en: "Adherence to medication"
-    description:
-      en: "Information about the adherence to the protocol prescribed by the health care provider by the patient. It includes questions on time, frequency and quantity of medication taken by the subject."
-  - name: "Other_pharmacological_inter"
-    title:
-      en: "Other pharmacological interventions"
-    description:
-      en: "Information regarding a different type of pharmacological intervention such as vaccination."
-- name: "Non_pharmacological_interventions"
-  title:
-    en: "Non-pharmacological interventions"
-  description:
-    en: "Refers to information about non-pharmacological interventions to treat or prevent diseases or to alleviate symptoms of disease."
-  terms:
-  - name: "Surgical_inter"
-    title:
-      en: "Surgical interventions"
-    description:
-      en: "Information regarding diagnostic, preventive or therapeutic surgical interventions (e.g. biopsy, removal of gall bladder)."
-  - name: "Radiological_inter"
-    title:
-      en: "Radiological interventions"
-    description:
-      en: "Information regarding diagnostic, preventive or therapeutic radiological interventions (e.g. x-rays, radiation treatment for cancer)."
-  - name: "Physical_inter"
-    title:
-      en: "Physical therapy interventions"
-    description:
-      en: "Information regarding preventive or therapeutic physical therapy interventions (e.g. physiotherapy, exercises)."
-  - name: "Cognitive_psycho_sensory_inter"
-    title:
-      en: "Cognitive, psychological and sensory interventions"
-    description:
-      en: "Information regarding preventive or therapeutic cognitive, psychological and sensory interventions (e.g. psychotherapy, aromatherapy, memory exercises)."
-  - name: "Educational_inter"
-    title:
-      en: "Educational and health promotion interventions"
-    description:
-      en: "Information regarding preventive or therapeutic educational and health promotion interventions (e.g. smoking cessation programs, prevention of infectious diseases programs)."
-  - name: "Other_non_pharmacological_inter"
-    title:
-      en: "Other non-pharmacological interventions"
-    description:
-      en: ""
-- name: "Health_community_care_utilization"
-  title:
-    en: "Health and community care utilization"
-  description:
-    en: "Information about health services utilization such as medical visits to a healthcare professional or hospitalizations"
-  terms:
-  - name: "Visit_health_prof"
-    title:
-      en: "Visits to health professionals"
-    description:
-      en: "Information about past and current visits at a general practitioner (family doctor), dentist or specialist (pediatric doctor, psychologist)"
-  - name: "Hospitalizations"
-    title:
-      en: "Hospitalizations"
-    description:
-      en: "Information about past and current hospitalizations (e.g. number of days hospitalized, year of hospitalization)"
-  - name: "Use_labo_ambulatory_services"
-    title:
-      en: "Use of laboratory and ambulatory services"
-    description:
-      en: "Information about past and current use of lab services (e.g. blood tests, tensiometry) and ambulatory services (e.g. vaccination at a local health clinic)"
-  - name: "Community_care"
-    title:
-      en: "Community care"
-    description:
-      en: "Information about past and current use of community care (e.g. meal delivery, nurse visiting at home)"
-- name: "Reproduction"
-  title:
-    en: "Reproduction"
-  description:
-    en: "Information about current or past reproductive health."
-  terms:
-  - name: "Menstr_menop_andropause"
-    title:
-      en: "Menstruation, menopause and andropause"
-    description:
-      en: "Information regarding menstruation, menopause, andropause and related events (e.g. age at first menstruation, year of menopause start)."
-  - name: "Contraception"
-    title:
-      en: "Contraception and family planning"
-    description:
-      en: "Information regarding contraception and family planning (e.g. methods of contraception used, years of family planning)."
-  - name: "Pregnancy_delivery"
-    title:
-      en: "Pregnancy, labour, delivery, and postpartum characteristics"
-    description:
-      en: "Information regarding pregnancy, labour, delivery and postpartum includes information on normal outcomes (e.g. weeks of gestation, twin birth, APGAR score)."
-  - name: "Gravidity_fertility"
-    title:
-      en: "Gravidity, pregnancy outcomes, parity (female) and fertility (male)"
-    description:
-      en: "Information regarding the number of times a women has been pregnant, regardless of pregnancy outcome (gravidity), the results of conception and ensuing pregnancy (e.g. number of spontaneous and induced abortions).\nInformation regarding the number of children a female has born (parity) (e.g. number of live-born children) or a man has fathered (fertility) (e.g. number of children fathered)."
-  - name: "Breastfeeding"
-    title:
-      en: "Breastfeeding"
-    description:
-      en: "Information regarding the mother’s nursing an infant at the breast (e.g. duration and frequency of breastfeeding)"
-  - name: "Reprod_sexual_problems"
-    title:
-      en: "Reproductive and sexual problems related to conception"
-    description:
-      en: "Information regarding problems in the capacity to conceive or to induce conception. It refers to either males or females. See section Z30-Z39 Persons encountering health services in circumstances related to reproduction (http://apps.who.int/classifications/icd10/browse/2010/en#/Z30-Z39)."
-  - name: "Other_reproductive"
-    title:
-      en: "Other reproductive health related information"
-    description:
-      en: "Information regarding other reproductive health issues."
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "Area_of_information"
+"title":
+  "en": "Area of Information"
+  "fr": "Domaines d'information"
+"description":
+  "en": "Area of Information classification by Maelstrom"
+  "fr": "Classement de Maelstrom par domaines d'information"
+"vocabularies":
+- "name": "Sociodemographic_economic_characteristics"
+  "title":
+    "en": "Socio-demographic and economic characteristics"
+  "description":
+    "en": "Refers to sociodemographic or socioeconomic characteristics of an individual"
+  "terms":
+  - "name": "Age"
+    "title":
+      "en": "Age/birthdate"
+    "description":
+      "en": "Information about current age (e.g. when participating in the study)"
+  - "name": "Sex"
+    "title":
+      "en": "Sex/gender"
+    "description":
+      "en": "Information about the sex (e.g. biological characteristics) or the gender\
+        \ (social role related to sex adopted by the individual)"
+  - "name": "Birth_place"
+    "title":
+      "en": "Birth place"
+    "description":
+      "en": "Information about birth place (e.g. country of birth: Canada, USA)"
+  - "name": "Citizenship"
+    "title":
+      "en": "Citizenship and immigrant status"
+    "description":
+      "en": "Information about an individual’s citizenship and immigrant status (e.g.\
+        \ landed immigrant, Canadian citizen)"
+  - "name": "Ethnic_race_religion"
+    "title":
+      "en": "Ethnicity, race and religion"
+    "description":
+      "en": "Information about an individual’s ethnic (e.g. French Canadian, Italian,\
+        \ Chinese, Japanese), racial (e.g. Black, White, Asian) and religious background\
+        \ (e.g. Caucasian, Arab, Buddhist)"
+  - "name": "Language"
+    "title":
+      "en": "Language"
+    "description":
+      "en": "Information about an individual’s linguistic background (e.g. French,\
+        \ English mother tongue, knowledge of Spanish)"
+  - "name": "Residence"
+    "title":
+      "en": "Residence"
+    "description":
+      "en": "Information about past and current locations where an individual dwells\
+        \ more than transiently (e.g. address, region, country)"
+  - "name": "Marital_status"
+    "title":
+      "en": "Marital/partner status and partnerships"
+    "description":
+      "en": "Information about an individual’s past and current interpersonal relationship\
+        \ status (e.g. married, divorced, single)"
+  - "name": "Family_hh_struct"
+    "title":
+      "en": "Family and household structure"
+    "description":
+      "en": "Information about past and current household structure (e.g. number of\
+        \ individuals living with the participant)"
+  - "name": "Education"
+    "title":
+      "en": "Education"
+    "description":
+      "en": "Information about education (e.g. highest level of education achieved,\
+        \ years of schooling completed)"
+  - "name": "Labour_retirement"
+    "title":
+      "en": "Labour force and retirement"
+    "description":
+      "en": "Information about past and current labour force participation and the\
+        \ retirement period (e.g. employment status, sector of employment, participation\
+        \ in military, years worked, start of retirement)"
+  - "name": "Income"
+    "title":
+      "en": "Income, possessions, and benefits"
+    "description":
+      "en": "Information about past and current income, possessions, and benefits\
+        \ from work (e.g. income before tax, health insurance coverage, sick leave,\
+        \ home ownership)"
+  - "name": "Other_sociodemogr_chars"
+    "title":
+      "en": "Other socio-demographic and economic characteristics"
+    "description": {}
+- "name": "Lifestyle_behaviours"
+  "title":
+    "en": "Lifestyle and health behaviours"
+  "description":
+    "en": "Refers to information about past and current lifestyle, behaviours, activities\
+      \ and life plans"
+  "terms":
+  - "name": "Tobacco"
+    "title":
+      "en": "Tobacco"
+    "description":
+      "en": "Information about the use of tobacco in any form (e.g. smoking, chewing\
+        \ or sniffing frequency and quantity) and associated behaviours"
+  - "name": "Alcohol"
+    "title":
+      "en": "Alcohol"
+    "description":
+      "en": "Information about the consumption of alcoholic beverages (e.g. frequency,\
+        \ quantity and type of alcohol consumed) and associated behaviours"
+  - "name": "Drugs"
+    "title":
+      "en": "Illicit drugs"
+    "description":
+      "en": "Information about the use of illicit drugs in any form (e.g. quantity\
+        \ and frequency of smoking, swallowing, sniffing) and associated behaviours"
+  - "name": "Nutrition"
+    "title":
+      "en": "Nutrition"
+    "description":
+      "en": "Information about the consumption of food excluding vitamins and supplements\
+        \ (e.g. type, quantity and frequency of food intake) and associated behaviours"
+  - "name": "Phys_act"
+    "title":
+      "en": "Physical activity"
+    "description":
+      "en": "Information about the type, frequency and intensity physical activity\
+        \ such as exercise and sports (e.g. jogging, playing hockey), daily activities\
+        \ (e.g. household chores, walking the dog) or sedentarity (e.g. TV watching)"
+  - "name": "Pers_hygiene"
+    "title":
+      "en": "Personal hygiene"
+    "description":
+      "en": "Information about personal hygiene, including oral hygiene (e.g. how\
+        \ often teeth are brushed)"
+  - "name": "Sleep"
+    "title":
+      "en": "Sleep"
+    "description":
+      "en": "Information about the type, frequency and intensity of sleep behaviours\
+        \ (e.g. hours of sleep, quality of sleep)"
+  - "name": "Sex_behav"
+    "title":
+      "en": "Sexual behaviours"
+    "description":
+      "en": "Information about the type, frequency and intensity of sexual behaviours\
+        \ (e.g. number of partners, frequency of intercourse)"
+  - "name": "Leisure_act"
+    "title":
+      "en": "Leisure activities"
+    "description":
+      "en": "Information about the type, frequency and intensity of leisure activities\
+        \ other than physical activity (e.g. reading, travelling, socializing, sudoku)."
+  - "name": "Other_lifestyle"
+    "title":
+      "en": "Other lifestyle information"
+    "description":
+      "en": ""
+- "name": "Health_status_functional_limitations"
+  "title":
+    "en": "Health status and functional limitations"
+  "description":
+    "en": "Refers to perception of general health, well-being and quality of life.\
+      \ It refers to subjective assessment of the health of an individual (opposed\
+      \ to diagnosed health problems)."
+  "terms":
+  - "name": "Perc_health"
+    "title":
+      "en": "Perception of health"
+    "description":
+      "en": "Information about the perception of health, a sense of well-being and\
+        \ ability to enjoy life (e.g. related to aging). It refers to the subjective\
+        \ rating of general health by the individual considering physical and mental\
+        \ aspects of health."
+  - "name": "Qual_life"
+    "title":
+      "en": "Quality of life"
+    "description":
+      "en": "Information about past and current the quality of life (e.g. Quality\
+        \ of life scales, WHOQOL-BREF)"
+  - "name": "Act_daily_living"
+    "title":
+      "en": "Activities of daily living"
+    "description":
+      "en": "Information about daily activities (ADL) that involve caring for and\
+        \ moving the body (e.g. walking, bathing, dressing, toileting, eating) and\
+        \ instrumental activities of daily living (IADL) that people can get help\
+        \ with but still live independently (e.g. cooking, driving, using the telephone\
+        \ or computer, shopping, handling finances, managing medication)."
+  - "name": "Use _devices"
+    "title":
+      "en": "Use of assistive devices"
+    "description":
+      "en": "Information about the use of assistive devices to enhance and increase\
+        \ independence in performing activities of daily living (e.g. glasses, hearing\
+        \ aids, crutches)."
+- "name": "Diseases"
+  "title":
+    "en": "Diseases"
+  "description":
+    "en": "Refers to information about past and current disease as categorized in\
+      \ ICD-10"
+  "terms":
+  - "name": "Infectious_dis"
+    "title":
+      "en": "Certain infectious and parasitic diseases (A00-B99)"
+    "description":
+      "en": "Information about past and current infectious and parasitic diseases\
+        \ generally recognized as communicable or transmissible such as HIV/Aids,\
+        \ Malaria, Tuberculosis"
+  - "name": "Neoplasms"
+    "title":
+      "en": "Neoplasms (C00-D48)"
+    "description":
+      "en": "Information about past and current cancers (e.g. benign and malignant\
+        \ neoplasms, in situ neoplasms)"
+  - "name": "Blood_immune_dis"
+    "title":
+      "en": "Diseases of the blood and blood-forming organs and certain disorders\
+        \ involving the immune mechanism (D50-D89)"
+    "description":
+      "en": "Information about past and current diseases of the blood and blood-forming\
+        \ organs and certain disorders involving the immune mechanism (e.g. nutritional\
+        \ anaemias, coagulation defects, NOT HIV/Aids, NOT lupus, NOT allergies)"
+  - "name": "Endocrine_metabolic_dis"
+    "title":
+      "en": "Endocrine, nutritional and metabolic diseases (E00-E90)"
+    "description":
+      "en": "Information about past and current endocrine, nutritional and metabolic\
+        \ diseases (e.g. diabetes, thyroid and metabolic disorders, malnutrition)"
+  - "name": "Mental_behav_dis"
+    "title":
+      "en": "Mental and behavioural disorders (F00-F99)"
+    "description":
+      "en": "Information about past and current mental and behavioural disorders (e.g.\
+        \ schizophrenia, chronic PTSD, mood affective disorders, mental disorders\
+        \ from substance abuse)"
+  - "name": "Nervous_sys_dis"
+    "title":
+      "en": "Diseases of the nervous system (G00-G99)"
+    "description":
+      "en": "Information about past and current diseases of the nervous system (e.g.\
+        \ Parkinson, Alzheimer Huntington, inflammatory diseases of the central nervous\
+        \ system)"
+  - "name": "Eye_adnexa_dis"
+    "title":
+      "en": "Diseases of the eye and adnexa (H00-H59)"
+    "description":
+      "en": "Information about past and current diseases of the eye and adnexa (e.g.\
+        \ glaucoma, conjunctivitis, cataracts, strabism, low vision)"
+  - "name": "Ear_mastoid_dis"
+    "title":
+      "en": "Diseases of the ear and mastoid process (H60-H95)"
+    "description":
+      "en": "Information about past and current diseases of the ear and mastoid process\
+        \ (e.g. otitis, mastoiditis, labyrinthitis, unspecified hearing loss)"
+  - "name": "Circulatory_sys_dis"
+    "title":
+      "en": "Diseases of the circulatory system (I00-I99)"
+    "description":
+      "en": "Information about past and current diseases of the circulatory system\
+        \ (e.g. hypertension, ischaemic heart diseases, cerebrovascular diseases)"
+  - "name": "Respiratory_sys_dis"
+    "title":
+      "en": "Diseases of the respiratory system (J00-J99)"
+    "description":
+      "en": "Information about past and current diseases of the respiratory system\
+        \ (e.g. asthma, bronchitis, emphysema, chronic obstructive pulmonary disease\
+        \ COPD, pneumonia, influenza)"
+  - "name": "Digestive_sys_dis"
+    "title":
+      "en": "Diseases of the digestive system (K00-K93)"
+    "description":
+      "en": "Information about past and current diseases of the digestive system (e.g.\
+        \ Crohn, hepatitis, irritable bowel disease, cirrhosis, colitis)"
+  - "name": "Skin_subcutaneous_dis"
+    "title":
+      "en": "Diseases of the skin and subcutaneous tissue (L00-L99)"
+    "description":
+      "en": "Information about past and current diseases of the skin and subcutaneous\
+        \ tissue (e.g. dermatitis, eczema, urticarial, erythema)"
+  - "name": "Musculoskeletal_sys_dis"
+    "title":
+      "en": "Diseases of the musculoskeletal system and connective tissue (M00-M99)"
+    "description":
+      "en": "Information about past and current diseases of the musculoskeletal system\
+        \ and connective tissue (e.g. arthritis, arthrosis, lupus, low back pain)"
+  - "name": "Genitourinary_sys_dis"
+    "title":
+      "en": "Diseases of the genitourinary system (N00-N99)"
+    "description":
+      "en": "Information about past and current diseases of the genitourinary system\
+        \ (e.g. renal failure, cystitis, UTI, prostate inflammation, mastitis, endometriosis)."
+  - "name": "Pregnancy_childbirth"
+    "title":
+      "en": "Pregnancy, childbirth and the puerperium (O00-O9A)"
+    "description":
+      "en": "Information about conditions related to or aggravated by pregnancy, childbirth,\
+        \ or by puerperium (maternal causes or obstetric causes). Newborn information\
+        \ excluded here."
+  - "name": "Perinatal_cond"
+    "title":
+      "en": "Certain conditions originating in the perinatal period (P00-P96)"
+    "description":
+      "en": "Information about effects of complications of pregnancy, labour and delivery\
+        \ on fetus and newborn. Birth traumas, disorders and infections specific to\
+        \ the perinatal period. Maternal information excluded here."
+  - "name": "Cong_malform_chrom_abnor"
+    "title":
+      "en": "Congenital malformations, deformations and chromosomal abnormalities\
+        \ (Q00-Q99)"
+    "description":
+      "en": "Information about congenital malformations, deformations and chromosomal\
+        \ abnormalities (e.g. cleft lip and palate, spina bifida, aortic septal defect)."
+  - "name": "Injury_poisoning"
+    "title":
+      "en": "Injury, poisoning and certain other consequences of external causes (S00-T98)"
+    "description":
+      "en": "Information about past and current injury, poisoning and certain other\
+        \ consequences of external causes (e.g. burns, fractures, cuts, corrosions,\
+        \ poisoning)."
+  - "name": "Morbidity_mortality_ext"
+    "title":
+      "en": "External causes of morbidity and mortality (V01-Y98)"
+    "description":
+      "en": "Information about past and current external causes of morbidity and mortality\
+        \ (e.g. traffic injuries, falls, explosion, intentional self-harm)."
+  - "name": "Other_dis"
+    "title":
+      "en": "Other diseases"
+    "description":
+      "en": ""
+- "name": "Symptoms_signs"
+  "title":
+    "en": "Symptoms and signs"
+  "description":
+    "en": "Refers to information about the bodily experience of health."
+  "terms":
+  - "name": "Circulatory_respiratory_sympt"
+    "title":
+      "en": "Symptoms and signs involving the circulatory and respiratory systems\
+        \ (R00-R09)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving the circulatory\
+        \ and respiratory systems (e.g. tachycardia, epistaxis, cough, wheezing)"
+  - "name": "Digestive_sympt"
+    "title":
+      "en": "Symptoms and signs involving the digestive system and abdomen (R10-R19)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving the digestive\
+        \ system and abdomen (e.g. nausea, vomiting, heartburn, bloating)"
+  - "name": "Skin_subcut_sympt"
+    "title":
+      "en": "Symptoms and signs involving the skin and subcutaneous tissue (R20-R23)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving the skin\
+        \ and subcutaneous tissue (e.g. local swellings, masses, lumps, cyanosis,\
+        \ flushing, desquamation)"
+  - "name": "Nervous_musculoskeletal_sympt"
+    "title":
+      "en": "Symptoms and signs involving nervous and musculoskeletal systems (R25-R29)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving the nervous\
+        \ and musculoskeletal systems (e.g. tremor, abnormal reflexes, cramps, spasms)"
+  - "name": "Urinary_sympt"
+    "title":
+      "en": "Symptoms and signs involving the urinary system (R30-R39)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving the urinary\
+        \ system (e.g. dysuria, retention of urine)"
+  - "name": "Cognitive_perc_emotional_sympt"
+    "title":
+      "en": "Symptoms and signs involving cognition, perception, emotional state and\
+        \ behaviour (R40-R46)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving cognition,\
+        \ perception, emotional state and behaviour (e.g. somnolence, dizziness, hallucinations,\
+        \ nervousness, hostility)"
+  - "name": "Speech_voice_sympt"
+    "title":
+      "en": "Symptoms and signs involving speech and voice (R47-R49)"
+    "description":
+      "en": "Information about past and current symptoms and signs involving speech\
+        \ and voice (e.g. aphasia, dysphonia, hypernasality)"
+  - "name": "General_sympt"
+    "title":
+      "en": "General symptoms and signs (R50-R69)"
+    "description":
+      "en": "Information about past and current general symptoms and signs (e.g. fever,\
+        \ headache, malaise and fatigue, lethargy, senility)"
+- "name": "Medication_supplements"
+  "title":
+    "en": "Medication and supplements"
+  "description":
+    "en": "Refers to information about medication (whether prescribed or over the\
+      \ counter), including drugs and supplements (e.g. vitamins, plant extracts)\
+      \ used to treat or prevent diseases or to alleviate symptoms of disease."
+  "terms":
+  - "name": "Medication_suppl"
+    "title":
+      "en": "Medication and supplement intake"
+    "description":
+      "en": "Information regarding any drugs or medicines that treat, prevent or alleviate\
+        \ symptoms of a disease taken by the subject (e.g. Advil, chemotherapy, vitamin\
+        \ C, Ginseng)."
+  - "name": "Adherence_medication"
+    "title":
+      "en": "Adherence to medication"
+    "description":
+      "en": "Information about the adherence to the protocol prescribed by the health\
+        \ care provider by the patient. It includes questions on time, frequency and\
+        \ quantity of medication taken by the subject."
+  - "name": "Other_pharmacological_inter"
+    "title":
+      "en": "Other pharmacological interventions"
+    "description":
+      "en": "Information regarding a different type of pharmacological intervention\
+        \ such as vaccination."
+- "name": "Non_pharmacological_interventions"
+  "title":
+    "en": "Non-pharmacological interventions"
+  "description":
+    "en": "Refers to information about non-pharmacological interventions to treat\
+      \ or prevent diseases or to alleviate symptoms of disease."
+  "terms":
+  - "name": "Surgical_inter"
+    "title":
+      "en": "Surgical interventions"
+    "description":
+      "en": "Information regarding diagnostic, preventive or therapeutic surgical\
+        \ interventions (e.g. biopsy, removal of gall bladder)."
+  - "name": "Radiological_inter"
+    "title":
+      "en": "Radiological interventions"
+    "description":
+      "en": "Information regarding diagnostic, preventive or therapeutic radiological\
+        \ interventions (e.g. x-rays, radiation treatment for cancer)."
+  - "name": "Physical_inter"
+    "title":
+      "en": "Physical therapy interventions"
+    "description":
+      "en": "Information regarding preventive or therapeutic physical therapy interventions\
+        \ (e.g. physiotherapy, exercises)."
+  - "name": "Cognitive_psycho_sensory_inter"
+    "title":
+      "en": "Cognitive, psychological and sensory interventions"
+    "description":
+      "en": "Information regarding preventive or therapeutic cognitive, psychological\
+        \ and sensory interventions (e.g. psychotherapy, aromatherapy, memory exercises)."
+  - "name": "Educational_inter"
+    "title":
+      "en": "Educational and health promotion interventions"
+    "description":
+      "en": "Information regarding preventive or therapeutic educational and health\
+        \ promotion interventions (e.g. smoking cessation programs, prevention of\
+        \ infectious diseases programs)."
+  - "name": "Other_non_pharmacological_inter"
+    "title":
+      "en": "Other non-pharmacological interventions"
+    "description":
+      "en": ""
+- "name": "Health_community_care_utilization"
+  "title":
+    "en": "Health and community care utilization"
+  "description":
+    "en": "Information about health services utilization such as medical visits to\
+      \ a healthcare professional or hospitalizations"
+  "terms":
+  - "name": "Visit_health_prof"
+    "title":
+      "en": "Visits to health professionals"
+    "description":
+      "en": "Information about past and current visits at a general practitioner (family\
+        \ doctor), dentist or specialist (pediatric doctor, psychologist)"
+  - "name": "Hospitalizations"
+    "title":
+      "en": "Hospitalizations"
+    "description":
+      "en": "Information about past and current hospitalizations (e.g. number of days\
+        \ hospitalized, year of hospitalization)"
+  - "name": "Use_labo_ambulatory_services"
+    "title":
+      "en": "Use of laboratory and ambulatory services"
+    "description":
+      "en": "Information about past and current use of lab services (e.g. blood tests,\
+        \ tensiometry) and ambulatory services (e.g. vaccination at a local health\
+        \ clinic)"
+  - "name": "Community_care"
+    "title":
+      "en": "Community care"
+    "description":
+      "en": "Information about past and current use of community care (e.g. meal delivery,\
+        \ nurse visiting at home)"
+- "name": "Reproduction"
+  "title":
+    "en": "Reproduction"
+  "description":
+    "en": "Information about current or past reproductive health."
+  "terms":
+  - "name": "Menstr_menop_andropause"
+    "title":
+      "en": "Menstruation, menopause and andropause"
+    "description":
+      "en": "Information regarding menstruation, menopause, andropause and related\
+        \ events (e.g. age at first menstruation, year of menopause start)."
+  - "name": "Contraception"
+    "title":
+      "en": "Contraception and family planning"
+    "description":
+      "en": "Information regarding contraception and family planning (e.g. methods\
+        \ of contraception used, years of family planning)."
+  - "name": "Pregnancy_delivery"
+    "title":
+      "en": "Pregnancy, labour, delivery, and postpartum characteristics"
+    "description":
+      "en": "Information regarding pregnancy, labour, delivery and postpartum includes\
+        \ information on normal outcomes (e.g. weeks of gestation, twin birth, APGAR\
+        \ score)."
+  - "name": "Gravidity_fertility"
+    "title":
+      "en": "Gravidity, pregnancy outcomes, parity (female) and fertility (male)"
+    "description":
+      "en": "Information regarding the number of times a women has been pregnant,\
+        \ regardless of pregnancy outcome (gravidity), the results of conception and\
+        \ ensuing pregnancy (e.g. number of spontaneous and induced abortions).\n\
+        Information regarding the number of children a female has born (parity) (e.g.\
+        \ number of live-born children) or a man has fathered (fertility) (e.g. number\
+        \ of children fathered)."
+  - "name": "Breastfeeding"
+    "title":
+      "en": "Breastfeeding"
+    "description":
+      "en": "Information regarding the mother’s nursing an infant at the breast (e.g.\
+        \ duration and frequency of breastfeeding)"
+  - "name": "Reprod_sexual_problems"
+    "title":
+      "en": "Reproductive and sexual problems related to conception"
+    "description":
+      "en": "Information regarding problems in the capacity to conceive or to induce\
+        \ conception. It refers to either males or females. See section Z30-Z39 Persons\
+        \ encountering health services in circumstances related to reproduction (http://apps.who.int/classifications/icd10/browse/2010/en#/Z30-Z39)."
+  - "name": "Other_reproductive"
+    "title":
+      "en": "Other reproductive health related information"
+    "description":
+      "en": "Information regarding other reproductive health issues."
