@@ -157,3 +157,176 @@ vocabularies:
       en: "Use of assistive devices"
     description:
       en: "Information about the use of assistive devices to enhance and increase independence in performing activities of daily living (e.g. glasses, hearing aids, crutches)."
+- name: "Diseases"
+  title:
+    en: "Diseases"
+  description:
+    en: "Refers to information about past and current disease as categorized in ICD-10"
+  terms:
+  - name: "Infectious_dis"
+    title:
+      en: "Certain infectious and parasitic diseases (A00-B99)"
+    description:
+      en: "Information about past and current infectious and parasitic diseases generally recognized as communicable or transmissible such as HIV/Aids, Malaria, Tuberculosis"
+  - name: "Neoplasms"
+    title:
+      en: "Neoplasms (C00-D48)"
+    description:
+      en: "Information about past and current cancers (e.g. benign and malignant neoplasms, in situ neoplasms)"
+  - name: "Blood_immune_dis"
+    title:
+      en: "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (D50-D89)"
+    description:
+      en: "Information about past and current diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (e.g. nutritional anaemias, coagulation defects, NOT HIV/Aids, NOT lupus, NOT allergies)"
+  - name: "Endocrine_metabolic_dis"
+    title:
+      en: "Endocrine, nutritional and metabolic diseases (E00-E90)"
+    description:
+      en: "Information about past and current endocrine, nutritional and metabolic diseases (e.g. diabetes, thyroid and metabolic disorders, malnutrition)"
+  - name: "Mental_behav_dis"
+    title:
+      en: "Mental and behavioural disorders (F00-F99)"
+    description:
+      en: "Information about past and current mental and behavioural disorders (e.g. schizophrenia, chronic PTSD, mood affective disorders, mental disorders from substance abuse)"
+  - name: "Nervous_sys_dis"
+    title:
+      en: "Diseases of the nervous system (G00-G99)"
+    description:
+      en: "Information about past and current diseases of the nervous system (e.g. Parkinson, Alzheimer Huntington, inflammatory diseases of the central nervous system)"
+  - name: "Eye_adnexa_dis"
+    title:
+      en: "Diseases of the eye and adnexa (H00-H59)"
+    description:
+      en: "Information about past and current diseases of the eye and adnexa (e.g. glaucoma, conjunctivitis, cataracts, strabism, low vision)"
+  - name: "Ear_mastoid_dis"
+    title:
+      en: "Diseases of the ear and mastoid process (H60-H95)"
+    description:
+      en: "Information about past and current diseases of the ear and mastoid process (e.g. otitis, mastoiditis, labyrinthitis, unspecified hearing loss)"
+  - name: "Circulatory_sys_dis"
+    title:
+      en: "Diseases of the circulatory system (I00-I99)"
+    description:
+      en: "Information about past and current diseases of the circulatory system (e.g. hypertension, ischaemic heart diseases, cerebrovascular diseases)"
+  - name: "Respiratory_sys_dis"
+    title:
+      en: "Diseases of the respiratory system (J00-J99)"
+    description:
+      en: "Information about past and current diseases of the respiratory system (e.g. asthma, bronchitis, emphysema, chronic obstructive pulmonary disease COPD, pneumonia, influenza)"
+  - name: "Digestive_sys_dis"
+    title:
+      en: "Diseases of the digestive system (K00-K93)"
+    description:
+      en: "Information about past and current diseases of the digestive system (e.g. Crohn, hepatitis, irritable bowel disease, cirrhosis, colitis)"
+  - name: "Skin_subcutaneous_dis"
+    title:
+      en: "Diseases of the skin and subcutaneous tissue (L00-L99)"
+    description:
+      en: "Information about past and current diseases of the skin and subcutaneous tissue (e.g. dermatitis, eczema, urticarial, erythema)"
+  - name: "Musculoskeletal_sys_dis"
+    title:
+      en: "Diseases of the musculoskeletal system and connective tissue (M00-M99)"
+    description:
+      en: "Information about past and current diseases of the musculoskeletal system and connective tissue (e.g. arthritis, arthrosis, lupus, low back pain)"
+  - name: "Genitourinary_sys_dis"
+    title:
+      en: "Diseases of the genitourinary system (N00-N99)"
+    description:
+      en: "Information about past and current diseases of the genitourinary system (e.g. renal failure, cystitis, UTI, prostate inflammation, mastitis, endometriosis)."
+  - name: "Pregnancy_childbirth"
+    title:
+      en: "Pregnancy, childbirth and the puerperium (O00-O9A)"
+    description:
+      en: "Information about conditions related to or aggravated by pregnancy, childbirth, or by puerperium (maternal causes or obstetric causes). Newborn information excluded here."
+  - name: "Perinatal_cond"
+    title:
+      en: "Certain conditions originating in the perinatal period (P00-P96)"
+    description:
+      en: "Information about effects of complications of pregnancy, labour and delivery on fetus and newborn. Birth traumas, disorders and infections specific to the perinatal period. Maternal information excluded here."
+  - name: "Cong_malform_chrom_abnor"
+    title:
+      en: "Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)"
+    description:
+      en: "Information about congenital malformations, deformations and chromosomal abnormalities (e.g. cleft lip and palate, spina bifida, aortic septal defect)."
+  - name: "Injury_poisoning"
+    title:
+      en: "Injury, poisoning and certain other consequences of external causes (S00-T98)"
+    description:
+      en: "Information about past and current injury, poisoning and certain other consequences of external causes (e.g. burns, fractures, cuts, corrosions, poisoning)."
+  - name: "Morbidity_mortality_ext"
+    title:
+      en: "External causes of morbidity and mortality (V01-Y98)"
+    description:
+      en: "Information about past and current external causes of morbidity and mortality (e.g. traffic injuries, falls, explosion, intentional self-harm)."
+  - name: "Other_dis"
+    title:
+      en: "Other diseases"
+    description:
+      en: ""
+- name: "Symptoms_signs"
+  title:
+    en: "Symptoms and signs"
+  description:
+    en: "Refers to information about the bodily experience of health."
+  terms:
+  - name: "Circulatory_respiratory_sympt"
+    title:
+      en: "Symptoms and signs involving the circulatory and respiratory systems (R00-R09)"
+    description:
+      en: "Information about past and current symptoms and signs involving the circulatory and respiratory systems (e.g. tachycardia, epistaxis, cough, wheezing)"
+  - name: "Digestive_sympt"
+    title:
+      en: "Symptoms and signs involving the digestive system and abdomen (R10-R19)"
+    description:
+      en: "Information about past and current symptoms and signs involving the digestive system and abdomen (e.g. nausea, vomiting, heartburn, bloating)"
+  - name: "Skin_subcut_sympt"
+    title:
+      en: "Symptoms and signs involving the skin and subcutaneous tissue (R20-R23)"
+    description:
+      en: "Information about past and current symptoms and signs involving the skin and subcutaneous tissue (e.g. local swellings, masses, lumps, cyanosis, flushing, desquamation)"
+  - name: "Nervous_musculoskeletal_sympt"
+    title:
+      en: "Symptoms and signs involving nervous and musculoskeletal systems (R25-R29)"
+    description:
+      en: "Information about past and current symptoms and signs involving the nervous and musculoskeletal systems (e.g. tremor, abnormal reflexes, cramps, spasms)"
+  - name: "Urinary_sympt"
+    title:
+      en: "Symptoms and signs involving the urinary system (R30-R39)"
+    description:
+      en: "Information about past and current symptoms and signs involving the urinary system (e.g. dysuria, retention of urine)"
+  - name: "Cognitive_perc_emotional_sympt"
+    title:
+      en: "Symptoms and signs involving cognition, perception, emotional state and behaviour (R40-R46)"
+    description:
+      en: "Information about past and current symptoms and signs involving cognition, perception, emotional state and behaviour (e.g. somnolence, dizziness, hallucinations, nervousness, hostility)"
+  - name: "Speech_voice_sympt"
+    title:
+      en: "Symptoms and signs involving speech and voice (R47-R49)"
+    description:
+      en: "Information about past and current symptoms and signs involving speech and voice (e.g. aphasia, dysphonia, hypernasality)"
+  - name: "General_sympt"
+    title:
+      en: "General symptoms and signs (R50-R69)"
+    description:
+      en: "Information about past and current general symptoms and signs (e.g. fever, headache, malaise and fatigue, lethargy, senility)"
+- name: "Medication_supplements"
+  title:
+    en: "Medication and supplements"
+  description:
+    en: "Refers to information about medication (whether prescribed or over the counter), including drugs and supplements (e.g. vitamins, plant extracts) used to treat or prevent diseases or to alleviate symptoms of disease."
+  terms:
+  - name: "Medication_suppl"
+    title:
+      en: "Medication and supplement intake"
+    description:
+      en: "Information regarding any drugs or medicines that treat, prevent or alleviate symptoms of a disease taken by the subject (e.g. Advil, chemotherapy, vitamin C, Ginseng)."
+  - name: "Adherence_medication"
+    title:
+      en: "Adherence to medication"
+    description:
+      en: "Information about the adherence to the protocol prescribed by the health care provider by the patient. It includes questions on time, frequency and quantity of medication taken by the subject."
+  - name: "Other_pharmacological_inter"
+    title:
+      en: "Other pharmacological interventions"
+    description:
+      en: "Information regarding a different type of pharmacological intervention such as vaccination."
