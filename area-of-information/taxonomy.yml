@@ -330,3 +330,106 @@ vocabularies:
       en: "Other pharmacological interventions"
     description:
       en: "Information regarding a different type of pharmacological intervention such as vaccination."
+- name: "Non_pharmacological_interventions"
+  title:
+    en: "Non-pharmacological interventions"
+  description:
+    en: "Refers to information about non-pharmacological interventions to treat or prevent diseases or to alleviate symptoms of disease."
+  terms:
+  - name: "Surgical_inter"
+    title:
+      en: "Surgical interventions"
+    description:
+      en: "Information regarding diagnostic, preventive or therapeutic surgical interventions (e.g. biopsy, removal of gall bladder)."
+  - name: "Radiological_inter"
+    title:
+      en: "Radiological interventions"
+    description:
+      en: "Information regarding diagnostic, preventive or therapeutic radiological interventions (e.g. x-rays, radiation treatment for cancer)."
+  - name: "Physical_inter"
+    title:
+      en: "Physical therapy interventions"
+    description:
+      en: "Information regarding preventive or therapeutic physical therapy interventions (e.g. physiotherapy, exercises)."
+  - name: "Cognitive_psycho_sensory_inter"
+    title:
+      en: "Cognitive, psychological and sensory interventions"
+    description:
+      en: "Information regarding preventive or therapeutic cognitive, psychological and sensory interventions (e.g. psychotherapy, aromatherapy, memory exercises)."
+  - name: "Educational_inter"
+    title:
+      en: "Educational and health promotion interventions"
+    description:
+      en: "Information regarding preventive or therapeutic educational and health promotion interventions (e.g. smoking cessation programs, prevention of infectious diseases programs)."
+  - name: "Other_non_pharmacological_inter"
+    title:
+      en: "Other non-pharmacological interventions"
+    description:
+      en: ""
+- name: "Health_community_care_utilization"
+  title:
+    en: "Health and community care utilization"
+  description:
+    en: "Information about health services utilization such as medical visits to a healthcare professional or hospitalizations"
+  terms:
+  - name: "Visit_health_prof"
+    title:
+      en: "Visits to health professionals"
+    description:
+      en: "Information about past and current visits at a general practitioner (family doctor), dentist or specialist (pediatric doctor, psychologist)"
+  - name: "Hospitalizations"
+    title:
+      en: "Hospitalizations"
+    description:
+      en: "Information about past and current hospitalizations (e.g. number of days hospitalized, year of hospitalization)"
+  - name: "Use_labo_ambulatory_services"
+    title:
+      en: "Use of laboratory and ambulatory services"
+    description:
+      en: "Information about past and current use of lab services (e.g. blood tests, tensiometry) and ambulatory services (e.g. vaccination at a local health clinic)"
+  - name: "Community_care"
+    title:
+      en: "Community care"
+    description:
+      en: "Information about past and current use of community care (e.g. meal delivery, nurse visiting at home)"
+- name: "Reproduction"
+  title:
+    en: "Reproduction"
+  description:
+    en: "Information about current or past reproductive health."
+  terms:
+  - name: "Menstr_menop_andropause"
+    title:
+      en: "Menstruation, menopause and andropause"
+    description:
+      en: "Information regarding menstruation, menopause, andropause and related events (e.g. age at first menstruation, year of menopause start)."
+  - name: "Contraception"
+    title:
+      en: "Contraception and family planning"
+    description:
+      en: "Information regarding contraception and family planning (e.g. methods of contraception used, years of family planning)."
+  - name: "Pregnancy_delivery"
+    title:
+      en: "Pregnancy, labour, delivery, and postpartum characteristics"
+    description:
+      en: "Information regarding pregnancy, labour, delivery and postpartum includes information on normal outcomes (e.g. weeks of gestation, twin birth, APGAR score)."
+  - name: "Gravidity_fertility"
+    title:
+      en: "Gravidity, pregnancy outcomes, parity (female) and fertility (male)"
+    description:
+      en: "Information regarding the number of times a women has been pregnant, regardless of pregnancy outcome (gravidity), the results of conception and ensuing pregnancy (e.g. number of spontaneous and induced abortions).\nInformation regarding the number of children a female has born (parity) (e.g. number of live-born children) or a man has fathered (fertility) (e.g. number of children fathered)."
+  - name: "Breastfeeding"
+    title:
+      en: "Breastfeeding"
+    description:
+      en: "Information regarding the mother’s nursing an infant at the breast (e.g. duration and frequency of breastfeeding)"
+  - name: "Reprod_sexual_problems"
+    title:
+      en: "Reproductive and sexual problems related to conception"
+    description:
+      en: "Information regarding problems in the capacity to conceive or to induce conception. It refers to either males or females. See section Z30-Z39 Persons encountering health services in circumstances related to reproduction (http://apps.who.int/classifications/icd10/browse/2010/en#/Z30-Z39)."
+  - name: "Other_reproductive"
+    title:
+      en: "Other reproductive health related information"
+    description:
+      en: "Information regarding other reproductive health issues."
