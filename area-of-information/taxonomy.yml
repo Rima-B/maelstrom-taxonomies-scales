@@ -538,8 +538,8 @@
       "en": "Reproductive and sexual problems related to conception"
     "description":
       "en": "Information regarding problems in the capacity to conceive or to induce\
-        \ conception. It refers to either males or females. See section Z30-Z39 Persons\
-        \ encountering health services in circumstances related to reproduction (http://apps.who.int/classifications/icd10/browse/2010/en#/Z30-Z39)."
+        \ conception. It refers to either males or females. See [section Z30-Z39](http://apps.who.int/classifications/icd10/browse/2010/en#/Z30-Z39) Persons\
+        \ encountering health services in circumstances related to reproduction."
   - "name": "Other_reproductive"
     "title":
       "en": "Other reproductive health related information"
