@@ -32,3 +32,9 @@ vocabularies:
     en: "Comment"
   description:
     en: "Detailed comments about the harmonization method"
+- name: "algorithm"
+  title:
+    en: "Algorithm"
+  description:
+    en: "Harmonization algorithm explanation"
+
