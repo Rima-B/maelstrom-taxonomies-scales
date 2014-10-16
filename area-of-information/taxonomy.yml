@@ -545,3 +545,306 @@
       "en": "Other reproductive health related information"
     "description":
       "en": "Information regarding other reproductive health issues."
+- "name": "Infancy_childhood"
+  "title":
+    "en": "Infancy and childhood"
+  "description":
+    "en": "Refers to information about infancy and childhood"
+  "terms":
+  - "name": "Newborn"
+    "title":
+      "en": "Newborn characteristics"
+    "description":
+      "en": "Information about characteristics at birth (e.g. birth weight and height, head circumference, gestational age)"
+  - "name": "Child_health"
+    "title":
+      "en": "Infant/child health"
+    "description":
+      "en": "Information about health at birth and during childhood (e.g. APGAR score, weight gain during infancy)"
+  - "name": "Child_nutrition"
+    "title":
+      "en": "Infant/ child nutrition"
+    "description":
+      "en": "Information about infant/child nutrition (e.g. frequency and duration of breastfeeding, months of introduction to solid foods, type of foods fed)"
+  - "name": "Child_development"
+    "title":
+      "en": "Infant/ child development"
+    "description":
+      "en": "Information about infant/child development (e.g. motor, cognitive, social-emotional and language development)"
+  - "name": "School_activities"
+    "title":
+      "en": "Daycare/school activities"
+    "description":
+      "en": "Information about day care or preschool attendance (frequency of day care attendance, participation in pre-school activities)"
+  - "name": "Other_child_info"
+    "title":
+      "en": "Other infant/child related information"
+    "description":
+      "en": "Information about other infant/child related information"
+- "name": "End_of_life"
+  "title":
+    "en": "End of life"
+  "description":
+    "en": "Refers to information about the end of life period"
+  "terms":
+  - "name": "Life_status"
+    "title":
+      "en": "Life status"
+    "description":
+      "en": "Information about the life status (e.g. alive, deceased)"
+  - "name": "Cause_death"
+    "title":
+      "en": "Cause of death"
+    "description":
+      "en": "Information about the cause of death (e.g. pneumonia, suicide)"
+  - "name": "Palliative_care"
+    "title":
+      "en": "Palliative care"
+    "description":
+      "en": "Information about palliative care (e.g. use of pain relief medication, psychological care)"
+  - "name": "Other_death"
+    "title":
+      "en": "Other death related information"
+    "description":
+      "en": ""
+- "name": "Physical_measures"
+  "title":
+    "en": "Physical measures"
+  "description":
+    "en": "Refers to the measurement of bodily functions. Information in this section is usually measured in standardized units."
+  "terms":
+  - "name": "Anthropo_measures"
+    "title":
+      "en": "Anthropometric measures"
+    "description":
+      "en": "Information about the past and current measurement of anthropometric structures (e.g. current height and weight) with no distinction between measured and self-reported values."
+  - "name": "Circulation_respiration"
+    "title":
+      "en": "Circulation and respiration"
+    "description":
+      "en": "Information about the past and current measurement of circulation and respiration (e.g. blood pressure, spirometry)"
+  - "name": "Muscles_skeleton_mobility"
+    "title":
+      "en": "Muscles, skeleton and mobility"
+    "description":
+      "en": "Information about the past and current measurement of muscles, movement and mobility (e.g. hand grip strength, timed 10-meter walk test, osteodensiometry)"
+  - "name": "Sensory_pain"
+    "title":
+      "en": "Sensory and pain"
+    "description":
+      "en": "Information about the past and current measurement of sensory functions (e.g. sight, hearing, smelling) and pain (e.g. visual analog scale for pain, eye exam-Snellen eye chart, hearing test)"
+  - "name": "Skin_subcutaneous"
+    "title":
+      "en": "Skin and subcutaneous tissue"
+    "description":
+      "en": "Information about the past and current measurement of the skin and subcutaneous tissue (e.g. skinfold caliper)"
+  - "name": "Speech_voice"
+    "title":
+      "en": "Speech and voice"
+    "description":
+      "en": "Information about the past and current measurement of speech and voice (e.g. pitch intensity profile)"
+  - "name": "Digestion"
+    "title":
+      "en": "Digestion"
+    "description":
+      "en": "Information about the past and current measurement of digestion"
+  - "name": "Reproduction"
+    "title":
+      "en": "Reproduction"
+    "description":
+      "en": "Information about the past and current measurement of reproductive function (e.g. number of eggs by ultrasound)"
+  - "name": "Other_phys_measures"
+    "title":
+      "en": "Other physical measures"
+    "description":
+      "en": "Information about the past and current measurement of other physical measures"
+- "name": "Cognitive_psychological_measures"
+  "title":
+    "en": "Cognition, personality and other psychological measures"
+  "description":
+    "en": "Refers to information about an individual’s cognition, personality and psychological functioning"
+  "terms":
+  - "name": "Cognitive_functioning"
+    "title":
+      "en": "Cognitive functioning"
+    "description":
+      "en": "Test-based measurement (in contrast to R40-46) of a person’s ability to remember, problem solve, work/respond quickly or their level of knowledge and verbal abilities."
+  - "name": "Psychological_emotional_distress"
+    "title":
+      "en": "Psychological distress and emotions"
+    "description":
+      "en": "Information about patterns of thoughts, feelings, and behaviors including traits (e.g. Neuroticism, Openness, Extraversion, Conscientiousness, Agreeableness) and Personality Action Constructs (e.g. locus of control, self-efficacy; optimism)"
+  - "name": "Personality"
+    "title":
+      "en": "Personality"
+    "description":
+      "en": "Information about mood collected by questionnaires (e.g. measured with the Beck Depression Inventory) rather than diagnosis (contrast to F00-F99)"
+  - "name": "Other_psycholog_measures"
+    "title":
+      "en": "Other psychological measures"
+    "description":
+      "en": "Information about life/work-satisfaction, perceived stress, other self-assessed positive/negative characteristics of life"
+- "name": "Laboratory_measures"
+  "title":
+    "en": "Laboratory measures"
+  "description":
+    "en": "Refers to measures of bodily functions for which a biological specimen was taken which was analyzed in a laboratory"
+  "terms":
+  - "name": "Hematology"
+    "title":
+      "en": "Hematology"
+    "description":
+      "en": "Information about blood characteristics such as the amount and function of blood cells and plasma (e.g. Complete Blood Count – CBC; platelets; hematocrit)"
+  - "name": "Biochemistry"
+    "title":
+      "en": "Biochemistry"
+    "description":
+      "en": "Information about chemical components of blood and other body fluids (e.g cholesterol, glucose, lipids, hormones)"
+  - "name": "Microbiology"
+    "title":
+      "en": "Microbiology"
+    "description":
+      "en": "Information about infectious elements in body fluids (e.g. bacteria, fungi or parasites)."
+  - "name": "Virology"
+    "title":
+      "en": "Virology"
+    "description":
+      "en": "Information about viral infections, either observed directly (e.g. Helicobacter pylori) or through an antibody (e.g. HIV, Anti HBc)."
+  - "name": "Immunology"
+    "title":
+      "en": "Immunology"
+    "description":
+      "en": "Information about the immune system from antibodies (e.g. IgE, IgA)"
+  - "name": "Toxicology"
+    "title":
+      "en": "Toxicology"
+    "description":
+      "en": "Information about toxic components in the blood (e.g. amphetamines, cocaine, lead)"
+  - "name": "Cytology"
+    "title":
+      "en": "Cytology"
+    "description":
+      "en": "Information about cells (e.g. structure, function, chemistry)"
+  - "name": "Genomics"
+    "title":
+      "en": "Genomics"
+    "description":
+      "en": "DNA analysis (e.g. anti dsADN, anti-nuclear antibody test – ANA)."
+  - "name": "Other_lab_measures"
+    "title":
+      "en": "Other laboratory measures"
+    "description":
+      "en": ""
+- "name": "Social_environment"
+  "title":
+    "en": "Social environment"
+  "description":
+    "en": "Refers to information about relationships and support given and received from the social environment"
+  "terms":
+  - "name": "Soc_network"
+    "title":
+      "en": "Social network"
+    "description":
+      "en": "Information about the composition of personal relationships (e.g. number of friends)."
+  - "name": "Soc_participation"
+    "title":
+      "en": "Social participation"
+    "description":
+      "en": "Information about an individual’s social involvement and interaction with others (e.g. volunteering, making donations, participating in recreational activities)."
+  - "name": "Soc_support"
+    "title":
+      "en": "Social support"
+    "description":
+      "en": "Information about the perception that one is cared for (e.g. emotional support and companionship), has assistance available from other people (e.g. access to information, financial and practical help) and is part of a supportive social network (e.g. has friends, family members to talk to or to ask for help; degree of integration in a network)."
+  - "name": "Life_events"
+    "title":
+      "en": "Life events and plans"
+    "description":
+      "en": "Information about major (e.g. child abuse, war, prison) and minor life events (e.g. home renovation) and plans (e.g. what to do after graduation, for retirement)."
+  - "name": "Other_soc_characteristics"
+    "title":
+      "en": "Other social environment characteristics"
+    "description":
+      "en": ""
+- "name": "Physical_environment"
+  "title":
+    "en": "Physical environment"
+  "description":
+    "en": "Refers to characteristics of the physical environment and physical or chemical exposures arising from this environment"
+  "terms":
+  - "name": "Housing"
+    "title":
+      "en": "Housing characteristics"
+    "description":
+      "en": "Information about characteristics of the house an individual lives in (e.g. year the house was built, heat source, presence of mold)"
+  - "name": "Neighborhood"
+    "title":
+      "en": "Built environment/ neighborhood"
+    "description":
+      "en": "Information about characteristics of the physical environment outside the home and workplace (e.g. residential density, proximity to parks) including available transportation"
+  - "name": "Workplace"
+    "title":
+      "en": "Workplace characteristics"
+    "description":
+      "en": "Information about physical characteristics of the workplace (e.g. address, building characteristics, ventilation, work inside/outside a building)"
+  - "name": "Radiation_exp"
+    "title":
+      "en": "Radiation exposure"
+    "description":
+      "en": "Information about exposure to radiation from sunlight (e.g. UV exposure), radio waves (e.g. mobile phone use, frequency of air travel)"
+  - "name": "Chemical_exp"
+    "title":
+      "en": "Chemical exposure"
+    "description":
+      "en": "Subject's exposure to chemicals by air, food or water (e.g. cigarette and wood smoke, solvents, pesticides)"
+  - "name": "Biological_exp"
+    "title":
+      "en": "Biological exposure"
+    "description":
+      "en": "Subject's exposure to biohazards (e.g. Ebola virus, chickenpox virus, ticks transmitting Lyme disease)"
+  - "name": "Allergens_exp"
+    "title":
+      "en": "Exposure to allergens"
+    "description":
+      "en": "Information about exposure to any type of allergens (e.g. pollen, latex, eggs, cat hair)"
+  - "name": "Other_environment"
+    "title":
+      "en": "Other physical environment characteristics"
+    "description":
+      "en": ""
+- "name": "Administrative_information"
+  "title":
+    "en": "Administrative information"
+  "description":
+    "en": "Refers to information about administrative data"
+  "terms":
+  - "name": "Identifiers"
+    "title":
+      "en": "Identifiers"
+    "description":
+      "en": "Information about administrative identification of an individual or group of individuals (e.g. participant, household, wave of data collection, sampling identifier)"
+  - "name": "Date_time_related_info"
+    "title":
+      "en": "Date and time"
+    "description":
+      "en": "Information about date and time of questionnaires filled and physical measures/bio samples taken"
+  - "name": "Questionnaire_interview_related_info"
+    "title":
+      "en": "Questionnaire / Interview related information"
+    "description":
+      "en": "Information about the questionnaire and/or the interview (e.g. language, version, section of the questionnaire, respondent, number of individuals present at interview, questionnaire administration mode, method of interview)."
+  - "name": "Physical_measure_biosamp_related_info"
+    "title":
+      "en": "Physical measure/ bio sample related information "
+    "description":
+      "en": "Information about the physical measure and bio sample collection (e.g. contextual information about the participant during assessment, bio banking information (number of cups collected, circumstances of specimen analysis), SOPs related information)."
+  - "name": "Data_sample_center"
+    "title":
+      "en": "Data and sample collection center characteristics"
+    "description":
+      "en": "Information about characteristics of the data and sample collection center (e.g. center identification number, interviewer number, number of steps to entrance, area where building is located)"
+  - "name": "Other_admin_info"
+    "title":
+      "en": "Other administrative information"
+    "description":
+      "en": "Other administrative information (e.g. indicator of participant’s withdrawal, reason for withdrawal)."
