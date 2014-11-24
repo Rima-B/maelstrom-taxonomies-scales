@@ -4,8 +4,8 @@
   "en": "Area of Information"
   "fr": "Domaines d'information"
 "description":
-  "en": "Area of Information classification by Maelstrom"
-  "fr": "Classement de Maelstrom par domaines d'information"
+  "en": "Variable classification developed by Maelstrom"
+  "fr": "Classification des variables développée par Maelstrom"
 "vocabularies":
 - "name": "Sociodemographic_economic_characteristics"
   "title":
