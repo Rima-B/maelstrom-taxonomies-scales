@@ -160,7 +160,8 @@ vocabularies:
     description:
       en: "Information about the use of assistive devices to enhance and increase independence in performing activities of daily living (e.g. glasses, hearing aids, crutches)."
   - name: "Other_health_status"
-    title: "Other information on health status"
+    title:
+      en:  "Other information on health status"
 - name: "Diseases"
   title:
     en: "Diseases"
