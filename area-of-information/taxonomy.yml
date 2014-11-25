@@ -89,7 +89,8 @@
   - "name": "Other_sociodemogr_chars"
     "title":
       "en": "Other socio-demographic and economic characteristics"
-    "description": {}
+    "description": 
+      "en": "Information about other socio-demographic and economic characteristics (e.g. being a twin)"
 - "name": "Lifestyle_behaviours"
   "title":
     "en": "Lifestyle and health behaviours"
@@ -154,9 +155,9 @@
         \ other than physical activity (e.g. reading, travelling, socializing, sudoku)."
   - "name": "Other_lifestyle"
     "title":
-      "en": "Other lifestyle information"
+      "en": "Other, unspecified, and lifestyle information that falls into several categories above"
     "description":
-      "en": ""
+      "en": "Information about other, unspecified lifestyle and health behaviours and information that falls into several categories (e.g. use of tobacco and alcohol)"
 - "name": "Health_status_functional_limitations"
   "title":
     "en": "Health status and functional limitations"
@@ -188,13 +189,15 @@
         \ instrumental activities of daily living (IADL) that people can get help\
         \ with but still live independently (e.g. cooking, driving, using the telephone\
         \ or computer, shopping, handling finances, managing medication)."
-  - "name": "Use _devices"
+  - "name": "Use_devices"
     "title":
       "en": "Use of assistive devices"
     "description":
       "en": "Information about the use of assistive devices to enhance and increase\
         \ independence in performing activities of daily living (e.g. glasses, hearing\
         \ aids, crutches)."
+  - "name": "Other_health_status"
+    "title": "Other information on health status"
 - "name": "Diseases"
   "title":
     "en": "Diseases"
@@ -233,9 +236,7 @@
     "title":
       "en": "Mental and behavioural disorders (F00-F99)"
     "description":
-      "en": "Information about past and current mental and behavioural disorders (e.g.\
-        \ schizophrenia, chronic PTSD, mood affective disorders, mental disorders\
-        \ from substance abuse)"
+      "en": "Information about past and current mental and behavioural disorders (e.g. dementia, schizophrenia, chronic PTSD, mood affective disorders, mental disorders from substance abuse)"
   - "name": "Nervous_sys_dis"
     "title":
       "en": "Diseases of the nervous system (G00-G99)"
@@ -328,9 +329,9 @@
         \ (e.g. traffic injuries, falls, explosion, intentional self-harm)."
   - "name": "Other_dis"
     "title":
-      "en": "Other diseases"
+      "en": "Diseases without precise specification or multiple categories"
     "description":
-      "en": ""
+      "en": "Information about past and current diseases without specification of exact disease (e.g. number of chronic diseases, unspecified diseases) or combination of diseases falling into different categories (e.g. developmental disability, such as autism, cerebral palsy, epilepsy or mental retardation)"
 - "name": "Symptoms_signs"
   "title":
     "en": "Symptoms and signs"
@@ -413,10 +414,9 @@
         \ quantity of medication taken by the subject."
   - "name": "Other_pharmacological_inter"
     "title":
-      "en": "Other pharmacological interventions"
+      "en": "Other and unspecified pharmacological interventions"
     "description":
-      "en": "Information regarding a different type of pharmacological intervention\
-        \ such as vaccination."
+      "en": "Information regarding other pharmacological interventions not mentioned above (e.g. vaccination) or unspecified pharmacological interventions."
 - "name": "Non_pharmacological_interventions"
   "title":
     "en": "Non-pharmacological interventions"
@@ -457,9 +457,9 @@
         \ infectious diseases programs)."
   - "name": "Other_non_pharmacological_inter"
     "title":
-      "en": "Other non-pharmacological interventions"
+      "en": "Other and unspecified non-pharmacological interventions"
     "description":
-      "en": ""
+      "en": "Information regarding other non-pharmacological interventions not mentioned above or unspecified non-pharmacological interventions."
 - "name": "Health_community_care_utilization"
   "title":
     "en": "Health and community care utilization"
@@ -492,6 +492,11 @@
     "description":
       "en": "Information about past and current use of community care (e.g. meal delivery,\
         \ nurse visiting at home)"
+  - "name": "Other_health_and_community_care"
+    "title":
+      "en": "Other health and community care utilization"
+    "description":
+      "en": "Information about past and current use of other health and community care institutions (e.g. group home, shelter)"
 - "name": "Reproduction"
   "title":
     "en": "Reproduction"
@@ -613,6 +618,11 @@
   "description":
     "en": "Refers to the measurement of bodily functions. Information in this section is usually measured in standardized units."
   "terms":
+  - "name": "Physical_chars"
+    "title":
+      "en": "Physical characteristics"
+    "description":
+      "en": "Information about the natural eye and hair colour, hand, foot and eye dominance."
   - "name": "Anthropo_measures"
     "title":
       "en": "Anthropometric measures"
@@ -632,7 +642,7 @@
     "title":
       "en": "Sensory and pain"
     "description":
-      "en": "Information about the past and current measurement of sensory functions (e.g. sight, hearing, smelling) and pain (e.g. visual analog scale for pain, eye exam-Snellen eye chart, hearing test)"
+      "en": "Information about the past and current measurement of sensory functions (e.g. sight, hearing, smelling) and pain (e.g. eye exam-Snellen eye chart, hearing test, visual analog scale for pain)"
   - "name": "Skin_subcutaneous"
     "title":
       "en": "Skin and subcutaneous tissue"
@@ -664,6 +674,11 @@
   "description":
     "en": "Refers to information about an individual’s cognition, personality and psychological functioning"
   "terms":
+  - "name": "Cogn_pers_emotions"
+    "title":
+      "en": "Cognition, personality and other psychological measures"
+    "description":
+      "en": "This category is for variables which need to be retagged by specialists later. Only those variables for which it is not clear to which category they belong can go here."
   - "name": "Cognitive_functioning"
     "title":
       "en": "Cognitive functioning"
@@ -720,6 +735,11 @@
       "en": "Toxicology"
     "description":
       "en": "Information about toxic components in the blood (e.g. amphetamines, cocaine, lead)"
+  - "name": "Histology"
+    "title":
+      "en": "Histology"
+    "description":
+      "en": "Information on microscopic anatomy of cells and tissues (e.g. Papanicolaou test, biopsy analysis)"
   - "name": "Cytology"
     "title":
       "en": "Cytology"
@@ -745,7 +765,7 @@
     "title":
       "en": "Social network"
     "description":
-      "en": "Information about the composition of personal relationships (e.g. number of friends)."
+      "en": "Information about the composition of personal relationships (e.g. number of friends, number of years since friends were made)."
   - "name": "Soc_participation"
     "title":
       "en": "Social participation"
@@ -765,7 +785,7 @@
     "title":
       "en": "Other social environment characteristics"
     "description":
-      "en": ""
+      "en": "Other information about the social environment (e.g. chores arrangement with spouse)"
 - "name": "Physical_environment"
   "title":
     "en": "Physical environment"
@@ -848,3 +868,85 @@
       "en": "Other administrative information"
     "description":
       "en": "Other administrative information (e.g. indicator of participant’s withdrawal, reason for withdrawal)."
+- "name": "Target"
+  "title":
+    "en": "Target"
+  "description":
+    "en": "Refers to the person the question is about."
+  "terms":
+  - "name": "Participant"
+    "title":
+      "en": "Participant"
+    "description":
+      "en": "Information requested in the question is about the study participant"
+  - "name": "Children"
+    "title":
+      "en": "Children"
+    "description":
+      "en": "Information requested in the question is about the study participant’s child/children"
+  - "name": "Parents"
+    "title":
+      "en": "Parents"
+    "description":
+      "en": "Information requested in the question is about the study participant’s parents"
+  - "name": "Grandparents"
+    "title":
+      "en": "Grandparents"
+    "description":
+      "en": "Information requested in the question is about the study participant’s grandparents"
+  - "name": "Siblings"
+    "title":
+      "en": "Siblings"
+    "description":
+      "en": "Information requested in the question is about the study participant’s siblings"
+  - "name": "Partner"
+    "title":
+      "en": "Participant’s partner"
+    "description":
+      "en": "Information requested in the question is about the study participant’s partner"
+  - "name": "Interviewer"
+    "title":
+      "en": "Interviewer"
+    "description":
+      "en": "Information requested in the question is about the study interviewer"
+  - "name": "Proxy"
+    "title":
+      "en": "Proxy"
+    "description":
+      "en": "Information requested in the question is about the study participant’s proxy"
+  - "name": "Other_target"
+    "title":
+      "en": "Other target"
+    "description":
+      "en": "Information requested in the question is about another person (i.e. study participant’s friends)."
+- "name": "Source"
+  "title":
+    "en": "Source"
+  "description":
+    "en": "Refers to the original document/way of data collection."
+  "terms":
+  - "name": "Questionnaire"
+    "title":
+      "en": "Questionnaire"
+    "description":
+      "en": "Information was collected in a questionnaire, either self-administrated or administrated by an interviewer."
+  - "name": "Phys_measure"
+    "title":
+      "en": "Physical measure"
+    "description":
+      "en": "Information was measured rather than reported by the participant. It can appear in the questionnaire but it needs to have a clear indication that it was measured to appear in this category."
+  - "name": "Biosample"
+    "title":
+      "en": "Biosample"
+    "description":
+      "en": "Information comes from a biological sample collected from the participant."
+  - "name": "Gov_data"
+    "title":
+      "en": "Governmental databases/registries"
+    "description":
+      "en": "Information comes from a governmental or hospital database or registry (i.e. death registries, birth registries)."
+  - "name": "Other_source"
+    "title":
+      "en": "Other source"
+    "description":
+      "en": "Information comes from another source, not mentioned before"
