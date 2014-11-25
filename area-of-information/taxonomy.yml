@@ -5,7 +5,7 @@ title:
 description:
   en: "Variable classification developed by Maelstrom"
   fr: "Classification des variables développée par Maelstrom"
-"vocabularies":
+vocabularies:
 - name: "Sociodemographic_economic_characteristics"
   title:
     en: "Socio-demographic and economic characteristics"
