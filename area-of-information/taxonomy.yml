@@ -1,4 +1,3 @@
-!!org.obiba.opal.core.domain.taxonomy.Taxonomy
 "name": "Mlstr_area"
 "title":
   "en": "Area of Information"
@@ -89,7 +88,7 @@
   - "name": "Other_sociodemogr_chars"
     "title":
       "en": "Other socio-demographic and economic characteristics"
-    "description": 
+    "description":
       "en": "Information about other socio-demographic and economic characteristics (e.g. being a twin)"
 - "name": "Lifestyle_behaviours"
   "title":
@@ -157,7 +156,8 @@
     "title":
       "en": "Other, unspecified, and lifestyle information that falls into several categories above"
     "description":
-      "en": "Information about other, unspecified lifestyle and health behaviours and information that falls into several categories (e.g. use of tobacco and alcohol)"
+      "en": "Information about other, unspecified lifestyle and health behaviours and\
+      \ information that falls into several categories (e.g. use of tobacco and alcohol)"
 - "name": "Health_status_functional_limitations"
   "title":
     "en": "Health status and functional limitations"
