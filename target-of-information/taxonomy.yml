@@ -1,0 +1,59 @@
+name: "Mlstr_target"
+title:
+  en: "Target of Information"
+  fr: "Cible d'information"
+description:
+  en: "Variable classification developed by Maelstrom"
+  fr: "Classification des variables développée par Maelstrom"
+vocabularies:
+- name: "Target"
+  title:
+    en: "Target"
+  description:
+    en: "Refers to the person the question is about."
+  terms:
+  - name: "Participant"
+    title:
+      en: "Participant"
+    description:
+      en: "Information requested in the question is about the study participant"
+  - name: "Children"
+    title:
+      en: "Children"
+    description:
+      en: "Information requested in the question is about the study participant’s child/children"
+  - name: "Parents"
+    title:
+      en: "Parents"
+    description:
+      en: "Information requested in the question is about the study participant’s parents"
+  - name: "Grandparents"
+    title:
+      en: "Grandparents"
+    description:
+      en: "Information requested in the question is about the study participant’s grandparents"
+  - name: "Siblings"
+    title:
+      en: "Siblings"
+    description:
+      en: "Information requested in the question is about the study participant’s siblings"
+  - name: "Partner"
+    title:
+      en: "Participant’s partner"
+    description:
+      en: "Information requested in the question is about the study participant’s partner"
+  - name: "Interviewer"
+    title:
+      en: "Interviewer"
+    description:
+      en: "Information requested in the question is about the study interviewer"
+  - name: "Proxy"
+    title:
+      en: "Proxy"
+    description:
+      en: "Information requested in the question is about the study participant’s proxy"
+  - name: "Other_target"
+    title:
+      en: "Other target"
+    description:
+      en: "Information requested in the question is about another person (i.e. study participant’s friends)."
