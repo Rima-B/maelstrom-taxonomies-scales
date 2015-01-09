@@ -326,7 +326,7 @@ vocabularies:
     title:
       en: "Diseases without precise specification or related to multiple categories"
       fr: "Maladies sans spécification précise ou en lien avec de multiples catégories"
-description:
+    description:
       en: "Information about past and current diseases without specification of exact disease (e.g. number of chronic diseases, unspecified diseases) or combination of diseases falling into different categories (e.g. developmental disability, such as autism, cerebral palsy, epilepsy or mental retardation)."
 - name: "Symptoms_signs"
   title:
