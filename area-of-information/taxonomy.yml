@@ -185,7 +185,7 @@ vocabularies:
       en: "Information about past and current the quality of life (e.g. Quality of life scales, WHOQOL-BREF)."
   - name: "Act_daily_living"
     title:
-      an: "Functional activities"
+      en: "Functional activities"
       fr: "Activités fonctionnelles"
     description:
       en: "Information about functional activities that involve caring for and moving the body (e.g. walking, bathing, dressing, toileting, eating, i.e. ADL) and instrumental activities of daily living (IADL) that people can get help with but still live independently (e.g. cooking, driving, using the telephone or computer, shopping, handling finances, managing medication). Also see the 'Use of assistive devices' category."
