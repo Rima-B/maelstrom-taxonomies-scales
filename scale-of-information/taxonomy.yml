@@ -1,0 +1,203 @@
+name: "Mlstr_scale"
+title:
+  en: "Composite measures"
+  fr: "Mesures composées"
+description:
+  en: "Refers to composite measures of psychological, physical and laboratory tests."
+  fr: "Réfère aux mesures composées de tests psychologiques, physiques et de laboratoire."
+vocabularies:
+- name: "Cognitive measures"
+  title:
+    en: "Cognitive measures"
+    fr: "Mesures cognitives"
+  description:
+    en: "Information about composite measures (scales, scores) of cognitive tests."
+    fr: "Information au sujet de mesures composées (échelles) de tests cognitifs."
+  terms:
+  - name: "Blessed_Dementia"
+    title:
+      en: "Blessed"
+    description:
+      en: "Blessed Dementia Scale"
+  - name: "Clin_Dementia"
+    title:
+      en: "Clinical Dementia"
+    description:
+      en: "Clinical Dementia Rating"
+  - name: "Boston_Naming"
+    title:
+      en: "Boston Naming"
+    description:
+      en: "Boston Naming Test"
+  - name: "Clock_Drawing"
+    title:
+      en: "Clock Drawing"
+    description:
+      en: "Clock Drawing Test"
+  - name: "Diag_Illiterarcy"
+    title:
+      en: "Diagnostic Illiteracy"
+    description:
+      en: "Diagnostic Illiteracy Scale"
+  - name: "Exec_Funct"
+    title:
+      en: "Executive Function"
+    description:
+      en: "Executive Function Test"
+  - name: "Judge_Line"
+    title:
+      en: "Judgement of line"
+    description:
+      en: "Judgement of line orientation test"
+  - name: "Complex_fig"
+    title:
+      en: "Complex figures memory"
+    description:
+      en: "Medical College of Georgia Complex figures in repeated memory test"
+  - name: "MMSE"
+    title:
+      en: "MMSE"
+    description:
+      en: "Mini_mental State Examination (MMSE)"
+  - name: "NPI"
+    title:
+      en: "NPI"
+    description:
+      en: "Neuropsychatric Inventory (NPI)"
+  - name: "Repet"
+    title:
+      en: "Repetition"
+    description:
+      en: "Repetition test"
+  - name: "FC"
+    title:
+      en: "FC"
+    description:
+      en: "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
+  - name: "SMC"
+    title:
+      en: "SMC"
+    description:
+      en: "Subjective memory complaints (SMC)"
+  - name: "Hachinski"
+    title:
+      en: "Hachinski"
+    description:
+      en: "Hachinski Ischaemic Score (HIS)"
+  - name: "Trail"
+    title:
+      en: "Trail Making"
+    description:
+      en: "Trail Making Test (TMT)"
+  - name: "Verb_fluency"
+    title:
+      en: "Verbal fluency"
+    description:
+      en: "Verbal fluency test"
+  - name: "Verb_learning"
+    title:
+      en: "Verbal lerning"
+    description:
+      en: "Verbal learning test"
+- name: "Personality measures"
+  title:
+  en: "Personality measures"
+  fr: "Mesures de personalité"
+  description:
+    en: "Information about composite measures (scales, scores) of personality tests."
+    fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
+  terms:
+  - name: "MMSE"
+    title:
+      en: "MMSE"
+      fr: "MMSE"
+    description:
+      en: "(MMSE)"
+- name: "Measures of emotional distress"
+  title:
+    en: "Measures of emotional distress"
+    fr: "Mesures de détresse émotionnelle"
+  description:
+    en: "Information about composite measures (scales, scores) of emotional distress tests."
+    fr: "Information au sujet de mesures composées (échelles) de tests de détresse émotionnelle."
+  terms:
+  - name: "Geriatric_Dep"
+    title:
+      en: "Geriatric Depression"
+    description:
+      en: "Geriatric Depression Scale (short form)"
+  - name: "Hosp_Anx"
+    title:
+      en: "Hospital Anxiety and Depression"
+    description:
+      en: "Hospital Anxiety and Depression Scale (HADS)"
+- name: "Other psychological measures"
+  title:
+    en: "Other psychological measures"
+    fr: "Autres mesures psychologiques"
+  description:
+    en: "Information about other composite measures (scales, scores) of psychological tests."
+    fr: "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
+  terms:
+  - name: "MMSE"
+    title:
+      en: "MMSE"
+      fr: "MMSE"
+    description:
+      en: "(MMSE)"
+- name: "Physical measures"
+  title:
+    en: "Physical measures"
+    fr: "Mesures physiques"
+  description:
+    en: "Refers to the measurement of bodily functions. Usually measured in standardized units."
+    fr: "Réfère à la mesure de fonctions corporelles. Généralement mesuré en unités standardisés."
+  terms:
+  - name: "BMI"
+    title:
+      en: "BMI"
+    description:
+      en: "Body Mass Index (BMI)"
+  - name: "Dynamo"
+    title:
+      en: "Dynamometer"
+    description:
+      en: "Dynamometer"
+  - name: "HAPAQ"
+    title:
+      en: "HAPAQ"
+    description:
+      en: "Historical Adulthood Physical Activity Questionnaire (HAPAQ)"
+  - name: "Phys_act"
+    title:
+      en: "Physical Activity"
+    description:
+      en: "Self-reported physical activity"
+  - name: "Restless"
+    title:
+      en: "Restless Legs"
+    description:
+      en: "Restless Legs Syndrome Rating Scale"
+  - name: "UPDRS"
+    title:
+      en: "Unified Parkinson"
+    description:
+      en: "Unified Parkinson Disease Rating Scale (UPDRS)"
+- name: "(Instrumental) Activities of Daily Living"
+  title:
+    en: "(Instrumental) Activities of Daily Living"
+  description:
+    en: "(Instrumental) Activities of Daily Living"
+  terms:
+  - name: "ADL_IADL"
+    title:
+      en: "Lawton IADL"
+    description:
+      en: "Lawton Instrumental Activities of Daily Living (IADL)"
+- name: "Laboratory measures"
+  title:
+    en: "Laboratory measures"
+    fr: "Mesures de laboratoire"
+  description:
+    en: "Refers to measures of bodily functions for which a biological specimen was taken which was analyzed in a laboratory."
+    fr: "Réfère aux mesures de fonctions corporelles pour lesquels un échantillon biologique a été prélevé et analysé en laboratoire."
