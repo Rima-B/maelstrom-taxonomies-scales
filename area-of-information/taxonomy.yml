@@ -3,15 +3,15 @@ title:
   en: "Areas of Information"
   fr: "Aires d'information"
 description:
-  en: "Variable classification developed by Maelstrom"
-  fr: "Classification des variables développée par Maelstrom"
+  en: "Information classification developed by Maelstrom"
+  fr: "Classification des informations développée par Maelstrom"
 vocabularies:
 - name: "Sociodemographic_economic_characteristics"
   title:
     en: "Socio-demographic and economic characteristics"
     fr: "Caractéristiques socio-démographiques et économiques"
   description:
-    en: "Refers to sociodemographic or socioeconomic characteristics of an individual."
+    en: "Refers to sociodemographic and economic characteristics of an individual."
   terms:
   - name: "Age"
     title:
@@ -24,7 +24,13 @@ vocabularies:
       en: "Sex/gender"
       fr: "Sexe/genre"
     description:
-      en: "Information about the sex (e.g. biological characteristics) or the gender (social role related to sex adopted by the individual)."
+      en: "Information about the sex (e.g. biological characteristics) or the gender (social role related to sex adopted by the individual) (e.g. sexual orientation)."
+  - name: "Twin"
+    title:
+      en: "Twin"
+      fr: "Jumeau"
+    description:
+      en: "Information about the fact of being a twin (e.g. zygosity 'being a twin' - identical or not)."
   - name: "Marital_status"
     title:
       en: "Marital/partner status"
@@ -90,7 +96,7 @@ vocabularies:
       en: "Other socio-demographic and economic characteristics"
       fr: "Autres caractéristiques socio-démographiques et économiques"
     description:
-      en: "Information about other socio-demographic and economic characteristics (e.g. zygosity 'being a twin' - identical or not, being adopted)."
+      en: "Information about other socio-demographic and economic characteristics (e.g. being adopted)."
 - name: "Lifestyle_behaviours"
   title:
     en: "Lifestyle and health behaviours"
@@ -121,7 +127,7 @@ vocabularies:
       en: "Nutrition"
       fr: "Nutrition"
     description:
-      en: "Information about the consumption of food excluding vitamins and supplements (e.g. type, quantity and frequency of food intake) and associated behaviours."
+      en: "Information about the consumption of food excluding vitamins and supplements (e.g. type, quantity and frequency of food intake) and associated behaviours. See also Sect. 10 “Birth, infancy and childhood”, under ‘Newborn/Infant nutrition' for information about being breastfed and baby foods."
   - name: "Phys_act"
     title:
       en: "Physical activity"
@@ -145,7 +151,7 @@ vocabularies:
       en: "Sleep"
       fr: "Sommeil"
     description:
-      en: "Information about the type, frequency and intensity of sleep behaviours (e.g. hours of sleep, quality of sleep). Also see the 'Physical activity' category."
+      en: "Information about the type, frequency and intensity of sleep behaviours (e.g. hours of sleep, quality of sleep). Also see the ‘Physical activity' category."
   - name: "Sex_behav"
     title:
       en: "Sexual behaviours"
@@ -157,7 +163,7 @@ vocabularies:
       en: "Leisure activities"
       fr: "Activités de loisir"
     description:
-      en: "Information about the type, frequency and intensity of leisure activities other than physical activity (e.g. reading, travelling, socializing, sudoku)."
+      en: "Information about the type, frequency and intensity of leisure activities other than physical activity (e.g. reading, travelling, socializing, Sudoku)."
   - name: "Other_lifestyle"
     title:
       en: "Other information on lifestyle"
@@ -188,7 +194,7 @@ vocabularies:
       en: "Functional activities"
       fr: "Activités fonctionnelles"
     description:
-      en: "Information about functional activities that involve caring for and moving the body (e.g. walking, bathing, dressing, toileting, eating, i.e. ADL) and instrumental activities of daily living (IADL) that people can get help with but still live independently (e.g. cooking, driving, using the telephone or computer, shopping, handling finances, managing medication). Also see the 'Use of assistive devices' category."
+      en: "Information about functional activities that involve caring for and moving the body (e.g. walking, bathing, dressing, toileting, eating, i.e. ADL) and instrumental activities of daily living (IADL) that people can get help with but still live independently (e.g. cooking, driving, using the telephone or computer, shopping, handling finances, managing medication). Also see the ‘Use of assistive devices' category."
   - name: "Use_devices"
     title:
       en: "Use of assistive devices"
@@ -247,7 +253,7 @@ vocabularies:
   - name: "Eye_adnexa_dis"
     title:
       en: "Eye and adnexa (H00-H59)"
-      fr: "Maladies de l'oeil et de ses annexes (H00-H59)"
+      fr: "Maladies de l'œil et de ses annexes (H00-H59)"
     description:
       en: "Information about past and current diseases of the eye and adnexa (e.g. glaucoma, conjunctivitis, cataracts, strabismus, low vision)."
   - name: "Ear_mastoid_dis"
@@ -267,7 +273,7 @@ vocabularies:
       en: "Respiratory system (J00-J99)"
       fr: "Maladies de l'appareil respiratoire (J00-J99)"
     description:
-      en: "Information about past and current diseases of the respiratory system (e.g. asthma, bronchitis, emphysema, chronic obstructive pulmonary disease COPD, pneumonia, influenza, nasopharyngitis, rhinopharyngitis - 'common cold')."
+      en: "Information about past and current diseases of the respiratory system (e.g. asthma, bronchitis, emphysema, chronic obstructive pulmonary disease COPD, pneumonia, influenza, nasopharyngitis, rhinopharyngitis - “common cold”)."
   - name: "Digestive_sys_dis"
     title:
       en: "Digestive system (K00-K93)"
@@ -327,7 +333,7 @@ vocabularies:
       en: "Diseases without precise specification or related to multiple categories"
       fr: "Maladies sans spécification précise ou en lien avec de multiples catégories"
     description:
-      en: "Information about past and current diseases without specification of exact disease (e.g. number of chronic diseases, unspecified diseases) or combination of diseases falling into different categories (e.g. developmental disability, such as autism, cerebral palsy, epilepsy or mental retardation)."
+      en: "Information about past and current diseases without specification of exact disease (e.g. number of chronic diseases, unspecified diseases) or combination of diseases falling into different categories (e.g. do you have a diagnostic of Alzheimer or dementia? Developmental disability, such as autism, cerebral palsy, epilepsy or mental retardation)."
 - name: "Symptoms_signs"
   title:
     en: "Symptoms and signs"
@@ -370,7 +376,7 @@ vocabularies:
       en: "Cognition, perception, emotional state and behaviour (R40-R46)"
       fr: "Connaissance, perception, humeur et comportement (R40-R46)"
     description:
-      en: "Information about past and current symptoms and signs involving cognition, perception, emotional state and behaviour (e.g. somnolence, dizziness, hallucinations, nervousness, hostility)."
+      en: "Information about past and current symptoms and signs involving cognition, perception, emotional state and behaviour (e.g. somnolence, dizziness, hallucinations, nervousness, hostility). Also see Sect. 13 Cognition, personality and other psychological measures."
   - name: "Speech_voice_sympt"
     title:
       en: "Speech and voice (R47-R49)"
@@ -398,11 +404,11 @@ vocabularies:
   terms:
   - name: "Medication_suppl"
     title:
-      en: "Medication"
-      fr: "Médicaments"
+      en: "Medication and suppléments"
+      fr: "Médicaments et suppléments"
     description:
       en: "Information about any drugs or medicines that treat, prevent or alleviate symptoms of a disease taken by the subject (e.g. Advil, chemotherapy, vitamin C, Ginseng, nicotine patches)."
-  - name: "Posology"
+  - name: "Posology_protocol"
     title:
       en: "Posology and protocol of administration"
       fr: "Posologie et protocol d'administration"
@@ -413,7 +419,7 @@ vocabularies:
       en: "Other and unspecified pharmacological interventions"
       fr: "Autres interventions pharmacologiques"
     description:
-      en: "Information regarding other pharmacological interventions not mentioned above (e.g. vaccination) or unspecified pharmacological interventions."
+      en: "Information regarding other pharmacological interventions not mentioned above (e.g. vaccination) or unspecified pharmacological interventions (e.g. sun screen)."
 - name: "Non_pharmacological_interventions"
   title:
     en: "Non-pharmacological interventions"
@@ -518,13 +524,13 @@ vocabularies:
       en: "Pregnancy, labour, delivery, and postpartum characteristics"
       fr: "Grossesse, travail, accouchement et caractéristiques postpartum"
     description:
-      en: "Information about pregnancy, labour, delivery and postpartum includes information about normal outcomes (e.g. weeks of gestation, twin birth, APGAR score)."
+      en: "Information about pregnancy, labour, delivery and postpartum includes information about normal outcomes (e.g. weeks of gestation, expecting/giving birth to twins, APGAR score)."
   - name: "Gravidity_fertility"
     title:
       en: "Gravidity, pregnancy outcomes, parity (female) and fertility (male)"
       fr: "Grossesse et ses résultats, parité (femmes) et fertilité (hommes)"
     description:
-      en: "Information about the number of times a women has been pregnant, regardless of pregnancy outcome (gravidity), the results of conception and ensuing pregnancy (e.g. number of spontaneous and induced abortions). Information about the number of children a female has born (parity) (e.g. number of live-born children) or a man has fathered (fertility) (e.g. number of children fathered)."
+      en: "Information about the number of times a women has been pregnant (gravidity), regardless of pregnancy outcome, the results of conception and ensuing pregnancy (e.g. number of spontaneous and induced abortions). Information about the number of children a female has born (parity) (e.g. number of live-born children) or a man has fathered (fertility) (e.g. number of children fathered)."
   - name: "Breastfeeding"
     title:
       en: "Breastfeeding"
@@ -545,47 +551,47 @@ vocabularies:
       en: "Information about other reproductive health issues."
 - name: "Infancy_childhood"
   title:
-    en: "Infancy and childhood"
-    fr: "Petite enfance et enfance"
+    en: "Birth, infancy and childhood"
+    fr: "Naissance, petite enfance et enfance"
   description:
-    en: "Refers to information about infancy and childhood."
+    en: "Infancy refers to the period between birth and the first 12 months of life. Childhood refers to the period between the first year of life (after 12 months) to the end of elementary school (approx. age 12)."
   terms:
   - name: "Newborn"
     title:
-      en: "Newborn characteristics"
-      fr: "Caractéristiques du nouveau-né"
+      en: "Newborn/infant characteristics"
+      fr: "Caractéristiques du nouveau-né et bébé"
     description:
-      en: "Information about characteristics at birth (e.g. birth weight and height, head circumference, gestational age)."
-  - name: "Child_health"
+      en: "Information about characteristics at birth (e.g. gestational age, APGAR score, birth weight and height, head circumference, being a twin)."
+  - name: "Newborn_nutrition"
     title:
-      en: "Infant/child health"
-      fr: "Santé du bébé/enfant"
+      en: "Newborn/infant nutrition"
+      fr: "Nutrition du nouveau-né et bébé"
     description:
-      en: "Information about health at birth and during childhood (e.g. APGAR score, weight gain during infancy, weight during childhood)."
-  - name: "Child_nutrition"
-    title:
-      en: "Infant/child nutrition"
-      fr: "Nutrition du bébé/enfant"
-    description:
-      en: "Information about infant/child nutrition (e.g. frequency and duration of breastfeeding, months of introduction to solid foods, type of foods fed)."
+      en: "Information about newborn/infant nutrition (e.g. frequency and duration of breastfeeding, months of introduction to solid foods, type of foods fed). Also see Sect. 2 'Lifestyle and health behaviours', under 'Nutrition'."
   - name: "Child_development"
     title:
-      en: "Infant/child development"
-      fr: "Développement du bébé/enfant"
+      en: "Newborn/infant development"
+      fr: "Développement du nouveau-né et bébé"
     description:
-      en: "Information about infant/child development (e.g. motor, cognitive, social-emotional and language development)."
-  - name: "School_activities"
+      en: "Information about newborn/infant development (e.g. motor, cognitive, social-emotional and language development). Also see Sect. 13 'Cognition, personality and other psychological measures' for information about developmental measures."
+  - name: "Newborn_daycare"
     title:
-      en: "Daycare/school activities"
-      fr: "Activités à la garderie/école"
+      en: "Newborn/infant daycare"
+      fr: "Types de garde du nouveau-né et bébé"
     description:
-      en: "Information about day care or preschool attendance (e.g. frequency of day care attendance, participation in pre-school activities)."
+      en: "Information about newborn/infant daycare (e.g. frequency of day care attendance, type of daycare)."
+  - name: "Child_school"
+    title:
+      en: "Child daycare/school activities"
+      fr: "Activités à la garderie/école de l'enfant"
+    description:
+      en: "Information about child day care, preschool and school attendance (e.g. frequency of day care attendance, participation in pre-school activities). See Sect. 13 'Cognition, personality and other psychological measures', under 'Other' for subjective measures of school performance."
   - name: "Other_child_info"
     title:
       en: "Other infant/child related information"
       fr: "Autres informations en lien avec le bébé/enfant"
     description:
-      en: "Information about other infant/child related information (e.g. adoption, being a twin)."
+      en: "Information about other infant/child related information (e.g. adoption)."
 - name: "End_of_life"
   title:
     en: "End of life"
@@ -593,7 +599,7 @@ vocabularies:
   description:
     en: "Refers to information about the end of life period."
   terms:
-  - name: "Vital_status"
+  - name: "Life_status"
     title:
       en: "Vital status"
       fr: "Statut vital"
@@ -622,7 +628,7 @@ vocabularies:
     en: "Physical measures"
     fr: "Mesures physiques"
   description:
-    en: "Refers to the measurement of bodily functions. Information in this section is usually measured in standardized units."
+    en: "Refers to the measurement of bodily functions. Information in this section is usually measured in standardized units. See Sect. 17 “Administrative information” for measure related information (e.g. date of test, arm used)."
   terms:
   - name: "Physical_chars"
     title:
@@ -654,6 +660,12 @@ vocabularies:
       fr: "Système sensoriel et douleur"
     description:
       en: "Information about the current measurement of sensory functions (e.g. sight, hearing, smelling) and pain (e.g. eye exam-Snellen eye chart, hearing test, visual analog scale for pain, pain yes/no)."
+  - name: "Brain_nerves"
+    title:
+      en: "Brain and nerves"
+      fr: "Cerveau et nerfs"
+    description:
+      en: "Information about the current measurement of the central (brain and spinal cord) and peripheral nervous system's (nerves) function (e.g. electrical impulse detection (EEG, EMG) and imaging tests (CT, PET MRI scans)."
   - name: "Skin_subcutaneous"
     title:
       en: "Skin and subcutaneous tissue"
@@ -683,26 +695,26 @@ vocabularies:
       en: "Other physical measures"
       fr: "Autres mesures physiques"
     description:
-      en: "Information about the current measurement of other physical measures."
+      en: "Information about the current measurement of other physical measures (e.g. activity, sleep, wake and light-exposure measurement with Actiwatch)."
 - name: "Cognitive_psychological_measures"
   title:
     en: "Cognition, personality and other psychological measures"
     fr: "Cognition, personalité et autres mesures psychologiques"
   description:
-    en: "Refers to information about an individual's cognition, personality and psychological functioning."
+    en: "Refers to information about an individual's cognition, personality and psychological functioning. See Sect. 17 “Administrative information” for measure related information (e.g. date of test)."
   terms:
   - name: "Cognitive_functioning"
     title:
       en: "Cognitive functioning"
       fr: "Fonctionnement cognitif"
     description:
-      en: "Test-based measurement (in contrast to R40-46) of a person's ability to remember, solve problems, work/respond quickly or their level of knowledge and verbal abilities."
+      en: "Test-based measurement (in contrast to R40-46) of a person's ability to remember, solve problems, work/respond quickly or their level of knowledge and verbal abilities. . Also see Sect. 5 “Symptoms and signs”, under ‘cognition, perception, emotional state and behaviour (R40-R46)', for questions about memory problems not involving measurement (symptoms)."
   - name: "Psychological_emotional_distress"
     title:
       en: "Psychological distress and emotions"
       fr: "Détresse psychologique et émotions"
     description:
-      en: "Information about patterns of thoughts, feelings, and behaviors including traits (e.g. Neuroticism, Openness, Extraversion, Conscientiousness, Agreeableness) and Personality Action Constructs (e.g. locus of control, self-efficacy; optimism)."
+      en: "Information about patterns of thoughts, feelings, and behaviors including traits (e.g. Neuroticism, Openness, Extraversion, Conscientiousness, Agreeableness) and Personality Action Constructs (e.g. locus of control, self-efficacy; optimism). Also see Sect. 5 “Symptoms and signs”, under ‘cognition, perception, emotional state and behaviour (R40-R46)', for questions about memory problems not involving measurement (symptoms)."
   - name: "Personality"
     title:
       en: "Personality"
@@ -714,13 +726,13 @@ vocabularies:
       en: "Other psychological measures"
       fr: "Autres mesures psychologiques"
     description:
-      en: "Information about life/work-satisfaction, perceived stress, other self-assessed positive/negative characteristics of life."
+      en: "Information about life/work-satisfaction, perceived stress, subjective assessment of school/work performance, other self-assessed positive/negative characteristics of life."
 - name: "Laboratory_measures"
   title:
     en: "Laboratory measures"
     fr: "Mesures de laboratoire"
   description:
-    en: "Refers to measures of bodily functions for which a biological specimen was taken which was analyzed in a laboratory."
+    en: "Refers to measures of bodily functions for which a biological specimen was taken which was analyzed in a laboratory. See Sect. 17 “Administrative information” for measure related information (e.g. date of test, arm used)."
   terms:
   - name: "Hematology"
     title:
@@ -806,7 +818,7 @@ vocabularies:
       en: "Social support"
       fr: "Soutien social"
     description:
-      en: "Information about the perception that one is cared for (e.g. emotional support and companionship), has assistance available from other people (e.g. access to information, financial and practical help) and is part of a supportive social network (e.g. has friends, family members to talk to or to ask for help; degree of integration in a network)."
+      en: "Information about the perception that one is cared for (e.g. emotional support and companionship), has assistance available from other people (e.g. access to information, financial and practical help) and is part of a supportive social network (e.g. has friends, family members to talk to or to ask for help; degree of integration in a network). The support can be given or received and is based on a personal relationship."
   - name: "Life_events"
     title:
       en: "Life events and plans"
@@ -834,7 +846,7 @@ vocabularies:
       en: "Information about characteristics of the house an individual lives in (e.g. year the house was built, heat source, presence of mold)."
   - name: "Neighborhood"
     title:
-      en: "Built environment/neighborhood characteristics"
+      en: "Built environment/neighbourhood characteristics"
       fr: "Caractéristiques de l'environnement bâti et du quartier"
     description:
       en: "Information about characteristics of the physical environment outside the home and workplace (e.g. residential density, proximity to parks) including available transportation."
@@ -886,7 +898,7 @@ vocabularies:
       en: "Date and time"
       fr: "Date et heure"
     description:
-      en: "Information about date and time of questionnaires filled and physical measures/bio samples taken."
+      en: "Information about date and time of questionnaires completed and physical/cognitive measures/bio samples taken."
   - name: "Questionnaire_interview_related_info"
     title:
       en: "Questionnaire / Interview related information"
@@ -895,8 +907,8 @@ vocabularies:
       en: "Information about the questionnaire and/or the interview (e.g. language, version, section of the questionnaire, respondent, number of individuals present at interview, questionnaire administration mode, method of interview)."
   - name: "Physical_measure_biosamp_related_info"
     title:
-      en: "Physical measure/ bio sample related information "
-      fr: "Information en lien avec les mesures physiques ou les échantillons biologiques"
+      en: "Physical and cognitive measures and bio sample related information"
+      fr: "Information en lien avec les mesures physiques et cognitive ou les échantillons biologiques"
     description:
       en: "Information about the physical measure and bio sample collection (e.g. contextual information about the participant during assessment, bio banking information (number of cups collected, circumstances of specimen analysis), SOPs related information)."
   - name: "Data_sample_center"
