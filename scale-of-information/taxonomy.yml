@@ -101,8 +101,8 @@ vocabularies:
       en: "Verbal learning test"
 - name: "Personality measures"
   title:
-  en: "Personality measures"
-  fr: "Mesures de personalité"
+    en: "Personality measures"
+    fr: "Mesures de personalité"
   description:
     en: "Information about composite measures (scales, scores) of personality tests."
     fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
