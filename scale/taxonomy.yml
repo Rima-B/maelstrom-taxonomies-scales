@@ -6,7 +6,7 @@ description:
   en: "Refers to composite measures of psychological, physical and laboratory tests."
   fr: "Réfère aux mesures composées de tests psychologiques, physiques et de laboratoire."
 vocabularies:
-- name: "Cognitive measures"
+- name: "Cognitive_measures"
   title:
     en: "Cognitive measures"
     fr: "Mesures cognitives"
@@ -99,7 +99,7 @@ vocabularies:
       en: "Verbal lerning"
     description:
       en: "Verbal learning test"
-- name: "Personality measures"
+- name: "Personality_measures"
   title:
     en: "Personality measures"
     fr: "Mesures de personalité"
@@ -113,7 +113,7 @@ vocabularies:
       fr: "MMSE"
     description:
       en: "(MMSE)"
-- name: "Measures of emotional distress"
+- name: "Emotional_distress_measures"
   title:
     en: "Measures of emotional distress"
     fr: "Mesures de détresse émotionnelle"
@@ -131,7 +131,7 @@ vocabularies:
       en: "Hospital Anxiety and Depression"
     description:
       en: "Hospital Anxiety and Depression Scale (HADS)"
-- name: "Other psychological measures"
+- name: "Other_psychological_measures"
   title:
     en: "Other psychological measures"
     fr: "Autres mesures psychologiques"
@@ -145,7 +145,7 @@ vocabularies:
       fr: "MMSE"
     description:
       en: "(MMSE)"
-- name: "Physical measures"
+- name: "Physical_measures"
   title:
     en: "Physical measures"
     fr: "Mesures physiques"
@@ -183,7 +183,7 @@ vocabularies:
       en: "Unified Parkinson"
     description:
       en: "Unified Parkinson Disease Rating Scale (UPDRS)"
-- name: "(Instrumental) Activities of Daily Living"
+- name: "Activities_daily_living"
   title:
     en: "(Instrumental) Activities of Daily Living"
   description:
@@ -194,7 +194,7 @@ vocabularies:
       en: "Lawton IADL"
     description:
       en: "Lawton Instrumental Activities of Daily Living (IADL)"
-- name: "Laboratory measures"
+- name: "Laboratory_measures"
   title:
     en: "Laboratory measures"
     fr: "Mesures de laboratoire"
