@@ -585,7 +585,7 @@ vocabularies:
       en: "Child daycare/school activities"
       fr: "Activités à la garderie/école de l'enfant"
     description:
-      en: "Information about child day care, preschool and school attendance (e.g. frequency of day care attendance, participation in pre-school activities). See Sect. 13 'Cognition, personality and other psychological measures', under 'Other' for subjective measures of school performance."
+      en: "Information about childcare, daycare, preschool and school attendance (e.g. type of childcare, frequency of daycare attendance, participation in pre-school activities)." 
   - name: "Other_child_info"
     title:
       en: "Other infant/child related information"
@@ -892,7 +892,7 @@ vocabularies:
       en: "Identifiers"
       fr: "Identifiants"
     description:
-      en: "Information about administrative identification of an individual or group of individuals (e.g. participant, household, wave of data collection, sampling identifier)."
+      en: "Information about administrative identification of an individual or group of individuals (e.g. participant, household, interviewer number, wave of data collection, sampling identifier)."
   - name: "Date_time_related_info"
     title:
       en: "Date and time"
@@ -916,7 +916,7 @@ vocabularies:
       en: "Data and sample collection center characteristics"
       fr: "Caractéristiques du centre de collecte"
     description:
-      en: "Information about characteristics of the data and sample collection center (e.g. center identification number, interviewer number, number of steps to entrance, area where building is located)."
+      en: "Information about characteristics of the data and sample collection center (e.g. center identification number, number of steps to entrance, area where building is located)."
   - name: "Other_admin_info"
     title:
       en: "Other administrative information"
