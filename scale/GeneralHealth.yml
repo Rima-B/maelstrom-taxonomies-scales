@@ -1,0 +1,64 @@
+name: "Mlstr_genhealth"
+title:
+  en: "Scales of general health tests"
+description:
+  en: "Refers to scales of general health tests"
+  vocabularies:
+- name: "Perception"
+  title:
+    en: "Perception of health"
+  description:
+    en: "Scales of perception of health"
+  terms:
+  - name: ""
+    title:
+      en: ""
+    description:
+      en: ""
+- name: "Quality"
+  title:
+    en: "Quality of life"
+  description:
+    en: "Scales of quality of life"
+  terms:
+  - name: "Quality_Life_QoL"
+    title:
+      en: "Quality of Life Scale"
+    description:
+      en: "Quality of Life Scale (QoL)"    
+  - name: "Satis_Life"
+    title:
+      en: "Satisfaction with life scale"
+    description:
+      en: "Satisfaction with life scale (SWLS)"   
+- name: "Functional"
+  title:
+    en: "Functional activities"
+  description:
+    en: "Scales of functional activities of daily activities"
+  terms:
+  - name: "ADL"
+    title:
+      en: "Activities of daily living"
+    description:
+      en: "Activities of daily living (ADL)"
+  - name: "Lawton_IADL"
+    title:
+      en: "Lawton IADL"
+    description:
+      en: "Lawton Instrumental Activities of Daily Living (IADL)"
+  - name: "Functional_Status"
+    title:
+      en: "Functional status"
+    description:
+      en: "Functional status (FUL)"
+  - name: "OARS"
+    title:
+      en: "OARS"
+    description:
+      en: "Functional activity scale from the Older Americans Resources and Services (OARS) list"
+  - name: "Life-Space_Assess"
+    title:
+      en: "Life-space assessment"
+    description:
+      en: "Life-space assessment"
