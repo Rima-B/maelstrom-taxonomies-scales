@@ -1,16 +1,50 @@
-- name: "social"
+name: "Mlstr_social"
+title:
+  en: "Scales from the social domain"
+description:
+  en: "Refers to scales used in the social domain"
+  vocabularies:
+- name: "Social_network"
   title:
-    en: "Social environment"
+    en: "Scales for social networks"
   description:
-    en: "Scales of social environment"
+      en: "Scales for the measurement of social networks"
   terms:
-  - name: "MOS_Soc_Sup_Availability"
-    title:
-      en: "MOS Social Support Availability"
-    description:
-      en: "MOS Social Support Availability (SSA)"
+  - name: ""
+     title:
+      en: ""
+     description:
+       en: ""
+- name: "Social_Participation"
+  title:
+   en: "Scales for social participation"
+  description:
+   en: "Scales for the measurement of social participation"
+  terms:
   - name: "Soc_Participation"
-    title:
-      en: "Social Participation"
-    description:
-      en: "Social Participation (SPA)"
+      title:
+       en: "Social participation (SPA)"
+      description:
+       en: "Social participation (SPA)"
+- name: "Social_support"
+  title:
+    en: "Scales for social support"
+  description:
+    en: "Scales for the measurement of social support"
+  terms:
+  - name: "Soc_Sup_Availability"
+     title:
+      en: "MOS_Soc_Sup_Availability"
+     description:
+       en: "MOS_Soc_Sup_Availability"
+- name: "LifeEvent"
+  title:
+    en: "Scales for life events"
+  description:
+    en: "Scales for the measurement of life events"
+  terms:
+  - name: "Soc_Sup_Availability"
+     title:
+      en: "MOS_Soc_Sup_Availability"
+     description:
+       en: "MOS_Soc_Sup_Availability"
