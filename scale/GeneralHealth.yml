@@ -21,16 +21,11 @@ description:
   description:
     en: "Scales of quality of life"
   terms:
-  - name: "Quality_Life_QoL"
+  - name: "QoL"
     title:
-      en: "Quality of Life Scale"
+      en: "Quality of Life scale"
     description:
-      en: "Quality of Life Scale (QoL)"    
-  - name: "Satis_Life"
-    title:
-      en: "Satisfaction with life scale"
-    description:
-      en: "Satisfaction with life scale (SWLS)"   
+      en: "Quality of Life scale (QoL)"    
 - name: "Functional"
   title:
     en: "Functional activities"
@@ -39,25 +34,35 @@ description:
   terms:
   - name: "ADL"
     title:
-      en: "Activities of daily living"
+      en: "Activities of Daily Living"
     description:
-      en: "Activities of daily living (ADL)"
+      en: "Activities of Daily Living (ADL)"
+  - name: "OARS_ADL"
+    title:
+      en: "OARS ADL"
+    description:
+      en: "Activities of Daily Living (ADL) from the Older Americans Resources and Services (OARS) list"
+  - name: "IADL"
+    title:
+      en: "Instrumental Activities of Daily Living"
+    description:
+      en: "Instrumental Activities of Daily Living (IADL)"
   - name: "Lawton_IADL"
     title:
       en: "Lawton IADL"
     description:
       en: "Lawton Instrumental Activities of Daily Living (IADL)"
+  - name: "OARS_IADL"
+    title:
+      en: "OARS IADL"
+    description:
+      en: "Instrumental Activities of Daily Living (IADL) from the Older Americans Resources and Services (OARS) list"
   - name: "Functional_Status"
     title:
       en: "Functional status"
     description:
       en: "Functional status (FUL)"
-  - name: "OARS"
-    title:
-      en: "OARS"
-    description:
-      en: "Functional activity scale from the Older Americans Resources and Services (OARS) list"
-  - name: "Life-Space_Assess"
+  - name: "Life_Space"
     title:
       en: "Life-space assessment"
     description:
