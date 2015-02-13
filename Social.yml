@@ -1,0 +1,16 @@
+- name: "social"
+  title:
+    en: "Social environment"
+  description:
+    en: "Scales of social environment"
+  terms:
+  - name: "MOS_Soc_Sup_Availability"
+    title:
+      en: "MOS Social Support Availability"
+    description:
+      en: "MOS Social Support Availability (SSA)"
+  - name: "Soc_Participation"
+    title:
+      en: "Social Participation"
+    description:
+      en: "Social Participation (SPA)"
