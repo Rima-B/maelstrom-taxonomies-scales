@@ -1,0 +1,91 @@
+name: "Mlstr_habits"
+title:
+  en: "Scales used for life habits"
+  fr: "Échelles utilisées pour les habitudes de vie"
+description:
+  en: "Refers to scales in the area of life habits"
+vocabularies:
+- name: "Alcohol"
+  title:
+    en: "Alcohol"
+  description:
+    en: "Scales used for alcohol"
+  terms:
+  - name: ""
+    title:
+      en: ""
+    description:
+      en: ""
+- name: "Nutrition"
+  title:
+    en: "Nutrition"
+  description:
+    en: "Scales used for nutrition"
+  terms:
+  - name: "FFQ"
+    title:
+      en: "Food Frequency Qx"
+    description:
+      en: "Food Frequency Questionnaire (FFQ)"
+  - name: "NSI"
+    title:
+      en: "Nutritional Screening Initiative"
+    description:
+      en: "Nutritional Screening Initiative (Determine Qx)"
+  - name: "Elderly_Nutr_Screen"
+    title:
+      en: "Elderly Nutrition Screening"
+    description:
+      en: "Elderly Nutrition Screening"
+  - name: "7day_dietary_record"
+    title:
+      en: "7day dietary record"
+    description:
+      en: "7day dietary record"
+  - name: "MNA"
+    title:
+      en: "Mini Nutritional Assessment"
+    description:
+      en: "Mini Nutritional Assessment"
+- name: "Physical_activity"
+  title:
+    en: "Physical activity"
+  description:
+    en: "Scales used for physical activity"
+  terms:
+  - name: "IPAQ"
+    title:
+      en: "IPAQ"
+    description:
+      en: "International Physical Activity Questionnaire (IPAQ)"
+  - name: "PASE"
+    title:
+      en: "PA Scale for the Elderly"
+    description:
+      en: "Physical Activity Scale for the Elderly (PASE)"
+  - name: "HAPAQ"
+    title:
+      en: "Hist. adulthood PA qx (HAPAQ)"
+    description:
+      en: "Historical adulthood physical activity questionnaire (HAPAQ)"
+  - name: "WHI_Selfrep_PA"
+    title:
+      en: "WHICAP Self-reported PA"
+    description:
+      en: "WHICAP Self-reported physical activity"     
+  - name: "LTPAQ"
+    title:
+      en: "Leisure Time PA Qx"
+    description:
+      en: "Leisure Time Physical Activity Questionnaire"  
+- name: "Sleep"
+  title:
+    en: "Sleep"
+  description:
+    en: "Scales used for Sleep"
+  terms:
+  - name: "WHI_Sleep"
+    title:
+      en: "WHICAP Sleep Form"
+    description:
+      en: "WHICAP Sleep Form"
