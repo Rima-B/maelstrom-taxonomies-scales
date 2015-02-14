@@ -19,7 +19,7 @@ description:
   title:
     en: "Quality of life"
   description:
-    en: "Scales of quality of life"
+    en: "Quality of life scales"
   terms:
   - name: "QoL"
     title:
@@ -47,11 +47,6 @@ description:
       en: "Instrumental Activities of Daily Living"
     description:
       en: "Instrumental Activities of Daily Living (IADL)"
-  - name: "Lawton_IADL"
-    title:
-      en: "Lawton IADL"
-    description:
-      en: "Lawton Instrumental Activities of Daily Living (IADL)"
   - name: "OARS_IADL"
     title:
       en: "OARS IADL"
