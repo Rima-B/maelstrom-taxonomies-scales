@@ -89,3 +89,14 @@ vocabularies:
       en: "WHICAP Sleep Form"
     description:
       en: "WHICAP Sleep Form"
+- name: "Other"
+  title:
+    en: "Other scales for life habits"
+  description:
+    en: "Other scales used for life habits"
+  terms:
+  - name: "SLS_Health_Behavior"
+    title:
+     en: "Health Behavior Qx SLS"
+    description:
+     en: "Health Behavior Questionnaire from Seattle Longitudinal Study"
