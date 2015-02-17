@@ -3,18 +3,12 @@ title:
   en: "Scales of general health tests"
 description:
   en: "Refers to scales of general health tests"
-  vocabularies:
+vocabularies:
 - name: "Perception"
   title:
     en: "Perception of health"
   description:
     en: "Scales of perception of health"
-  terms:
-  - name: ""
-    title:
-      en: ""
-    description:
-      en: ""
 - name: "Quality"
   title:
     en: "Quality of life"
