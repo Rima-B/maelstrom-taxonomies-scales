@@ -1,0 +1,269 @@
+name: "Mlstr_cogscale"
+title:
+  en: "Scales of cognitive functioning and mental health"
+description:
+  en: "Scales of cognitive functioning and mental health"
+vocabularies:
+- name: "Cog_scale"
+  title:
+    en: "Cognitive scales"
+  description:
+    en: "Information about cognitive tests"
+  terms:
+  - name: "Blessed"
+    title:
+      en: "Blessed Dementia Scale"
+    description:
+      en: "Blessed Dementia Scale"
+  - name: "CDR"
+    title:
+      en: "Clinical Dementia Rating Scale"
+    description:
+      en: "Clinical Dementia Rating Scale (CDR)"
+  - name: "WHI_SMC"
+    title:
+      en: "Subjective memory complaints (SMC)"
+    description:
+      en: "WHICAP Subjective memory complaints (SMC)"
+  - name: "HIS"
+    title:
+      en: "Hachinski Ischaemic Score"
+    description:
+      en: "Hachinski Ischaemic Score (HIS)"
+  - name: "MMSE"
+    title:
+      en: "MMSE"
+    description:
+      en: "Mini Mental State Exam (MMSE)"
+  - name: "7MS"
+    title:
+      en: "7 minutes screening Test"
+    description:
+      en: "7 minutes screening Test (7MS)"      
+  - name: "Boston_naming"
+    title:
+      en: "Boston Naming Test"
+    description:
+      en: "Boston Naming Test"
+  - name: "Clock_Drawing_CDT"
+    title:
+      en: "Clock Drawing Test"
+    description:
+      en: "Clock Drawing Test"
+  - name: "Diagnostic_Illiteracy"
+    title:
+      en: "Diagnostic Illiteracy Scale"
+    description:
+      en: "Diagnostic Illiteracy Scale"
+  - name: "Executive_function"
+    title:
+      en: "Executive Function Test"
+    description:
+      en: "Executive Function Test"
+  - name: "Line_orientation"
+    title:
+      en: "Judgement of line orientation test"
+    description:
+      en: "Judgement of line orientation test"
+  - name: "MCG_Complex_figures"
+    title:
+      en: "MCG Complex figures"
+    description:
+      en: "Medical College of Georgia Complex figures in repeated memory test"
+  - name: "NPI"
+    title:
+      en: "Neuropsychiatric Inventory"
+    description:
+      en: "Neuropsychatric Inventory (NPI)"
+  - name: "Repetition_test"
+    title:
+      en: "Repetition test"
+    description:
+      en: "Repetition test"
+  - name: "Vocabulary_test"
+    title:
+      en: "Vocabulary test"
+    description:
+      en: "Vocabulary test"
+  - name: "Comprehension_test"
+    title:
+      en: "Comprehension test"
+    description:
+      en: "Comprehension test"
+  - name: "Semiqual_Clinical_Fluct_Cognition"
+    title:
+      en: "Semiqual. Clin. Fluct. Cognition Scale"
+    description:
+      en: "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
+  - name: "TMT"
+    title:
+      en: "Trail Making Test"
+    description:
+      en: "Trail Making Test (TMT)"
+  - name: "Verbal_fluency"
+    title:
+      en: "Verbal Fluency Test"
+    description:
+      en: "Verbal fluency test"
+  - name: "Verbal_learning"
+    title:
+      en: "Verbal Learning Test"
+    description:
+      en: "Verbal Learning Test"
+  - name: "Mtl_Cogn_Assess"
+    title:
+      en: "Montreal Cognitive Assessment"
+    description:
+      en: "Montreal Cognitive Assessment"
+  - name: "Work_Mem_Span"
+    title:
+      en: "Working Memory Span"
+    description:
+      en: "Working Memory Span tasks (WMS)"    
+  - name: "Delayed_word_list"
+    title:
+      en: "Delayed word list"
+    description:
+      en: "Delayed word list free recall" 
+  - name: "Immed_wordlist"
+    title:
+      en: "Immediate recall word list"
+    description:
+      en: "Immediate recall word list"
+  - name: "STAMAT_fig_rot"
+    title:
+      en: "STAMAT (figure rotation)"
+    description:
+      en: "Schaie-Thurstone Adult Mental Abilities Test (figure rotation)" 
+  - name: "STAMAT_letter_series"
+    title:
+      en: "STAMAT (letter series)"
+    description:
+      en: "Schaie-Thurstone Adult Mental Abilities Test (letter series)" 
+  - name: "STAMAT_obj_rot"
+    title:
+      en: "STAMAT (object rotation)"
+    description:
+      en: "Schaie-Thurstone Adult Mental Abilities Test (object rotation)" 
+  - name: "STAMAT_spat_ability"
+    title:
+      en: "STAMAT (spatial ability)"
+    description:
+      en: "Schaie-Thurstone Adult Mental Abilities Test (spatial ability)" 
+  - name: "STAMAT_word_series"
+    title:
+      en: "STAMAT (word series)"
+    description:
+      en: "Schaie-Thurstone Adult Mental Abilities Test (word series)" 
+  - name: "Letter_comparison"
+    title:
+      en: "Letter comparison test"
+    description:
+      en: "Letter comparison test"       
+  - name: "Memory_funct_qx"
+    title:
+      en: "Memory Functioning Questionnaire"
+    description:
+      en: "Memory Functioning Questionnaire (MFQ)"
+  - name: "Number_comparison"
+    title:
+      en: "Number comparison"
+    description:
+      en: "Number comparison"      
+  - name: "Pattern_comparison"
+    title:
+      en: "Pattern comparison"
+    description:
+      en: "Pattern comparison"   
+  - name: "Word_recognition"
+    title:
+      en: "Word recognition"
+    description:
+      en: "Word recognition"        
+  - name: "Prose_recall"
+    title:
+      en: "Prose recall"
+    description:
+      en: "Prose recall"  
+  - name: "Word_series"
+    title:
+      en: "Word series"
+    description:
+      en: "Word series"        
+  - name: "FAS_Test"
+    title:
+      en: "FAS Test"
+    description:
+      en: "FAS Test"     
+  - name: "MMSE_TMT"
+    title:
+      en: "MMSE with TMT"
+    description:
+      en: "Mini Memory State Exam with Trail Making Test"
+  - name: "Mtl_Cogn_Assess"
+    title:
+      en: "Montreal cognitive assessment"
+    description:
+      en: "Montreal cognitive assessment"
+- name: "Personality"
+  title:
+    en: "Personality measures"
+    fr: "Mesures de personalité"
+  description:
+    en: "Information about composite measures (scales, scores) of personality tests."
+    fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
+  terms:
+  - name: "NEO_PIR"
+    title:
+      en: "NEO Personality Inventory - Revised"
+    description:
+      en: "NEO Personality Inventory - Revised"
+- name: "Emotional"
+  title:
+    en: "Measures of emotional distress"
+    fr: "Mesures de détresse émotionnelle"
+  description:
+    en: "Information about composite measures (scales, scores) of emotional distress tests."
+    fr: "Information au sujet de mesures composées (échelles) de tests de détresse émotionnelle."
+  terms:
+  - name: "GDS"
+    title:
+      en: "Geriatric Depression Scale"
+    description:
+      en: "all versions of Geriatric Depression Scale are included here"
+  - name: "HADS"
+    title:
+      en: "Hospital Anxiety and Depression Scale"
+    description:
+      en: "Hospital Anxiety and Depression Scale (HADS)"
+  - name: "CES_D"
+    title:
+      en: "Center for Epidemiological Studies Depression Scale"
+    description:
+      en: "Center for Epidemiological Studies Depression Scale (CES-D)"
+  - name: "Posttraumatic_Stress_Disorder"
+    title:
+      en: "Primary Care: Post-Traumatic Stress Disorder"
+    description:
+      en: "Primary Care: Post-Traumatic Stress Disorder (PC-PTSD)"
+- name: "Other_psycho"
+  title:
+    en: "Other psychological measures"
+  description:
+    en: "Information about other composite measures (scales, scores) of psychological tests."
+  terms:
+  - name: "SWLS"
+    title:
+      en: "Satisfaction with life scale"
+    description:
+      en: "Satisfaction with life scale (SWLS)"
+  - name: "Personal_Mastery_Perceived_Constraint"
+    title:
+      en: "Personal Mastery and Perceived Constraint Scales"
+    description:
+      en: "Personal Mastery and Perceived Constraint Scales"
+  - name: ""
+    title:
+      en: ""
+    description:
+      en: ""
