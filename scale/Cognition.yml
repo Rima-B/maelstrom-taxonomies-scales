@@ -20,7 +20,7 @@ vocabularies:
       en: "Clinical Dementia Rating Scale"
     description:
       en: "Clinical Dementia Rating Scale (CDR)"
-   - name: "WHI_SMC"
+  - name: "WHI_SMC"
     title:
       en: "Subjective memory complaints (SMC)"
     description:
