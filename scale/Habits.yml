@@ -10,12 +10,6 @@ vocabularies:
     en: "Alcohol"
   description:
     en: "Scales used for alcohol"
-  terms:
-  - name: ""
-    title:
-      en: ""
-    description:
-      en: ""
 - name: "Nutrition"
   title:
     en: "Nutrition"
