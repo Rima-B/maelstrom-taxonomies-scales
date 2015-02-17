@@ -3,18 +3,12 @@ title:
   en: "Scales from the social domain"
 description:
   en: "Refers to scales used in the social domain"
-  vocabularies:
+vocabularies:
 - name: "Social_network"
   title:
     en: "Scales for social networks"
   description:
       en: "Scales for the measurement of social networks"
-  terms:
-  - name: ""
-     title:
-      en: ""
-     description:
-       en: ""
 - name: "Social_Participation"
   title:
    en: "Scales for social participation"
