@@ -25,7 +25,12 @@ description:
     title:
       en: "Quality of Life scale"
     description:
-      en: "Quality of Life scale (QoL)"    
+      en: "Quality of Life scale (QoL)" 
+  - name: "SF36_"
+    title:
+      en: "SF36"
+    description:
+      en: "The Short Form (36) Health Survey"    
 - name: "Functional"
   title:
     en: "Functional activities"
@@ -52,6 +57,11 @@ description:
       en: "OARS IADL"
     description:
       en: "Instrumental Activities of Daily Living (IADL) from the Older Americans Resources and Services (OARS) list"
+  - name: "OARS"
+    title:
+      en: "OARS"
+    description:
+      en: "Older Americans Resources and Services (OARS) list"
   - name: "Functional_Status"
     title:
       en: "Functional status"
