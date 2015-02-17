@@ -200,6 +200,11 @@ vocabularies:
       en: "MMSE with TMT"
     description:
       en: "Mini Memory State Exam with Trail Making Test"
+  - name: "Mtl_Cogn_Assess"
+    title:
+      en: "Montreal cognitive assessment"
+    description:
+      en: "Montreal cognitive assessment"
 - name: "Personality"
   title:
     en: "Personality measures"
