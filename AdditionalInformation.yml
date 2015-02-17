@@ -1,11 +1,47 @@
-name: "Mlstr_target"
+name: "Mlstr_additional"
 title:
-  en: "Target of Information"
-  fr: "Cible d'information"
+  en: "Additional Information"
+  fr: "Information aditionnelles"
 description:
-  en: "Variable classification developed by Maelstrom"
-  fr: "Classification des variables développée par Maelstrom"
+  en: ""
+  fr: ""
 vocabularies:
+- name: "Source"
+  title:
+    en: "Source"
+  description:
+    en: "Refers to the original document/way of data collection."
+  terms:
+  - name: "Questionnaire"
+    title:
+      en: "Questionnaire"
+    description:
+      en: "Information was collected in a questionnaire, either self-administrated or administrated by an interviewer."
+  - name: "Phys_measure"
+    title:
+      en: "Physical measure"
+    description:
+      en: "Information was measured rather than reported by the participant. It can appear in the questionnaire but it needs to have a clear indication that it was measured to appear in this category."
+  - name: "Cognitive_measure"
+    title:
+      en: "Cognitive measure"
+    description:
+      en: "Information was measured rather than reported by the participant. It can appear in the questionnaire but it needs to have a clear indication that it was measured to appear in this category."
+  - name: "Biosample"
+    title:
+      en: "Biosample"
+    description:
+      en: "Information comes from a biological sample collected from the participant."
+  - name: "Gov_data"
+    title:
+      en: "Governmental databases/registries"
+    description:
+      en: "Information comes from a governmental or hospital database or registry (i.e. death registries, birth registries)."
+  - name: "Other_source"
+    title:
+      en: "Other source of information"
+    description:
+      en: "Information comes from another source, not mentioned before"
 - name: "Target"
   title:
     en: "Target"
