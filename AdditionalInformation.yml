@@ -1,7 +1,7 @@
 name: "Mlstr_additional"
 title:
   en: "Additional Information"
-  fr: "Information aditionnelles"
+  fr: "Information additionnelles"
 description:
   en: ""
   fr: ""
@@ -10,7 +10,7 @@ vocabularies:
   title:
     en: "Source"
   description:
-    en: "Refers to the original document/way of data collection."
+    en: "Refers to the original document/method of data collection."
   terms:
   - name: "Questionnaire"
     title:
