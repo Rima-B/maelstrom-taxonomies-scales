@@ -1,6 +1,6 @@
 name: "Mlstr_social"
 title:
-  en: "Scales from the social domain"
+  en: "Scales for the social domain"
 description:
   en: "Refers to scales used in the social domain"
 vocabularies:
@@ -15,35 +15,65 @@ vocabularies:
   description:
    en: "Scales for the measurement of social participation"
   terms:
-  - name: "Soc_Participation"
+  - name: "SPA"
     title:
       en: "Social participation (SPA)"
     description:
       en: "Social participation (SPA)"
+  - name: "MAS"
+    title:
+      en: "MAS"
+    description:
+      en: "MAS"
 - name: "Social_support"
   title:
     en: "Scales for social support"
   description:
     en: "Scales for the measurement of social support"
   terms:
-  - name: "Soc_Sup_Availability"
+  - name: "MOS_SSA"
     title:
-      en: "MOS_Soc_Sup_Availability"
+      en: "MOS Social Support Availability"
     description:
-      en: "MOS_Soc_Sup_Availability"
+      en: "Medical Outcomes Study (MOS) Social Support Availability (SSA)"
+  - name: "ISSI"
+    title:
+      en: "ISSI"
+    description:
+      en: "ISSI"
+  - name: "De_Jong_Gierveld_Loneliness_Scale"
+    title:
+      en: "LonelinessScale"
+    description:
+      en: "De Jong Gierveld oneliness Scale"
+  - name: "Affectual_Solidarity"
+    title:
+      en: "Affectual Solidarity Scale"
+    description:
+      en: "Affectual Solidarity Scale"      
+  - name: "LSNS_6_"
+    title:
+      en: "Lubben Social Network Scale"
+    description:
+      en: "Lubben Social Network Scale-6 (LSNS-6)"      
 - name: "LifeEvent"
   title:
     en: "Scales for life events"
   description:
     en: "Scales for the measurement of life events"
   terms:
-  - name: "Soc_Sup_Availability"
-    title:
-      en: "MOS_Soc_Sup_Availability"
+  - name: "IRLE"
+    title: 
+      en: "Interview for Recent Life Events (IRLE)"
     description:
-      en: "MOS_Soc_Sup_Availability"
-  - name: "De_Jong_Gierveld_Loneliness_Scale"
-    title:
-      en: "DeJong Gierveld Loneliness Scale"
+      en: "Interview for Recent Life Events (IRLE)"
+  - name: "CAQ"
+    title: 
+      en: "Childhood Adversity Questionnaire"
     description:
-      en: "DeJong Gierveld Loneliness Scale"
+      en: "Childhood Adversity Questionnaire (CAQ)"
+  - name: "LEC_5_"
+    title: 
+      en: "Life Events Checklist for DSM-5 (LEC-5)"
+    description:
+      en: "Life Events Checklist for DSM-5 (LEC-5)"

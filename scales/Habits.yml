@@ -1,18 +1,24 @@
 name: "Mlstr_habits"
 title:
-  en: "Scales used for life habits"
+  en: "Scales for life habits"
   fr: "Échelles utilisées pour les habitudes de vie"
 description:
   en: "Refers to scales in the area of life habits"
 vocabularies:
 - name: "Alcohol"
   title:
-    en: "Alcohol"
+    en: "Scales for alcohol use"
   description:
     en: "Scales used for alcohol"
+  terms:
+  - name: "AUDIT"
+    title:
+      en: "Alcohol Use Disorders Identification Test"
+    description:
+      en: "Alcohol Use Disorders Identification Test (AUDIT)"
 - name: "Nutrition"
   title:
-    en: "Nutrition"
+    en: "Scales for nutrition"
   description:
     en: "Scales used for nutrition"
   terms:
@@ -26,16 +32,16 @@ vocabularies:
       en: "Nutritional Screening Initiative"
     description:
       en: "Nutritional Screening Initiative (Determine Qx)"
-  - name: "Elderly_Nutr_Screen"
+  - name: "ENS"
     title:
       en: "Elderly Nutrition Screening"
     description:
       en: "Elderly Nutrition Screening"
   - name: "7day_dietary_record"
     title:
-      en: "7day dietary record"
+      en: "7 day dietary record"
     description:
-      en: "7day dietary record"
+      en: "7 day dietary record"
   - name: "MNA"
     title:
       en: "Mini Nutritional Assessment"
@@ -43,13 +49,13 @@ vocabularies:
       en: "Mini Nutritional Assessment"
 - name: "Physical_activity"
   title:
-    en: "Physical activity"
+    en: "Scales for physical activity"
   description:
     en: "Scales used for physical activity"
   terms:
   - name: "IPAQ"
     title:
-      en: "IPAQ"
+      en: "International PA Qx (IPAQ)"
     description:
       en: "International Physical Activity Questionnaire (IPAQ)"
   - name: "PASE"
@@ -62,19 +68,19 @@ vocabularies:
       en: "Hist. adulthood PA qx (HAPAQ)"
     description:
       en: "Historical adulthood physical activity questionnaire (HAPAQ)"
-  - name: "WHI_Selfrep_PA"
+  - name: "Leisure_time_PAQ"
     title:
-      en: "WHICAP Self-reported PA"
-    description:
-      en: "WHICAP Self-reported physical activity"     
-  - name: "LTPAQ"
-    title:
-      en: "Leisure Time PA Qx"
+      en: "Leisure time physical activity questionnaire"
     description:
       en: "Leisure Time Physical Activity Questionnaire"  
+  - name: "Lifetime_total_PAQ"
+    title:
+      en: "Lifetime total physical activity questionnaire"
+    description:
+      en: "Lifetime total Physical Activity Questionnaire"  
 - name: "Sleep"
   title:
-    en: "Sleep"
+    en: "Scales for sleep"
   description:
     en: "Scales used for Sleep"
   terms:
@@ -91,6 +97,6 @@ vocabularies:
   terms:
   - name: "SLS_Health_Behavior"
     title:
-     en: "Health Behavior Qx SLS"
+      en: "SLS Health behavior questionnaire"
     description:
-     en: "Health Behavior Questionnaire from Seattle Longitudinal Study"
+      en: "Health Behavior Questionnaire from Seattle Longitudinal Study"

@@ -1,80 +1,80 @@
 name: "Mlstr_cogscale"
 title:
-  en: "Scales of cognitive functioning and mental health"
+  en: "Scales for cognitive functioning and mental health"
 description:
-  en: "Scales of cognitive functioning and mental health"
+  en: "Scales for cognitive functioning and mental health"
 vocabularies:
 - name: "Cog_scale"
   title:
-    en: "Cognitive scales"
+    en: "Scales for cognitive functioning"
   description:
     en: "Information about cognitive tests"
   terms:
-  - name: "Blessed"
-    title:
-      en: "Blessed Dementia Scale"
-    description:
-      en: "Blessed Dementia Scale"
-  - name: "CDR"
-    title:
-      en: "Clinical Dementia Rating Scale"
-    description:
-      en: "Clinical Dementia Rating Scale (CDR)"
   - name: "WHI_SMC"
     title:
       en: "Subjective memory complaints (SMC)"
     description:
       en: "WHICAP Subjective memory complaints (SMC)"
+  - name: "CDR"
+    title:
+      en: "Clinical Dementia Rating Scale"
+    description:
+      en: "Clinical Dementia Rating Scale (CDR)"
   - name: "HIS"
     title:
       en: "Hachinski Ischaemic Score"
     description:
       en: "Hachinski Ischaemic Score (HIS)"
+  - name: "Semiqual_Clinical_Fluct_Cognition"
+    title:
+      en: "Semiqualified Clinical Fluctuating Cognition Rating Scale"
+    description:
+      en: "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
   - name: "MMSE"
     title:
-      en: "MMSE"
+      en: "Mini Mental State Exam"
     description:
       en: "Mini Mental State Exam (MMSE)"
-  - name: "7MS"
-    title:
-      en: "7 minutes screening Test"
-    description:
-      en: "7 minutes screening Test (7MS)"      
-  - name: "Boston_naming"
-    title:
-      en: "Boston Naming Test"
-    description:
-      en: "Boston Naming Test"
-  - name: "Clock_Drawing_CDT"
-    title:
-      en: "Clock Drawing Test"
-    description:
-      en: "Clock Drawing Test"
   - name: "Diagnostic_Illiteracy"
     title:
       en: "Diagnostic Illiteracy Scale"
     description:
       en: "Diagnostic Illiteracy Scale"
-  - name: "Executive_function"
+  - name: "Verbal_learning"
     title:
-      en: "Executive Function Test"
+      en: "Verbal Learning Test"
     description:
-      en: "Executive Function Test"
-  - name: "Line_orientation"
-    title:
-      en: "Judgement of line orientation test"
-    description:
-      en: "Judgement of line orientation test"
+      en: "Verbal Learning Test"
   - name: "MCG_Complex_figures"
     title:
       en: "MCG Complex figures"
     description:
       en: "Medical College of Georgia Complex figures in repeated memory test"
-  - name: "NPI"
+  - name: "TMT"
     title:
-      en: "Neuropsychiatric Inventory"
+      en: "Trail Making Test"
     description:
-      en: "Neuropsychatric Inventory (NPI)"
+      en: "Trail Making Test (TMT)"
+  - name: "Line_orientation"
+    title:
+      en: "Judgement of line orientation test"
+    description:
+      en: "Judgement of line orientation test"
+  - name: "Verbal_fluency"
+    title:
+      en: "Verbal Fluency Test"
+    description:
+      en: "Verbal fluency test"
+  - name: "Boston_naming"
+    title:
+      en: "Boston Naming Test"
+    description:
+      en: "Boston Naming Test"
+  - name: "Comprehension_test"
+    title:
+      en: "Comprehension test"
+    description:
+      en: "Comprehension test"
   - name: "Repetition_test"
     title:
       en: "Repetition test"
@@ -85,51 +85,31 @@ vocabularies:
       en: "Vocabulary test"
     description:
       en: "Vocabulary test"
-  - name: "Comprehension_test"
+  - name: "Executive_function"
     title:
-      en: "Comprehension test"
+      en: "Executive Function Test"
     description:
-      en: "Comprehension test"
-  - name: "Semiqual_Clinical_Fluct_Cognition"
+      en: "Executive Function Test"
+  - name: "Clock_Drawing_CDT"
     title:
-      en: "Semiqual. Clin. Fluct. Cognition Scale"
+      en: "Clock Drawing Test"
     description:
-      en: "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
-  - name: "TMT"
+      en: "Clock Drawing Test"
+  - name: "NPI"
     title:
-      en: "Trail Making Test"
+      en: "Neuropsychiatric Inventory"
     description:
-      en: "Trail Making Test (TMT)"
-  - name: "Verbal_fluency"
-    title:
-      en: "Verbal Fluency Test"
-    description:
-      en: "Verbal fluency test"
-  - name: "Verbal_learning"
-    title:
-      en: "Verbal Learning Test"
-    description:
-      en: "Verbal Learning Test"
-  - name: "Mtl_Cogn_Assess"
-    title:
-      en: "Montreal Cognitive Assessment"
-    description:
-      en: "Montreal Cognitive Assessment"
-  - name: "Work_Mem_Span"
-    title:
-      en: "Working Memory Span"
-    description:
-      en: "Working Memory Span tasks (WMS)"    
+      en: "Neuropsychatric Inventory (NPI)"
   - name: "Delayed_word_list"
     title:
       en: "Delayed word list"
     description:
       en: "Delayed word list free recall" 
-  - name: "Immed_wordlist"
+  - name: "Work_Mem_Span"
     title:
-      en: "Immediate recall word list"
+      en: "Working Memory Span"
     description:
-      en: "Immediate recall word list"
+      en: "Working Memory Span tasks (WMS)"    
   - name: "STAMAT_fig_rot"
     title:
       en: "STAMAT (figure rotation)"
@@ -155,6 +135,11 @@ vocabularies:
       en: "STAMAT (word series)"
     description:
       en: "Schaie-Thurstone Adult Mental Abilities Test (word series)" 
+  - name: "Immed_wordlist"
+    title:
+      en: "Immediate recall word list"
+    description:
+      en: "Immediate recall word list"
   - name: "Letter_comparison"
     title:
       en: "Letter comparison test"
@@ -195,19 +180,104 @@ vocabularies:
       en: "FAS Test"
     description:
       en: "FAS Test"     
+  - name: "7MS"
+    title:
+      en: "7 Minutes Screening Test"
+    description:
+      en: "7 Minutes Screening Test"
   - name: "MMSE_TMT"
     title:
-      en: "MMSE with TMT"
+      en: "Mini Mental State Exam with Trail Making Test"
     description:
-      en: "Mini Memory State Exam with Trail Making Test"
-  - name: "Mtl_Cogn_Assess"
+      en: "Mini Mental State Exam with Trail Making Test"
+  - name: "MOCA"
     title:
-      en: "Montreal cognitive assessment"
+      en: "Montreal Cognitive Assessment"
     description:
-      en: "Montreal cognitive assessment"
+      en: "Montreal Cognitive Assessment"
+  - name: "3MS"
+    title:
+      en: "Modified Mini Mental State"
+    description:
+      en: "Modified Mini Mental State"
+  - name: "WAIS_Information"
+    title:
+      en: "WAIS Information"
+    description:
+      en: "Wechsler Adult Intelligence Scale (WAIS) Information"
+  - name: "WAIS_Symbol_Search"
+    title:
+      en: "WAIS Symbol Search"
+    description:
+      en: "Wechsler Adult Intelligence Scale (WAIS) Symbol Search"
+  - name: "WAIS_Vocabulary"
+    title:
+      en: "WAIS Vocabulary"
+    description:
+      en: "Wechsler Adult Intelligence Scale (WAIS) Vocabulary"
+  - name: "WAIS_Similarities"
+    title:
+      en: "Modified Mini Mental State"
+    description:
+      en: "Modified Mini Mental State"
+  - name: "WAIS_Coding"
+    title:
+      en: "WAIS Coding"
+    description:
+      en: "Wechsler Adult Intelligence Scale (WAIS) Coding"
+  - name: "WAIS_Coding"
+    title:
+      en: "WAIS Coding"
+    description:
+      en: "Wechsler Adult Intelligence Scale (WAIS) Coding"
+  - name: "SRT"
+    title:
+      en: "Simple Reaction Time"
+    description:
+      en: "Simple Reaction Time"
+  - name: "CRT"
+    title:
+      en: "Choice Reaction Time"
+    description:
+      en: "Choice Reaction Time"
+  - name: "IQCODE"
+    title:
+      en: "Informant Qx on Cognitive Decline in the Elderly"
+    description:
+      en: "Informant Questionnaire on Cognitive Decline in the Elderly"
+  - name: "NART"
+    title:
+      en: "National Adult Reading Test"
+    description:
+      en: "National Adult Reading Test (NART)"      
+  - name: "Cambridge_Face_Memory"
+    title:
+      en: "Cambridge Face Memory Test"
+    description:
+      en: "Cambridge Face Memory Test"   
+  - name: "Symbol_Digit_Modalities"
+    title:
+      en: "Symbol Digit Modalities Test"
+    description:
+      en: "Symbol Digit Modalities Test"   
+  - name: "Backward_Digit_Span"
+    title:
+      en: "Backward Digit Span Task"
+    description:
+      en: "Backward Digit Span Task"        
+  - name: "Spot_the_Word"
+    title:
+      en: "Spot the Word Test"
+    description:
+      en: "Spot the Word Test"        
+  - name: "LEQ"
+    title:
+      en: "Lifetime of Experiences Questionnaire (LEQ)"
+    description:
+      en: "Lifetime of Experiences Questionnaire (LEQ)"            
 - name: "Personality"
   title:
-    en: "Personality measures"
+    en: "Scales for personality measures"
     fr: "Mesures de personalité"
   description:
     en: "Information about composite measures (scales, scores) of personality tests."
@@ -217,10 +287,20 @@ vocabularies:
     title:
       en: "NEO Personality Inventory - Revised"
     description:
-      en: "NEO Personality Inventory - Revised"
+      en: "NEO Personality Inventory - Revised (NEO PIR)"
+  - name: "EPQ"
+    title:
+      en: "Eysenck Personality Questionnaire"
+    description:
+      en: "Eysenck Personality Questionnaire (EPQ)"
+  - name: "BISBAS"
+    title:
+      en: "BIS/BAS scale"
+    description:
+      en: "Behavioural inhibition (BIS) and behavioural activation system (BAS)"
 - name: "Emotional"
   title:
-    en: "Measures of emotional distress"
+    en: "Scales for emotional distress"
     fr: "Mesures de détresse émotionnelle"
   description:
     en: "Information about composite measures (scales, scores) of emotional distress tests."
@@ -246,9 +326,54 @@ vocabularies:
       en: "Primary Care: Post-Traumatic Stress Disorder"
     description:
       en: "Primary Care: Post-Traumatic Stress Disorder (PC-PTSD)"
+  - name: "NPI"
+    title:
+      en: "Narcissistic Personality Inventory"
+    description:
+      en: "Narcissistic Personality Inventory (NPI)"
+  - name: "GADS_Dep"
+    title:
+      en: "Goldberg Anxiety and Depression Scales Depression"
+    description:
+      en: "Goldberg Anxiety and Depression Scales Depression"
+  - name: "GADS_Anx"
+    title:
+      en: "Goldberg Anxiety and Depression Scales Anxiety"
+    description:
+      en: "Goldberg Anxiety and Depression Scales Anxiety"
+  - name: "Brief_PHQ"
+    title:
+      en: "Brief Patient Health Questionnaire (BPHQ) "
+    description:
+      en: "Brief Patient Health Questionnaire (BPHQ)"
+  - name: "PANAS"
+    title:
+      en: "Positive and Negative Affect Schedule (PANAS)"
+    description:
+      en: "Positive and Negative Affect Schedule (PANAS)"
+  - name: "CIDI"
+    title:
+      en: "Composite International Diagnostic Interview (CIDI)"
+    description:
+      en: "Composite International Diagnostic Interview (CIDI)"
+  - name: "SPAQ"
+    title:
+      en: "Seasonal Pattern Assessment Questionniare (SPAQ)"
+    description:
+      en: "Seasonal Pattern Assessment Questionniare (SPAQ)"
+  - name: "RRS"
+    title:
+      en: "Ruminative Responses Scale (RRS)"
+    description:
+      en: "Ruminative Responses Scale (RRS)"
+ - name: "PSS"
+    title:
+      en: "PTSD Symptom Scale (PSS)"
+    description:
+      en: "PTSD Symptom Scale (PSS)"
 - name: "Other_psycho"
   title:
-    en: "Other psychological measures"
+    en: "Scales for other psychological measures"
   description:
     en: "Information about other composite measures (scales, scores) of psychological tests."
   terms:
@@ -262,3 +387,8 @@ vocabularies:
       en: "Personal Mastery and Perceived Constraint Scales"
     description:
       en: "Personal Mastery and Perceived Constraint Scales"
+  - name: "Locus_Control_Behaviour"
+    title:
+      en: "Locus Control Behaviour Scale"
+    description:
+      en: "Locus Control Behaviour Scale"
