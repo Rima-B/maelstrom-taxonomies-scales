@@ -1,17 +1,17 @@
 name: "Mlstr_genhealth"
 title:
-  en: "Scales of general health tests"
+  en: "Scales for general health"
 description:
-  en: "Refers to scales of general health tests"
+  en: "Refers to scales for general health"
 vocabularies:
 - name: "Perception"
   title:
-    en: "Perception of health"
+    en: "Scales for health perception"
   description:
     en: "Scales of perception of health"
 - name: "Quality"
   title:
-    en: "Quality of life"
+    en: "Scales for quality of life"
   description:
     en: "Quality of life scales"
   terms:
@@ -22,14 +22,19 @@ vocabularies:
       en: "Quality of Life scale (QoL)" 
   - name: "SF36_"
     title:
-      en: "SF36"
+      en: "Short Form (36) Health Survey"
     description:
-      en: "The Short Form (36) Health Survey"    
+      en: "The Short Form (36) Health Survey"  
+  - name: "SF12_"
+    title:
+      en: "The Short Form (12) Health Survey"
+    description:
+      en: "The Short Form (36) Health Survey"  
 - name: "Functional"
   title:
-    en: "Functional activities"
+    en: "Scales for functional activities"
   description:
-    en: "Scales of functional activities of daily activities"
+    en: "Scales for functional activities of daily activities"
   terms:
   - name: "ADL"
     title:
@@ -38,7 +43,7 @@ vocabularies:
       en: "Activities of Daily Living (ADL)"
   - name: "OARS_ADL"
     title:
-      en: "OARS ADL"
+      en: "ADL from the Older Americans Resources and Services list"
     description:
       en: "Activities of Daily Living (ADL) from the Older Americans Resources and Services (OARS) list"
   - name: "IADL"
@@ -48,12 +53,12 @@ vocabularies:
       en: "Instrumental Activities of Daily Living (IADL)"
   - name: "OARS_IADL"
     title:
-      en: "OARS IADL"
+      en: "IADL from the Older Americans Resources and Services list"
     description:
       en: "Instrumental Activities of Daily Living (IADL) from the Older Americans Resources and Services (OARS) list"
   - name: "OARS"
     title:
-      en: "OARS"
+      en: "Older Americans Resources and Services list"
     description:
       en: "Older Americans Resources and Services (OARS) list"
   - name: "Functional_Status"
@@ -61,7 +66,33 @@ vocabularies:
       en: "Functional status"
     description:
       en: "Functional status (FUL)"
-  - name: "Life_Space"
+  - name: "Blessed_Dementia_Scale"
+    title:
+      en: "Blessed Dementia Scale"
+    description:
+      en: "Blessed Dementia Scale"
+  - name: "WHI_Selfrep_PA"
+    title:
+      en: "WHICAP Self-reported Physical Activity"
+    description:
+      en: "WHICAP Self-reported Physical Activity"     
+  - name: "SMAF"
+    title:
+      en: "Functional Autonomy Measurement System"
+    description:
+      en: "Functional Autonomy Measurement System (SMAF)"    
+  - name: "SMAF_Social"
+    title:
+      en: "Social Functional Autonomy Measurement System"
+    description:
+      en: "Social Functional Autonomy Measurement System (SMAF Social)"
+- name: "Other"
+  title:
+    en: "Scales for other general health"
+  description:
+    en: "Scales for other general health"
+  terms:
+    - name: "Life_Space"
     title:
       en: "Life-space assessment"
     description:
