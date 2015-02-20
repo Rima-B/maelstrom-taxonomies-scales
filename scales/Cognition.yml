@@ -1,12 +1,12 @@
 name: "Mlstr_cogscale"
 title:
-  en: "Scales of cognitive functioning and mental health"
+  en: "Scales for cognitive functioning and mental health"
 description:
-  en: "Scales of cognitive functioning and mental health"
+  en: "Scales for cognitive functioning and mental health"
 vocabularies:
 - name: "Cog_scale"
   title:
-    en: "Cognitive scales"
+    en: "Scales for cognitive functioning"
   description:
     en: "Information about cognitive tests"
   terms:
@@ -27,7 +27,7 @@ vocabularies:
       en: "Hachinski Ischaemic Score (HIS)"
   - name: "Semiqual_Clinical_Fluct_Cognition"
     title:
-      en: "Semiqual. Clin. Fluct. Cognition Scale"
+      en: "Semiqualified Clinical Fluctuating Cognition Rating Scale"
     description:
       en: "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
   - name: "MMSE"
@@ -182,9 +182,9 @@ vocabularies:
       en: "FAS Test"     
   - name: "7MS"
     title:
-      en: "7Minutes Screening Test"
+      en: "7 Minutes Screening Test"
     description:
-      en: "7Minutes Screening Test"
+      en: "7 Minutes Screening Test"
   - name: "MMSE_TMT"
     title:
       en: "Mini Mental State Exam with Trail Making Test"
@@ -194,7 +194,7 @@ vocabularies:
     title:
       en: "Montreal Cognitive Assessment"
     description:
-      en: "Montreal cognitive assessment"
+      en: "Montreal Cognitive Assessment"
   - name: "3MS"
     title:
       en: "Modified Mini Mental State"
@@ -217,9 +217,9 @@ vocabularies:
       en: "Wechsler Adult Intelligence Scale (WAIS) Vocabulary"
   - name: "WAIS_Similarities"
     title:
-      en: "Modified Mini-Mental State"
+      en: "Modified Mini Mental State"
     description:
-      en: "Modified Mini-Mental State"
+      en: "Modified Mini Mental State"
   - name: "WAIS_Coding"
     title:
       en: "WAIS Coding"
@@ -277,7 +277,7 @@ vocabularies:
       en: "Lifetime of Experiences Questionnaire (LEQ)"            
 - name: "Personality"
   title:
-    en: "Personality measures"
+    en: "Scales for personality measures"
     fr: "Mesures de personalité"
   description:
     en: "Information about composite measures (scales, scores) of personality tests."
@@ -300,7 +300,7 @@ vocabularies:
       en: "Behavioural inhibition (BIS) and behavioural activation system (BAS)"
 - name: "Emotional"
   title:
-    en: "Emotional distress measures"
+    en: "Scales for emotional distress"
     fr: "Mesures de détresse émotionnelle"
   description:
     en: "Information about composite measures (scales, scores) of emotional distress tests."
@@ -373,7 +373,7 @@ vocabularies:
       en: "PTSD Symptom Scale (PSS)"
 - name: "Other_psycho"
   title:
-    en: "Other psychological measures"
+    en: "Scales for other psychological measures"
   description:
     en: "Information about other composite measures (scales, scores) of psychological tests."
   terms:
