@@ -68,11 +68,6 @@ vocabularies:
       en: "Hist. adulthood PA qx (HAPAQ)"
     description:
       en: "Historical adulthood physical activity questionnaire (HAPAQ)"
-  - name: "WHI_Selfrep_PA"
-    title:
-      en: "WHICAP Self-reported physical activity"
-    description:
-      en: "WHICAP Self-reported physical activity"     
   - name: "Leisure_time_PAQ"
     title:
       en: "Leisure time physical activity questionnaire"
@@ -102,6 +97,6 @@ vocabularies:
   terms:
   - name: "SLS_Health_Behavior"
     title:
-     en: "SLS Health behavior questionnaire"
+      en: "SLS Health behavior questionnaire"
     description:
-     en: "Health Behavior Questionnaire from Seattle Longitudinal Study"
+      en: "Health Behavior Questionnaire from Seattle Longitudinal Study"
