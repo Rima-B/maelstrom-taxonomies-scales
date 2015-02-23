@@ -366,7 +366,7 @@ vocabularies:
       en: "Ruminative Responses Scale (RRS)"
     description:
       en: "Ruminative Responses Scale (RRS)"
- - name: "PSS"
+  - name: "PSS"
     title:
       en: "PTSD Symptom Scale (PSS)"
     description:
