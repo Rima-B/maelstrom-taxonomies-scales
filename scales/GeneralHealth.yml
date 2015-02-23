@@ -92,7 +92,7 @@ vocabularies:
   description:
     en: "Scales for other general health"
   terms:
-    - name: "Life_Space"
+  - name: "Life_Space"
     title:
       en: "Life-space assessment"
     description:
