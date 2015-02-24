@@ -11,8 +11,8 @@ vocabularies:
     en: "Source"
     fr: "Source"
   description:
-    en: "Refers to the original document/method of data collection."
-    fr: "réfère au document ou à la méthode originale de la collecte de données"
+    en: "Source refers to the original document/method of data collection."
+    fr: "Source réfère au document ou à la méthode originale de la collecte de données."
   terms:
   - name: "Questionnaire"
     title:
@@ -61,8 +61,8 @@ vocabularies:
     en: "Target"
     fr: "Cible"
   description:
-    en: "Refers to the person the question is about"
-    fr: "réfère à la personne ciblée par la question"
+    en: "Target refers to the person the question is about."
+    fr: "Cible réfère à la personne ciblée par la question."
   terms:
   - name: "Participant"
     title:
