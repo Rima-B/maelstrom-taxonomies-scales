@@ -404,7 +404,7 @@ vocabularies:
   terms:
   - name: "Medication_suppl"
     title:
-      en: "Medication and suppléments"
+      en: "Medication and supplements"
       fr: "Médicaments et suppléments"
     description:
       en: "Information about any drugs or medicines that treat, prevent or alleviate symptoms of a disease taken by the subject (e.g. Advil, chemotherapy, vitamin C, Ginseng, nicotine patches)."
