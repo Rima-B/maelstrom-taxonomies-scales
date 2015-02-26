@@ -21,7 +21,7 @@ vocabularies:
     description:
       en: "Information was collected in a questionnaire, either self-administrated or administrated by an interviewer."
       fr: "L'information était collectée par questionnaire, soit auto-administré, soit administré par un intervieweur."
-  - name: "Phys_measure"
+  - name: "Physical_measure"
     title:
       en: "Physical measure"
       fr: "Mesure physique"
@@ -42,7 +42,7 @@ vocabularies:
     description:
       en: "Information comes from a biological sample collected from the participant."
       fr: "L'information provient d'un échantillon biolologique prélevé chez le participant."
-  - name: "Gov_data"
+  - name: "Governmental_databases_registries"
     title:
       en: "Governmental databases/registries"
       en: "Bases de données gouvernementales/registres"
@@ -120,7 +120,7 @@ vocabularies:
     description:
       en: "Information requested in the question is about the study participant’s proxy."
       fr: "L'information demandée par la question est au sujet du proxy du participant dans l'étude."
-  - name: "Other_target"
+  - name: "Other"
     title:
       en: "Other target"
       fr: "Autre cible"
