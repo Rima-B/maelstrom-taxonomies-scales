@@ -17,7 +17,7 @@ vocabularies:
   terms:
   - name: "SPA"
     title:
-      en: "Social participation (SPA)"
+      en: "Social participation"
     description:
       en: "Social participation (SPA)"
   - name: "MAS"
@@ -38,14 +38,14 @@ vocabularies:
       en: "Medical Outcomes Study (MOS) Social Support Availability (SSA)"
   - name: "ISSI"
     title:
-      en: "ISSI"
+      en: "Interview Schedule for Social Interaction"
     description:
-      en: "ISSI"
+      en: "Interview Schedule for Social Interaction (ISSI)"
   - name: "De_Jong_Gierveld_Loneliness_Scale"
     title:
-      en: "LonelinessScale"
+      en: "Loneliness Scale"
     description:
-      en: "De Jong Gierveld oneliness Scale"
+      en: "De Jong Gierveld Loneliness Scale"
   - name: "Affectual_Solidarity"
     title:
       en: "Affectual Solidarity Scale"
@@ -64,7 +64,7 @@ vocabularies:
   terms:
   - name: "IRLE"
     title: 
-      en: "Interview for Recent Life Events (IRLE)"
+      en: "Interview for Recent Life Events"
     description:
       en: "Interview for Recent Life Events (IRLE)"
   - name: "CAQ"
@@ -74,6 +74,6 @@ vocabularies:
       en: "Childhood Adversity Questionnaire (CAQ)"
   - name: "LEC_5_"
     title: 
-      en: "Life Events Checklist for DSM-5 (LEC-5)"
+      en: "Life Events Checklist for DSM-5"
     description:
       en: "Life Events Checklist for DSM-5 (LEC-5)"
