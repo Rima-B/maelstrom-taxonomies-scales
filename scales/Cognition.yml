@@ -250,7 +250,7 @@ vocabularies:
       en: "WAIS Vocabulary"
     description:
       en: "Wechsler Adult Intelligence Scale (WAIS) Vocabulary"
-   - name: "WAIS_Similarities"
+  - name: "WAIS_Similarities"
     title:
       en: "WAIS Similarities"
     description:
