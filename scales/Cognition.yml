@@ -470,10 +470,10 @@ vocabularies:
       en: "Lifetime of Experiences Questionnaire"
     description:
       en: "Lifetime of Experiences Questionnaire (LEQ)"            
-- name: "Personality"
-  title:
-    en: "Scales for personality measures"
-    fr: "Mesures de personalité"
+  - name: "Personality"
+    title:
+      en: "Scales for personality measures"
+      fr: "Mesures de personalité"
   description:
     en: "Information about composite measures (scales, scores) of personality tests."
     fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
@@ -538,7 +538,7 @@ vocabularies:
       en: "Narcissistic Personality Inventory"
     description:
       en: "Narcissistic Personality Inventory (NPI)"
-   - name: "LOT"
+  - name: "LOT"
     title:
       en: "Life Orientation Test"
     description:
