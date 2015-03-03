@@ -474,9 +474,9 @@ vocabularies:
     title:
       en: "Scales for personality measures"
       fr: "Mesures de personalité"
-  description:
-    en: "Information about composite measures (scales, scores) of personality tests."
-    fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
+    description:
+      en: "Information about composite measures (scales, scores) of personality tests."
+      fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
   terms:
   - name: "NEO_PIR"
     title:
