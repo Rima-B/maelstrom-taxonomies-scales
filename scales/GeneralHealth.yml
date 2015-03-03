@@ -22,14 +22,14 @@ vocabularies:
       en: "Quality of Life scale (QoL)" 
   - name: "SF36_"
     title:
-      en: "Short Form (36) Health Survey"
+      en: "Short Form (SF36) Health Survey"
     description:
-      en: "The Short Form (36) Health Survey"  
+      en: "The Short Form (SF36) Health Survey"  
   - name: "SF12_"
     title:
-      en: "The Short Form (12) Health Survey"
+      en: "The Short Form (SF12) Health Survey"
     description:
-      en: "The Short Form (36) Health Survey"  
+      en: "The Short Form (SF12) Health Survey"  
 - name: "Functional"
   title:
     en: "Scales for functional activities"
@@ -61,7 +61,7 @@ vocabularies:
       en: "Older Americans Resources and Services list"
     description:
       en: "Older Americans Resources and Services (OARS) list"
-  - name: "Functional_Status"
+  - name: "FUL"
     title:
       en: "Functional status"
     description:
@@ -81,11 +81,21 @@ vocabularies:
       en: "Functional Autonomy Measurement System"
     description:
       en: "Functional Autonomy Measurement System (SMAF)"    
+  - name: "SMAF"
+    title:
+      en: "Functional Autonomy Measurement System"
+    description:
+      en: "Functional Autonomy Measurement System (SMAF)"
   - name: "SMAF_Social"
     title:
       en: "Social Functional Autonomy Measurement System"
     description:
       en: "Social Functional Autonomy Measurement System (SMAF Social)"
+  - name: "FAQ"
+    title:
+      en: "Functional Activities Questionnaire"
+    description:
+      en: "Functional Activities Questionnaire (FAQ)"
 - name: "Other"
   title:
     en: "Scales for other general health"
