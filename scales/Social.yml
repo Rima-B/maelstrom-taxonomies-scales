@@ -22,9 +22,14 @@ vocabularies:
       en: "Social participation (SPA)"
   - name: "MAS"
     title:
-      en: "MAS"
+      en: "Mesure des activités sociales"
     description:
-      en: "MAS"
+      en: "Mesure des activités sociales (MAS)"
+  - name: "Social_Responsibility"
+    title:
+      en: "Community/Work Social Responsibility"
+    description:
+      en: "Community/Work Social Responsibility"
 - name: "Social_support"
   title:
     en: "Scales for social support"
@@ -36,16 +41,16 @@ vocabularies:
       en: "MOS Social Support Availability"
     description:
       en: "Medical Outcomes Study (MOS) Social Support Availability (SSA)"
+  - name: "De_Jong_Gierveld_Loneliness_Scale"
+    title:
+      en: "DeJong-Gierveld Loneliness Scale"
+    description:
+      en: "De Jong Gierveld Loneliness Scale"
   - name: "ISSI"
     title:
       en: "Interview Schedule for Social Interaction"
     description:
       en: "Interview Schedule for Social Interaction (ISSI)"
-  - name: "De_Jong_Gierveld_Loneliness_Scale"
-    title:
-      en: "Loneliness Scale"
-    description:
-      en: "De Jong Gierveld Loneliness Scale"
   - name: "Affectual_Solidarity"
     title:
       en: "Affectual Solidarity Scale"
@@ -56,6 +61,36 @@ vocabularies:
       en: "Lubben Social Network Scale"
     description:
       en: "Lubben Social Network Scale-6 (LSNS-6)"      
+  - name: "Perceived_Support_Conflict_Protocol"
+    title:
+      en: "Perceived Social Support/Conflict Protocol"
+    description:
+      en: "Perceived Social Support/Conflict Protocol"  
+  - name: "Parental_Affection"
+    title:
+      en: "Parental Affection in Childhood Scale"
+    description:
+      en: "Parental Affection in Childhood Scale"  
+  - name: "Seeking_Social_Support"
+    title:
+      en: "Seeking Social Support"
+    description:
+      en: "Seeking Social Support" 
+  - name: "Partner_Decision_Making"
+    title:
+      en: "Spouse/Partner Joint Decision Making"
+    description:
+      en: "Spouse/Partner Joint Decision Making"       
+  - name: "Family_Obligation"
+    title:
+      en: "Family Obligation"
+    description:
+      en: "Family Obligation"         
+  - name: "Midus_Social_Support"
+    title:
+      en: "MIDUS Social Support"
+    description:
+      en: "MIDUS Social Support"          
 - name: "LifeEvent"
   title:
     en: "Scales for life events"
@@ -77,3 +112,64 @@ vocabularies:
       en: "Life Events Checklist for DSM-5"
     description:
       en: "Life Events Checklist for DSM-5 (LEC-5)"
+  - name: "CTQ"
+    title: 
+      en: "Childhood Trauma Questionnaire"
+    description:
+      en: "Childhood Trauma Questionnaire (CTQ)"
+  - name: "PES"
+    title: 
+      en: "Pleasant Events Schedule"
+    description:
+      en: "Pleasant Events Schedule (PES)"      
+  - name: "DISE"
+    title: 
+      en: "Daily Inventory of Stressful Events"
+    description:
+      en: "Daily Inventory of Stressful Events (DISE)"         
+  - name: "CTS"
+    title: 
+      en: "Conflict Tactics Scale"
+    description:
+      en: "Conflict Tactics Scale (CTS)" 
+- name: "Other"
+  title:
+    en: "Scales for other social environment characteristics"
+  description:
+    en: "Scales for other social environment characteristics"
+  terms:
+  - name: "Singelis_Self_Construal"
+    title: 
+      en: "Singelis Self-Construal Scale"
+    description:
+      en: "Singelis Self-Construal Scale"
+  - name: "Relational_Interdependent_Self_Construal"
+    title: 
+      en: "Relational Interdependent Self Construal Scale"
+    description:
+      en: "Relational Interdependent Self Construal Scale"      
+  - name: "Social_Obligation"
+    title: 
+      en: "Social Obligation Scale"
+    description:
+      en: "Social Obligation Scale"  
+  - name: "Major_Experiences_Discrimination"
+    title: 
+      en: "Major Experiences of Discrimination Scale"
+    description:
+      en: "Major Experiences of Discrimination Scale"  
+  - name: "Everyday_Discrimination"
+    title: 
+      en: "Everyday Discrimination Scale"
+    description:
+      en: "Everyday Discrimination Scale"  
+  - name: "Keyes_Social_Well_Being"
+    title: 
+      en: "Social Well-Being Scale"
+    description:
+      en: "Social Well-Being Scale (Keyes)"  
+  - name: "Marital_Risk"
+    title: 
+      en: "Marital Risk Scale"
+    description:
+      en: "Marital Risk Scale"
