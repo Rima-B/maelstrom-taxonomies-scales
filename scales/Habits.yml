@@ -89,6 +89,16 @@ vocabularies:
       en: "WHICAP Sleep Form"
     description:
       en: "WHICAP Sleep Form"
+  - name: "PSQ"
+    title:
+      en: "Pittsburgh Sleep Questionnaire"
+    description:
+      en: "Pittsburgh Sleep Questionnaire (PSQ)"
+  - name: "Actiwatch_Daily_Sleep_Diary"
+    title:
+      en: "Actiwatch: Daily Sleep Diary"
+    description:
+      en: "Actiwatch: Daily Sleep Diary"
 - name: "Other"
   title:
     en: "Other scales for life habits"
@@ -100,3 +110,8 @@ vocabularies:
       en: "SLS Health behavior questionnaire"
     description:
       en: "Health Behavior Questionnaire from Seattle Longitudinal Study"
+  - name: "Technology"
+    title:
+      en: "Technology Survey"
+    description:
+      en: "Technology Survey"
