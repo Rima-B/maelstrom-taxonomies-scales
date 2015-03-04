@@ -1,19 +1,21 @@
 name: "Mlstr_genhealth"
 title:
-  en: "Scales for general health"
+  en: "Constructs for general health"
+  fr: "Information au sujet de mesures composées (échelles) de la santé générale"
 description:
-  en: "Refers to scales for general health"
+  en: "Refers constructs used to measure general health"
+  fr: "Information au sujet de mesures composées (échelles) de la santé générale"
 vocabularies:
 - name: "Perception"
   title:
-    en: "Scales for health perception"
+    en: "Constructs for health perception"
   description:
-    en: "Scales of perception of health"
+    en: "Perception of health constructs"
 - name: "Quality"
   title:
-    en: "Scales for quality of life"
+    en: "Constructs for quality of life"
   description:
-    en: "Quality of life scales"
+    en: "Quality of life constructs"
   terms:
   - name: "QoL"
     title:
@@ -32,9 +34,9 @@ vocabularies:
       en: "The Short Form (SF12) Health Survey"  
 - name: "Functional"
   title:
-    en: "Scales for functional activities"
+    en: "Constructs for functional activities"
   description:
-    en: "Scales for functional activities of daily activities"
+    en: "Constructs for functional activities of daily activities"
   terms:
   - name: "ADL"
     title:
@@ -98,9 +100,9 @@ vocabularies:
       en: "Functional Activities Questionnaire (FAQ)"
 - name: "Other"
   title:
-    en: "Scales for other general health"
+    en: "Constructs for other general health"
   description:
-    en: "Scales for other general health"
+    en: "Constructs for other measures of general health"
   terms:
   - name: "Life_Space"
     title:
