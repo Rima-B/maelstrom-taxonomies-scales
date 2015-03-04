@@ -1,14 +1,16 @@
 name: "Mlstr_cogscale"
 title:
-  en: "Scales for cognitive functioning and mental health"
+  en: "Constructs for cognitive functioning and mental health"
+  fr: "Information au sujet de mesures composées (échelles) du fonctionnement cognitif et de la santé mentale"
 description:
-  en: "Scales for cognitive functioning and mental health"
+  en: "Constructs for cognitive functioning and mental health"
+  fr: "Information au sujet de mesures composées (échelles) du fonctionnement cognitif et de la santé mentale"
 vocabularies:
 - name: "Cog_scale"
   title:
-    en: "Scales for cognitive functioning"
+    en: "Constructs for cognitive functioning"
   description:
-    en: "Information about cognitive tests"
+    en: "Information about tests of cognitive functioning"
   terms:
   - name: "CDR"
     title:
@@ -324,7 +326,7 @@ vocabularies:
     title:
       en: "Controlled Oral Word Association Test"
     description:
-      en: "Controlled Oral Word Association Test (COWAT)"      
+      en: "Controlled Oral Word Association Test (COWAT)"
   - name: "Cat_Fluency"
     title:
       en: "Category Fluency Test"
@@ -470,13 +472,13 @@ vocabularies:
       en: "Lifetime of Experiences Questionnaire"
     description:
       en: "Lifetime of Experiences Questionnaire (LEQ)"            
-  - name: "Personality"
-    title:
-      en: "Scales for personality measures"
-      fr: "Mesures de personalité"
-    description:
-      en: "Information about composite measures (scales, scores) of personality tests."
-      fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
+- name: "Personality"
+  title:
+    en: "Constructs for personality measures"
+    fr: "Mesures de personalité"
+  description:
+    en: "Information about composite measures (scales, scores) of personality tests."
+    fr: "Information au sujet de mesures composées (échelles) de tests de personalité."
   terms:
   - name: "NEO_PIR"
     title:
@@ -545,7 +547,7 @@ vocabularies:
       en: "Life Orientation Test"      
 - name: "Emotional"
   title:
-    en: "Scales for emotional distress"
+    en: "Constructs for emotional distress"
     fr: "Mesures de détresse émotionnelle"
   description:
     en: "Information about composite measures (scales, scores) of emotional distress tests."
@@ -648,9 +650,11 @@ vocabularies:
       en: "Dispositional Positive Emotion Scale (DPES)"       
 - name: "Other_psycho"
   title:
-    en: "Scales for other psychological measures"
+    en: "Constructs for other psychological measures"
+    fr: "D'autres mesures psychologiques"
   description:
     en: "Information about other composite measures (scales, scores) of psychological tests."
+    fr: "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
   terms:
   - name: "SWLS"
     title:
