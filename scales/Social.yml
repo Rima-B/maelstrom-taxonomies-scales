@@ -1,19 +1,21 @@
 name: "Mlstr_social"
 title:
-  en: "Scales for the social domain"
+  en: "Constructs for the social domain"
+  fr: "Échelles utilisées dans le domaine social"
 description:
-  en: "Refers to scales used in the social domain"
+  en: "Refers to constructs used in the social domain"
+  fr: "Information au sujet de mesures composites (échelles) utilisées dans le domaine social"
 vocabularies:
 - name: "Social_network"
   title:
-    en: "Scales for social networks"
+    en: "Constructs for social networks"
   description:
-      en: "Scales for the measurement of social networks"
+      en: "Constructs for the measurement of social networks"
 - name: "Social_Participation"
   title:
-   en: "Scales for social participation"
+   en: "Constructs for social participation"
   description:
-   en: "Scales for the measurement of social participation"
+   en: "Constructs for the measurement of social participation"
   terms:
   - name: "SPA"
     title:
@@ -22,7 +24,7 @@ vocabularies:
       en: "Social participation (SPA)"
   - name: "MAS"
     title:
-      en: "Mesure des activités sociales"
+      en: "Mesure des activites sociales"
     description:
       en: "Mesure des activités sociales (MAS)"
   - name: "Social_Responsibility"
@@ -32,9 +34,9 @@ vocabularies:
       en: "Community/Work Social Responsibility"
 - name: "Social_support"
   title:
-    en: "Scales for social support"
+    en: "Constructs for social support"
   description:
-    en: "Scales for the measurement of social support"
+    en: "Constructs for the measurement of social support"
   terms:
   - name: "MOS_SSA"
     title:
@@ -93,9 +95,9 @@ vocabularies:
       en: "MIDUS Social Support"          
 - name: "LifeEvent"
   title:
-    en: "Scales for life events"
+    en: "Constructs for life events"
   description:
-    en: "Scales for the measurement of life events"
+    en: "Constructs for the measurement of life events"
   terms:
   - name: "IRLE"
     title: 
@@ -134,9 +136,9 @@ vocabularies:
       en: "Conflict Tactics Scale (CTS)" 
 - name: "Other"
   title:
-    en: "Scales for other social environment characteristics"
+    en: "Constructs for other social environment characteristics"
   description:
-    en: "Scales for other social environment characteristics"
+    en: "Constructs for other social environment characteristics"
   terms:
   - name: "Singelis_Self_Construal"
     title: 
