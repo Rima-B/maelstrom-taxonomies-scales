@@ -1,40 +1,57 @@
-name: "Mlstr_harmo"
-title:
-  en: "Harmonization"
-  fr: "Harmonisation"
-description:
-  en: "Harmonization qualification by Maelstrom"
-  fr: "Qualification de l'harmonisation par Maelstrom"
-vocabularies:
-- name: "status"
-  title:
-    en: "Harmonization Status"
-  description:
-    en: "Harmonization Status"
-  terms:
-  - name: "complete"
-    title:
-      en: "Complete"
-    description:
-      en: "Harmonization is complete"
-  - name: "undetermined"
-    title:
-      en: "Undetermined"
-    description:
-      en: "Harmonization is undetermined (information pending)"
-  - name: "impossible"
-    title:
-      en: "Impossible"
-    description:
-      en: "Harmonization is impossible"
-- name: "comment"
-  title:
-    en: "Comment"
-  description:
-    en: "Detailed comments about the harmonization method"
-- name: "algorithm"
-  title:
-    en: "Algorithm"
-  description:
-    en: "Harmonization algorithm explanation"
-
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "Mlstr_harmo"
+"title":
+  "en": "Harmonization"
+  "fr": "Harmonisation"
+"description":
+  "en": "Harmonization qualification by Maelstrom"
+  "fr": "Qualification de l'harmonisation par Maelstrom"
+"vocabularies":
+- "name": "status"
+  "title":
+    "en": "Harmonization Status"
+    "fr": "Statut d'harmonisation"
+  "description":
+    "en": "Harmonization Status"
+    "fr": "Statut d'harmonisation"
+  "terms":
+  - "name": "complete"
+    "title":
+      "en": "Complete"
+      "fr": "Complet"
+    "description":
+      "en": "Harmonization status is complete."
+      "fr": "Le statut d'harmonisation est complet."
+    "terms": []
+  - "name": "undetermined"
+    "title":
+      "en": "Undetermined"
+      "fr": "Indéterminé"
+    "description":
+      "en": "Harmonization status is undetermined (information pending)."
+      "fr": "Le statut d'harmonisation est indéterminé (en attente d'information)."
+    "terms": []
+  - "name": "impossible"
+    "title":
+      "en": "Impossible"
+      "fr": "Impossible"
+    "description":
+      "en": "Harmonization status is impossible."
+      "fr": "Le statut d'harmonisation est impossible."
+    "terms": []
+- "name": "comment"
+  "title":
+    "en": "Comment"
+    "fr": "Commentaire"
+  "description":
+    "en": "Additional information about the harmonized variable."
+    "fr": "Information supplémentaire à propos de la variable harmonisée."
+  "terms": []
+- "name": "algorithm"
+  "title":
+    "en": "Algorithm"
+    "fr": "Algorithme"
+  "description":
+    "en": "Algorithm used to generate the harmonized variable."
+    "fr": "Algorithme utilisé pour générer la variable harmonisée."
+  "terms": []
