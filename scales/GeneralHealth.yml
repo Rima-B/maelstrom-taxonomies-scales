@@ -1,111 +1,183 @@
-name: "Mlstr_genhealth"
-title:
-  en: "Constructs for general health"
-  fr: "Information au sujet de mesures composées (échelles) de la santé générale"
-description:
-  en: "Refers constructs used to measure general health"
-  fr: "Information au sujet de mesures composées (échelles) de la santé générale"
-vocabularies:
-- name: "Perception"
-  title:
-    en: "Constructs for health perception"
-  description:
-    en: "Perception of health constructs"
-- name: "Quality"
-  title:
-    en: "Constructs for quality of life"
-  description:
-    en: "Quality of life constructs"
-  terms:
-  - name: "QoL"
-    title:
-      en: "Quality of Life scale"
-    description:
-      en: "Quality of Life scale (QoL)" 
-  - name: "SF36_"
-    title:
-      en: "Short Form (SF36) Health Survey"
-    description:
-      en: "The Short Form (SF36) Health Survey"  
-  - name: "SF12_"
-    title:
-      en: "The Short Form (SF12) Health Survey"
-    description:
-      en: "The Short Form (SF12) Health Survey"  
-- name: "Functional"
-  title:
-    en: "Constructs for functional activities"
-  description:
-    en: "Constructs for functional activities of daily activities"
-  terms:
-  - name: "ADL"
-    title:
-      en: "Activities of Daily Living"
-    description:
-      en: "Activities of Daily Living (ADL)"
-  - name: "OARS_ADL"
-    title:
-      en: "ADL from the Older Americans Resources and Services list"
-    description:
-      en: "Activities of Daily Living (ADL) from the Older Americans Resources and Services (OARS) list"
-  - name: "IADL"
-    title:
-      en: "Instrumental Activities of Daily Living"
-    description:
-      en: "Instrumental Activities of Daily Living (IADL)"
-  - name: "OARS_IADL"
-    title:
-      en: "IADL from the Older Americans Resources and Services list"
-    description:
-      en: "Instrumental Activities of Daily Living (IADL) from the Older Americans Resources and Services (OARS) list"
-  - name: "OARS"
-    title:
-      en: "Older Americans Resources and Services list"
-    description:
-      en: "Older Americans Resources and Services (OARS) list"
-  - name: "FUL"
-    title:
-      en: "Functional status"
-    description:
-      en: "Functional status (FUL)"
-  - name: "Blessed_Dementia_Scale"
-    title:
-      en: "Blessed Dementia Scale"
-    description:
-      en: "Blessed Dementia Scale"
-  - name: "WHI_Selfrep_PA"
-    title:
-      en: "WHICAP Self-reported Physical Activity"
-    description:
-      en: "WHICAP Self-reported Physical Activity"     
-  - name: "SMAF"
-    title:
-      en: "Functional Autonomy Measurement System"
-    description:
-      en: "Functional Autonomy Measurement System (SMAF)"    
-  - name: "SMAF"
-    title:
-      en: "Functional Autonomy Measurement System"
-    description:
-      en: "Functional Autonomy Measurement System (SMAF)"
-  - name: "SMAF_Social"
-    title:
-      en: "Social Functional Autonomy Measurement System"
-    description:
-      en: "Social Functional Autonomy Measurement System (SMAF Social)"
-  - name: "FAQ"
-    title:
-      en: "Functional Activities Questionnaire"
-    description:
-      en: "Functional Activities Questionnaire (FAQ)"
-- name: "Other"
-  title:
-    en: "Constructs for other general health"
-  description:
-    en: "Constructs for other measures of general health"
-  terms:
-  - name: "Life_Space"
-    title:
-      en: "Life-space assessment"
-    description:
-      en: "Life-space assessment"
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "Mlstr_genhealth"
+"title":
+  "en": "Constructs for general health"
+  "fr": "Information au sujet de mesures composées (échelles) de la santé générale"
+"description":
+  "en": "Refers constructs used to measure general health"
+  "fr": "Information au sujet de mesures composées (échelles) de la santé générale"
+"vocabularies":
+- "name": "Perception"
+  "title":
+    "en": "Constructs for health perception"
+  "description":
+    "en": "Perception of health constructs"
+- "name": "Quality"
+  "title":
+    "en": "Constructs for quality of life"
+  "description":
+    "en": "Quality of life constructs"
+  "terms":
+  - "name": "QoL"
+    "title":
+      "en": "Quality of Life scale"
+    "description":
+      "en": "Quality of Life scale (QoL)"
+  - "name": "SF36"
+    "title":
+      "en": "Short Form (SF36) Health Survey"
+    "description":
+      "en": "The Short Form (SF36) Health Survey"
+    "terms": []
+  - "name": "SF12"
+    "title":
+      "en": "Short Form (SF12) Health Survey"
+    "description":
+      "en": "The Short Form (SF12) Health Survey"
+    "terms": []
+  - "name": "Gallup"
+    "title":
+      "en": "Gallup’s Quality of Community Life Survey"
+    "description":
+      "en": "Gallup’s Quality of Community Life Survey"
+    "terms": []
+  - "name": "CASP_19"
+    "title":
+      "en": "CASP-19 Quality of Life Scale"
+    "description":
+      "en": "CASP-19 Quality of Life Scale"
+    "terms": []
+  - "name": "VR_36"
+    "title":
+      "en": "Veterans Rand 36-Item Health Survey"
+    "description":
+      "en": "Veterans Rand 36-Item Health Survey"
+    "terms": []
+  - "name": "MOS_HRQOL"
+    "title":
+      "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
+    "description":
+      "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
+    "terms": []
+  - "name": "EUROHIS_QOL"
+    "title":
+      "en": "EUROHIS-QOL 8-Item Index"
+    "description":
+      "en": "EUROHIS-QOL 8-Item Index"
+    "terms": []
+- "name": "Functional"
+  "title":
+    "en": "Constructs for functional activities"
+  "description":
+    "en": "Constructs for functional activities of daily activities"
+  "terms":
+  - "name": "ADL"
+    "title":
+      "en": "Activities of Daily Living"
+    "description":
+      "en": "Activities of Daily Living (ADL)"
+  - "name": "OARS_ADL"
+    "title":
+      "en": "ADL from the Older Americans Resources and Services list"
+    "description":
+      "en": "Activities of Daily Living (ADL) from the Older Americans Resources and\
+        \ Services (OARS) list"
+  - "name": "IADL"
+    "title":
+      "en": "Instrumental Activities of Daily Living"
+    "description":
+      "en": "Instrumental Activities of Daily Living (IADL)"
+  - "name": "OARS_IADL"
+    "title":
+      "en": "IADL from the Older Americans Resources and Services list"
+    "description":
+      "en": "Instrumental Activities of Daily Living (IADL) from the Older Americans\
+        \ Resources and Services (OARS) list"
+  - "name": "OARS"
+    "title":
+      "en": "Older Americans Resources and Services list"
+    "description":
+      "en": "Older Americans Resources and Services (OARS) list"
+  - "name": "FUL"
+    "title":
+      "en": "Functional status"
+    "description":
+      "en": "Functional status (FUL)"
+  - "name": "Blessed_Dementia_Scale"
+    "title":
+      "en": "Blessed Dementia Scale"
+    "description":
+      "en": "Blessed Dementia Scale"
+  - "name": "WHI_Selfrep_PA"
+    "title":
+      "en": "WHICAP Self-reported Physical Activity"
+    "description":
+      "en": "WHICAP Self-reported Physical Activity"
+  - "name": "SMAF"
+    "title":
+      "en": "Functional Autonomy Measurement System"
+    "description":
+      "en": "Functional Autonomy Measurement System (SMAF)"
+  - "name": "SMAF_Social"
+    "title":
+      "en": "Social Functional Autonomy Measurement System"
+    "description":
+      "en": "Social Functional Autonomy Measurement System (SMAF Social)"
+  - "name": "FAQ"
+    "title":
+      "en": "Functional Activities Questionnaire"
+    "description":
+      "en": "Functional Activities Questionnaire (FAQ)"
+  - "name": "PADLs"
+    "title":
+      "en": "Physical Activities of Daily Living Scale"
+    "description":
+      "en": "Physical Activities of Daily Living Scale"
+    "terms": []
+  - "name": "Fried_Frailty"
+    "title":
+      "en": "Fried’s Frailty Phenotype"
+    "description":
+      "en": "Fried’s Frailty Phenotype"
+    "terms": []
+  - "name": "Strawbridge_Frailty"
+    "title":
+      "en": "Strawbridge Frailty Questionnaire"
+    "description":
+      "en": "Strawbridge Frailty Questionnaire"
+    "terms": []
+  - "name": "Townsend_Frailty"
+    "title":
+      "en": "Townsend Disability Scale"
+    "description":
+      "en": "Townsend Disability Scale"
+    "terms": []
+  - "name": "Fried_Townsend_Strawbridge"
+    "title":
+      "en": "Fried, Townsend and Strawbridge Scores"
+    "description":
+      "en": "Fried, Townsend and Strawbridge Scores"
+    "terms": []
+  - "name": "CSHA_Frailty"
+    "title":
+      "en": "CSHA Clinical Frailty Scale"
+    "description":
+      "en": "CSHA Clinical Frailty Scale"
+    "terms": []
+  - "name": "WHODAS"
+    "title":
+      "en": "World Health Organization Disability Assessment Schedule "
+    "description":
+      "en": "World Health Organization Disability Assessment Schedule "
+    "terms": []
+- "name": "Other"
+  "title":
+    "en": "Constructs for other general health"
+  "description":
+    "en": "Constructs for other measures of general health"
+  "terms":
+  - "name": "Life_Space"
+    "title":
+      "en": "Life-space assessment"
+    "description":
+      "en": "Life-space assessment"
