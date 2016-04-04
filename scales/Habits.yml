@@ -6,167 +6,275 @@
 "description":
   "en": "Refers to constructs used to measure life habits"
   "fr": "Information au sujet de mesures composites d'habitudes de vie"
+"attributes": {}
+"keywords": {}
 "vocabularies":
 - "name": "Alcohol"
   "title":
     "en": "Constructs for alcohol use"
   "description":
     "en": "Constructs used for alcohol"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "AUDIT"
     "title":
       "en": "Alcohol Use Disorders Identification Test"
     "description":
       "en": "Alcohol Use Disorders Identification Test (AUDIT)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Cahalan"
     "title":
       "en": "11-point Cahalan Scale of Socially Deviant Drinking"
     "description":
       "en": "11-point Cahalan Scale of Socially Deviant Drinking"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PDS"
     "title":
       "en": "Problem Drinking Scale"
     "description":
       "en": "Problem Drinking Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CAGE"
     "title":
       "en": "CAGE Questionnaire"
     "description":
       "en": "CAGE Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "MAST"
+    "title":
+      "en": "Michigan Alcohol Screening Test"
+    "description":
+      "en": "Michigan Alcohol Screening Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Nutrition"
   "title":
     "en": "Constructs for nutrition"
   "description":
     "en": "Constructs used for nutrition"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "FFQ"
     "title":
       "en": "Food Frequency Questionnaire"
     "description":
       "en": "Food Frequency Questionnaire (FFQ)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "NSI"
     "title":
       "en": "Nutritional Screening Initiative"
     "description":
       "en": "Nutritional Screening Initiative (Determine Qx)"
+    "attributes": {}
+    "keywords": {}
   - "name": "ENS"
     "title":
       "en": "Elderly Nutrition Screening"
     "description":
       "en": "Elderly Nutrition Screening"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "7day_dietary_record"
     "title":
       "en": "7 day dietary record"
     "description":
       "en": "7 day dietary record"
+    "attributes": {}
+    "keywords": {}
   - "name": "MNA"
     "title":
       "en": "Mini Nutritional Assessment"
     "description":
       "en": "Mini Nutritional Assessment"
+    "attributes": {}
+    "keywords": {}
   - "name": "24h_food_diary"
     "title":
       "en": "24-hour Food Diary"
     "description":
       "en": "24-hour Food Diary"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Willett_FFQ"
+    "title":
+      "en": "Willett Semi-Quantitative Food Frequency Questionnaire"
+    "description":
+      "en": "Willett Semi-Quantitative Food Frequency Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Physical_activity"
   "title":
     "en": "Constructs for physical activity"
   "description":
     "en": "Constructs used for physical activity"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "IPAQ"
     "title":
       "en": "International Physical Activity Questionnaire "
     "description":
       "en": "International Physical Activity Questionnaire (IPAQ)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PASE"
     "title":
       "en": "Physical Activity Scale for the Elderly"
     "description":
       "en": "Physical Activity Scale for the Elderly (PASE)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "HAPAQ"
     "title":
       "en": "Historical adulthood physical activity questionnaire"
     "description":
       "en": "Historical adulthood physical activity questionnaire (HAPAQ)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Leisure_time_PAQ"
     "title":
       "en": "Leisure time physical activity questionnaire"
     "description":
       "en": "Leisure Time Physical Activity Questionnaire"
+    "attributes": {}
+    "keywords": {}
   - "name": "Lifetime_total_PAQ"
     "title":
       "en": "Lifetime total physical activity questionnaire"
     "description":
       "en": "Lifetime total Physical Activity Questionnaire"
+    "attributes": {}
+    "keywords": {}
   - "name": "PPAQ"
     "title":
       "en": "Paffenbarger Physical Activity Questionnaire "
     "description":
       "en": "Paffenbarger Physical Activity Questionnaire "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PAQ"
     "title":
       "en": "Physical Activity Questionnaire"
     "description":
       "en": "Physical Activity Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Preg_PAQ"
     "title":
       "en": "Pregnancy Physical Activity Questionnaire"
     "description":
       "en": "Pregnancy Physical Activity Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Active_Australia"
+    "title":
+      "en": "Active Australia Survey"
+    "description":
+      "en": "Active Australia Survey"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PAFQ"
+    "title":
+      "en": "Physical Activity Frequency Questionnaire"
+    "description":
+      "en": "Physical Activity Frequency Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Sleep"
   "title":
     "en": "Constructs for sleep"
   "description":
     "en": "Constructs used for Sleep"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "WHI_Sleep"
     "title":
       "en": "WHICAP Sleep Form"
     "description":
       "en": "WHICAP Sleep Form"
+    "attributes": {}
+    "keywords": {}
   - "name": "PSQ"
     "title":
       "en": "Pittsburgh Sleep Questionnaire"
     "description":
       "en": "Pittsburgh Sleep Questionnaire (PSQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Actiwatch_Daily_Sleep_Diary"
     "title":
       "en": "Actiwatch: Daily Sleep Diary"
     "description":
       "en": "Actiwatch: Daily Sleep Diary"
+    "attributes": {}
+    "keywords": {}
   - "name": "Mayo_Sleep"
     "title":
       "en": "Mayo Sleep Questionnaire"
     "description":
       "en": "Mayo Sleep Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Other"
   "title":
     "en": "Other constructs for life habits"
   "description":
     "en": "Other constructs used for life habits"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "SLS_Health_Behavior"
     "title":
       "en": "SLS Health behavior questionnaire"
     "description":
       "en": "Health Behavior Questionnaire from Seattle Longitudinal Study"
+    "attributes": {}
+    "keywords": {}
   - "name": "Technology"
     "title":
       "en": "Technology Survey"
     "description":
       "en": "Technology Survey"
+    "attributes": {}
+    "keywords": {}
+- "name": "Tobacco"
+  "title":
+    "en": "Constructs for tobacco use"
+  "description":
+    "en": "Constructs use for tobacco"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "FTND"
+    "title":
+      "en": "Fagerström Test for Nicotine Dependence"
+    "description":
+      "en": "Fagerström Test for Nicotine Dependence"
+    "attributes": {}
+    "keywords": {}
+    "terms": []

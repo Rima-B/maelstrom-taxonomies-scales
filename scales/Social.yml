@@ -7,282 +7,518 @@
   "en": "Refers to constructs used in the social domain"
   "fr": "Information au sujet de mesures composites (échelles) utilisées dans le domaine\
     \ social"
+"attributes": {}
+"keywords": {}
 "vocabularies":
 - "name": "Social_network"
   "title":
     "en": "Constructs for social networks"
   "description":
     "en": "Constructs for the measurement of social networks"
+  "attributes": {}
+  "keywords": {}
 - "name": "Social_participation"
   "title":
     "en": "Constructs for social participation"
   "description":
     "en": "Constructs for the measurement of social participation"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "SPA"
     "title":
       "en": "Social participation"
     "description":
       "en": "Social participation (SPA)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MAS"
     "title":
-      "en": "Mesure des activites sociales"
+      "en": " Elderly Activity Inventory Questionnaire"
     "description":
-      "en": "Mesure des activités sociales (MAS)"
+      "en": "Elderly Activity Inventory Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Social_Responsibility"
     "title":
       "en": "Community/Work Social Responsibility"
     "description":
       "en": "Community/Work Social Responsibility"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Social_Connectedness"
     "title":
       "en": "Social Connectedness Scale"
     "description":
       "en": "Social Connectedness Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Participation_Limitation"
+    "title":
+      "en": "Participation and Activity Limitation Survey "
+    "description":
+      "en": "Participation and Activity Limitation Survey "
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Associational_Solidarity"
+    "title":
+      "en": "Associational Solidarity Scale"
+    "description":
+      "en": "Associational Solidarity Scale (Bengston, 1991)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "EHLE"
+    "title":
+      "en": "Early Home Learning Environment"
+    "description":
+      "en": "Early Home Learning Environment"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Social_support"
   "title":
     "en": "Constructs for social support"
   "description":
     "en": "Constructs for the measurement of social support"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "MOS_SSA"
     "title":
       "en": "Medical Outcomes Study (MOS) Social Support Availability (SSA)"
     "description":
       "en": "Medical Outcomes Study (MOS) Social Support Availability (SSA)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "De_Jong_Gierveld_Loneliness_Scale"
     "title":
       "en": "De Jong Gierveld Loneliness Scale"
     "description":
       "en": "De Jong Gierveld Loneliness Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ISSI"
     "title":
       "en": "Interview Schedule for Social Interaction"
     "description":
       "en": "Interview Schedule for Social Interaction (ISSI)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Affectual_Solidarity"
     "title":
       "en": "Affectual Solidarity Scale"
     "description":
       "en": "Affectual Solidarity Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "LSNS_6"
     "title":
       "en": "Lubben Social Network Scale-6"
     "description":
       "en": "Lubben Social Network Scale-6 (LSNS-6)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Perceived_Support_Conflict_Protocol"
     "title":
       "en": "Perceived Social Support/Conflict Protocol"
     "description":
       "en": "Perceived Social Support/Conflict Protocol"
+    "attributes": {}
+    "keywords": {}
   - "name": "Parental_Affection"
     "title":
       "en": "Parental Affection in Childhood Scale"
     "description":
       "en": "Parental Affection in Childhood Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Seeking_Social_Support"
     "title":
       "en": "Seeking Social Support"
     "description":
       "en": "Seeking Social Support"
+    "attributes": {}
+    "keywords": {}
   - "name": "Partner_Decision_Making"
     "title":
       "en": "Spouse/Partner Joint Decision Making"
     "description":
       "en": "Spouse/Partner Joint Decision Making"
+    "attributes": {}
+    "keywords": {}
   - "name": "Family_Obligation"
     "title":
       "en": "Family Obligation"
     "description":
       "en": "Family Obligation"
+    "attributes": {}
+    "keywords": {}
   - "name": "Midus_Social_Support"
     "title":
       "en": "MIDUS Social Support"
     "description":
       "en": "MIDUS Social Support"
+    "attributes": {}
+    "keywords": {}
   - "name": "UCLA_Loneliness"
     "title":
       "en": "UCLA Loneliness Scale"
     "description":
       "en": "UCLA Loneliness Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CPQ"
     "title":
       "en": "Close Persons Questionnaire"
     "description":
       "en": "Close Persons Questionnaire (Stansfeld and Marmot, 1992)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Schuster_Social_Support"
+    "title":
+      "en": "Schuster's Social Support Scales"
+    "description":
+      "en": "Schuster's Social Support Scales"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CPRS_SF"
+    "title":
+      "en": "Child-Parent Relationship Scale"
+    "description":
+      "en": "Child-Parent Relationship Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "GRIMS"
+    "title":
+      "en": "Golombok Rust Inventory of Marital State"
+    "description":
+      "en": "Golombok Rust Inventory of Marital State"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CMAQ"
+    "title":
+      "en": "Condon Maternal Attachment Questionnaire"
+    "description":
+      "en": "Condon Maternal Attachment Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Normative_Solidarity"
+    "title":
+      "en": "Normative Solidarity Scale"
+    "description":
+      "en": "Normative Solidarity Scale (Bengston, 1991)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "AAS"
+    "title":
+      "en": "Adult Attachment Scale"
+    "description":
+      "en": "Adult Attachment Scale (Hazen & Shaver, 1987)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Heller_Familism"
+    "title":
+      "en": "Familism Scale"
+    "description":
+      "en": "Familism Scale (Heller, 1976)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "FAD"
+    "title":
+      "en": "McMaster Family Assessment Device"
+    "description":
+      "en": "McMaster Family Assessment Device"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Non_Reciprocal"
+    "title":
+      "en": "Non-Reciprocal Social Relations Questionnaire"
+    "description":
+      "en": "Non-Reciprocal Social Relations Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "LifeEvents"
   "title":
     "en": "Constructs for life events"
   "description":
     "en": "Constructs for the measurement of life events"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "IRLE"
     "title":
       "en": "Interview for Recent Life Events"
     "description":
       "en": "Interview for Recent Life Events (IRLE)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CAQ"
     "title":
       "en": "Childhood Adversity Questionnaire"
     "description":
       "en": "Childhood Adversity Questionnaire (CAQ)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "LEC_5"
     "title":
       "en": "Life Events Checklist for DSM-5"
     "description":
       "en": "Life Events Checklist for DSM-5 (LEC-5)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CTQ"
     "title":
       "en": "Childhood Trauma Questionnaire"
     "description":
       "en": "Childhood Trauma Questionnaire (CTQ)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PES"
     "title":
       "en": "Pleasant Events Schedule"
     "description":
       "en": "Pleasant Events Schedule (PES)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "DISE"
     "title":
       "en": "Daily Inventory of Stressful Events"
     "description":
       "en": "Daily Inventory of Stressful Events (DISE)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CTS"
     "title":
       "en": "Conflict Tactics Scale"
     "description":
       "en": "Conflict Tactics Scale (CTS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SLE"
     "title":
       "en": "Stressful Life Event Questionnaire"
     "description":
       "en": "Stressful Life Event Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ELSI"
     "title":
       "en": "Elders Life Stress Inventory "
     "description":
       "en": "Elders Life Stress Inventory "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PLES"
     "title":
       "en": "Prenatal Life Events Scale"
     "description":
       "en": "Prenatal Life Events Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SRRS"
     "title":
       "en": "Social Readjustment Rating Scale "
     "description":
       "en": "Social Readjustment Rating Scale (Holmes and Rahe, 1967)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "TSQ"
+    "title":
+      "en": "Trauma Screening Questionnaire"
+    "description":
+      "en": "Trauma Screening Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "LTE_Q"
+    "title":
+      "en": "List of Threatening Experiences Questionnaire"
+    "description":
+      "en": "List of Threatening Experiences Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CTSPC"
+    "title":
+      "en": "Conflict Tactics Scale for Parent and Child"
+    "description":
+      "en": "Conflict Tactics Scale for Parent and Child"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Other"
   "title":
     "en": "Constructs for other social environment characteristics"
   "description":
     "en": "Constructs for other social environment characteristics"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Singelis_Self_Construal"
     "title":
       "en": "Singelis Self-Construal Scale"
     "description":
       "en": "Singelis Self-Construal Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Relational_Interdependent_Self_Construal"
     "title":
       "en": "Relational Interdependent Self Construal Scale"
     "description":
       "en": "Relational Interdependent Self Construal Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Social_Obligation"
     "title":
       "en": "Social Obligation Scale"
     "description":
       "en": "Social Obligation Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Major_Experiences_Discrimination"
     "title":
       "en": "Major Experiences of Discrimination Scale"
     "description":
       "en": "Major Experiences of Discrimination Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Everyday_Discrimination"
     "title":
       "en": "Everyday Discrimination Scale"
     "description":
       "en": "Everyday Discrimination Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Keyes_Social_Well_Being"
     "title":
       "en": "Social Well-Being Scale"
     "description":
       "en": "Social Well-Being Scale (Keyes)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Marital_Risk"
     "title":
       "en": "Marital Risk Scale"
     "description":
       "en": "Marital Risk Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Sympathy"
     "title":
       "en": "Sympathy Scale"
     "description":
       "en": "Sympathy Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Adjustment"
     "title":
       "en": "Adjustment Scale"
     "description":
       "en": "Adjustment Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Partner_Disagreement"
     "title":
       "en": "Spouse/Partner Disagreement"
     "description":
       "en": "Spouse/Partner Disagreement"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "EPSI"
     "title":
       "en": "Erikson Psychosocial Stage Inventory "
     "description":
       "en": "Erikson Psychosocial Stage Inventory "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "BCS"
     "title":
       "en": "Boyhood Competence Scale"
     "description":
       "en": "Boyhood Competence Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CESS"
     "title":
       "en": "Childhood Environmental Strengths Scale"
     "description":
       "en": "Childhood Environmental Strengths Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CEWS"
     "title":
       "en": "Childhood Environmental Weaknesses Scale"
     "description":
       "en": "Childhood Environmental Weaknesses Scale "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PACOTIS"
     "title":
       "en": "Parental Cognitions and Conduct Toward the Infant Scale"
     "description":
       "en": "Parental Cognitions and Conduct Toward the Infant Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "FES"
     "title":
       "en": "Family Environment Scale"
     "description":
       "en": "Family Environment Scale (Moos & Moos, 1981)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Consensual_Solidarity"
+    "title":
+      "en": "Consensual Solidarity Scale"
+    "description":
+      "en": "Consensual Solidarity Scale (Bengston, 1991)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CHAOS"
+    "title":
+      "en": "Confusion, Hubbub, and Order Scale"
+    "description":
+      "en": "Confusion, Hubbub, and Order Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []

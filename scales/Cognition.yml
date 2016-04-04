@@ -8,816 +8,1289 @@
   "en": "Constructs for cognitive functioning and mental health"
   "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif\
     \ et de la santé mentale"
+"attributes": {}
+"keywords": {}
 "vocabularies":
 - "name": "Cog_scale"
   "title":
     "en": "Constructs for cognitive functioning"
   "description":
     "en": "Information about tests of cognitive functioning"
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "CDR"
     "title":
       "en": "Clinical Dementia Rating Scale"
     "description":
       "en": "Clinical Dementia Rating Scale (CDR)"
+    "attributes": {}
+    "keywords": {}
   - "name": "HIS"
     "title":
       "en": "Hachinski Ischemic Score"
     "description":
       "en": "Hachinski Ischemic Score (HIS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MIS"
     "title":
       "en": "Modified Ischemic Score"
     "description":
       "en": "Modified Ischemic Score (MIS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "SIB"
     "title":
       "en": "Severe Impairment Battery"
     "description":
       "en": "Severe Impairment Battery (SIB)"
+    "attributes": {}
+    "keywords": {}
   - "name": "TICS"
     "title":
       "en": "Telephone Interview for Cognitive Status"
     "description":
       "en": "Telephone Interview for Cognitive Status (TICS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Semiqual_Clinical_Fluct_Cognition"
     "title":
       "en": "Semiqualified Clinical Fluctuating Cognition Rating Scale"
     "description":
       "en": "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "MMSE"
     "title":
       "en": "Mini Mental State Exam"
     "description":
       "en": "Mini Mental State Exam (MMSE)"
+    "attributes": {}
+    "keywords": {}
   - "name": "7MS"
     "title":
       "en": "7 Minutes Screening Test"
     "description":
       "en": "7 Minutes Screening Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "MMSE_TMT"
     "title":
       "en": "Mini Mental State Exam with Trail Making Test"
     "description":
       "en": "Mini Mental State Exam with Trail Making Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "MOCA"
     "title":
       "en": "Montreal Cognitive Assessment"
     "description":
       "en": "Montreal Cognitive Assessment (MOCA)"
+    "attributes": {}
+    "keywords": {}
   - "name": "3MS"
     "title":
       "en": "Modified Mini Mental State"
     "description":
       "en": "Modified Mini Mental State (3MS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "IQCODE"
     "title":
-      "en": "Informant Qx on Cognitive Decline in the Elderly"
+      "en": "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE)"
     "description":
       "en": "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "NCSE"
     "title":
       "en": "Neurobehavioral Cognitive Status Examination"
     "description":
       "en": "Neurobehavioral Cognitive Status Examination (NCSE)"
+    "attributes": {}
+    "keywords": {}
   - "name": "ONID"
     "title":
       "en": "Oregon Noncognitive Inventory for Dementia"
     "description":
       "en": "Oregon Noncognitive Inventory for Dementia (ONID)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WHI_SMC"
     "title":
-      "en": "Subjective memory complaints (SMC)"
+      "en": "Subjective memory complaints questionnaire (SMCQ)"
     "description":
-      "en": "WHICAP Subjective memory complaints (SMC)"
+      "en": "Subjective Memory Complaints Questionnaire SMCQ "
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "Memory_funct_qx"
     "title":
       "en": "Memory Functioning Questionnaire"
     "description":
       "en": "Memory Functioning Questionnaire (MFQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Cambridge_Face_Memory"
     "title":
       "en": "Cambridge Face Memory Test"
     "description":
       "en": "Cambridge Face Memory Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "BOMC"
     "title":
       "en": "Blessed Orientation Memory Concentration Test"
     "description":
       "en": "Blessed Orientation Memory Concentration Test (BOMC)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Verbal_learning"
     "title":
       "en": "Verbal Learning Test"
     "description":
       "en": "Verbal Learning Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "MCG_Complex_figures"
     "title":
       "en": "MCG Complex figures"
     "description":
-      "en": "Medical College of Georgia Complex figures in repeated memory test"
+      "en": "MCG Complex figures"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "TMT"
     "title":
       "en": "Trail Making Test"
     "description":
       "en": "Trail Making Test (TMT)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Line_orientation"
     "title":
       "en": "Judgement of line orientation test"
     "description":
       "en": "Judgement of line orientation test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Verbal_fluency"
     "title":
-      "en": "Verbal Fluency Test"
+      "en": "Verbal fluency"
     "description":
-      "en": "Verbal fluency test"
+      "en": "Verbal fluency"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "Boston_naming"
     "title":
       "en": "Boston Naming Test"
     "description":
       "en": "Boston Naming Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Comprehension_test"
     "title":
       "en": "Comprehension test"
     "description":
       "en": "Comprehension test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Repetition_test"
     "title":
       "en": "Repetition test"
     "description":
       "en": "Repetition test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Vocabulary_test"
     "title":
       "en": "Vocabulary test"
     "description":
       "en": "Vocabulary test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Executive_function"
     "title":
       "en": "Executive Function Test"
     "description":
       "en": "Executive Function Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Clock_Drawing_CDT"
     "title":
       "en": "Clock Drawing Test"
     "description":
       "en": "Clock Drawing Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Delayed_word_list"
     "title":
-      "en": "Delayed word list"
+      "en": "Delayed Word Recall"
     "description":
-      "en": "Delayed word list free recall"
+      "en": "Delayed Word Recall"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "Work_Mem_Span"
     "title":
       "en": "Working Memory Span"
     "description":
       "en": "Working Memory Span tasks (WMS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAMAT_fig_rot"
     "title":
       "en": "STAMAT Figure rotation"
     "description":
       "en": "Schaie-Thurstone Adult Mental Abilities Test (Figure rotation)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAMAT_letter_series"
     "title":
       "en": "STAMAT Letter series"
     "description":
       "en": "Schaie-Thurstone Adult Mental Abilities Test (Letter series)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAMAT_obj_rot"
     "title":
       "en": "STAMAT Object rotation"
     "description":
       "en": "Schaie-Thurstone Adult Mental Abilities Test (Object rotation)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAMAT_spat_ability"
     "title":
       "en": "STAMAT Spatial ability"
     "description":
       "en": "Schaie-Thurstone Adult Mental Abilities Test (Spatial ability)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAMAT_word_series"
     "title":
       "en": "STAMAT Word series"
     "description":
       "en": "Schaie-Thurstone Adult Mental Abilities Test (Word series)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Immed_wordlist"
     "title":
       "en": "Immediate recall word list"
     "description":
       "en": "Immediate recall word list"
+    "attributes": {}
+    "keywords": {}
   - "name": "Letter_comparison"
     "title":
       "en": "Letter comparison test"
     "description":
       "en": "Letter comparison test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Number_comparison"
     "title":
       "en": "Number comparison"
     "description":
       "en": "Number comparison"
+    "attributes": {}
+    "keywords": {}
   - "name": "Pattern_comparison"
     "title":
       "en": "Pattern comparison"
     "description":
       "en": "Pattern comparison"
+    "attributes": {}
+    "keywords": {}
   - "name": "Word_recognition"
     "title":
       "en": "Word recognition"
     "description":
       "en": "Word recognition"
+    "attributes": {}
+    "keywords": {}
   - "name": "Prose_recall"
     "title":
       "en": "Prose recall"
     "description":
       "en": "Prose recall"
+    "attributes": {}
+    "keywords": {}
   - "name": "Word_series"
     "title":
       "en": "Word series"
     "description":
       "en": "Word series"
-  - "name": "FAS_Test"
-    "title":
-      "en": "FAS Test"
-    "description":
-      "en": "FAS Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAIS_Information"
     "title":
       "en": "WAIS Information"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Information"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAIS_Symbol_Search"
     "title":
-      "en": "WAIS Symbol Search"
+      "en": "WAIS Digit Symbol test"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Symbol Search"
+      "en": "Wechsler Adult Intelligence Scale (WAIS) Digit Symbol test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "WAIS_Vocabulary"
     "title":
       "en": "WAIS Vocabulary"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Vocabulary"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAIS_Similarities"
     "title":
       "en": "WAIS Similarities"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Similarities"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAIS_Coding"
     "title":
       "en": "WAIS Coding"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Coding"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAIS_Digit_Span"
     "title":
       "en": "WAIS Digit Span"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Digit Span"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WAIS_Block_Design"
     "title":
       "en": "WAIS Block Design"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Block Design"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WAIS_Picture_Completion"
     "title":
       "en": "WAIS Picture Completion"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Picture Completion"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WAIS_Arithmetic"
     "title":
       "en": "WAIS Arithmetic"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Arithmetic"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WAIS_Comprehension"
     "title":
       "en": "WAIS Comprehension"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Comprehension"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WAIS_Matrix_Reasoning"
     "title":
       "en": "WAIS Matrix Reasoning"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Matrix Reasoning"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SRT"
     "title":
       "en": "Simple Reaction Time"
     "description":
       "en": "Simple Reaction Time (SRT)"
+    "attributes": {}
+    "keywords": {}
   - "name": "CRT"
     "title":
       "en": "Choice Reaction Time"
     "description":
       "en": "Choice Reaction Time (CRT)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Symbol_Digit_Modalities"
     "title":
       "en": "Symbol Digit Modalities Test"
     "description":
       "en": "Symbol Digit Modalities Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Forward_Digit_Span"
     "title":
       "en": "Forward Digit Span Task"
     "description":
       "en": "Forward Digit Span Task"
+    "attributes": {}
+    "keywords": {}
   - "name": "Backward_Digit_Span"
     "title":
       "en": "Backward Digit Span Task"
     "description":
       "en": "Backward Digit Span Task"
+    "attributes": {}
+    "keywords": {}
   - "name": "Spot_the_Word"
     "title":
       "en": "Spot the Word Test"
     "description":
       "en": "Spot the Word Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "COWAT"
     "title":
       "en": "Controlled Oral Word Association Test"
     "description":
       "en": "Controlled Oral Word Association Test (COWAT)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Cat_Fluency"
     "title":
       "en": "Category Fluency Test"
     "description":
       "en": "Category Fluency Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "SGST"
     "title":
       "en": "Stop & Go Switch Task"
     "description":
       "en": "Stop & Go Switch Task (SGST)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Number_Series"
     "title":
       "en": "Number Series Test"
     "description":
       "en": "Number Series Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Backward_Counting"
     "title":
       "en": "Backward Counting Test"
     "description":
       "en": "Backward Counting Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "RT_Accuracy"
     "title":
       "en": "Reaction Time and Accuracy"
     "description":
       "en": "Reaction Time and Accuracy"
+    "attributes": {}
+    "keywords": {}
   - "name": "CERAD_Word_List"
     "title":
-      "en": "CERAD Word List"
+      "en": "CERAD Word List Memory"
     "description":
-      "en": "Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) Word\
-        \ List"
+      "en": "CERAD Word List Memory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WMS_Logical_Memory"
     "title":
       "en": "Wechsler Logical memory"
     "description":
       "en": "Wechsler Memory Scale (Logical memory)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WMS_Visual_Reproduction"
     "title":
       "en": "Wechsler Visual reproduction"
     "description":
       "en": "Wechsler Memory Scale (Visual reproduction)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WMS_Face_Recognition"
     "title":
       "en": "Wechsler Face recognition"
     "description":
       "en": "Wechsler Memory Scale (Face recognition)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WMS_Letter_Number"
     "title":
       "en": "Wechsler Letter number"
     "description":
       "en": "Wechsler Memory Scale (Letter number)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WMS_Mental_Control"
     "title":
       "en": "Wechsler Mental control"
     "description":
       "en": "Wechsler Memory Scale (Mental control)"
+    "attributes": {}
+    "keywords": {}
   - "name": "CCT_Verbal_Reasoning"
     "title":
       "en": "CCT Verbal Reasoning"
     "description":
       "en": "Cognitive Competency Test (Verbal reasoning)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Temporal_Orientation"
     "title":
       "en": "Temporal Orientation Test"
     "description":
       "en": "Temporal Orientation Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAB_Reading"
     "title":
       "en": "WAB Reading commands"
     "description":
       "en": "Western Aphasia Battery (Reading commands)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WAB_Writing"
     "title":
       "en": "WAB Writing commands"
     "description":
       "en": "Western Aphasia Battery (Writing commands)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Serial_3s"
     "title":
       "en": "Subtraction Serial 3s"
     "description":
       "en": "Subtraction Serial 3s"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CERAD_Construction_Praxis"
     "title":
-      "en": "CERAD Construction Praxis Recall"
+      "en": "CERAD Constructional Praxis Recall"
     "description":
-      "en": "Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) Construction\
-        \ Praxis Recall"
-  - "name": "Letter_Fluency"
-    "title":
-      "en": "Letter Fluency"
-    "description":
-      "en": "Letter Fluency"
+      "en": "CERAD Constructional Praxis Recall"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "Tactile_Naming"
     "title":
       "en": "Tactile Naming Test"
     "description":
       "en": "Tactile Naming Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Token"
     "title":
       "en": "Token Test"
     "description":
       "en": "Token Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "WRAT"
     "title":
       "en": "Wide Range Achievement Test"
     "description":
       "en": "Wide Range Achievement Test (WRAT)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Spatial_Recognition"
     "title":
       "en": "Spatial Recognition Test"
     "description":
       "en": "Spatial Recognition Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Crossing_Off"
     "title":
       "en": "Crossing Off Test"
     "description":
       "en": "Crossing Off Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Stroop"
     "title":
       "en": "Stroop Color Word Test"
     "description":
       "en": "Stroop Color Word Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "OMO_RT"
     "title":
       "en": "Odd-Man-Out Reaction Time Test"
     "description":
       "en": "Odd-Man-Out Reaction Time Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Devided_Attention"
     "title":
       "en": "Divided Attention Test"
     "description":
       "en": "Divided Attention Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Diagnostic_Illiteracy"
     "title":
       "en": "Diagnostic Illiteracy Scale"
     "description":
       "en": "Diagnostic Illiteracy Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "NART"
     "title":
       "en": "National Adult Reading Test"
     "description":
       "en": "National Adult Reading Test (NART)"
+    "attributes": {}
+    "keywords": {}
   - "name": "LEQ"
     "title":
       "en": "Lifetime of Experiences Questionnaire"
     "description":
       "en": "Lifetime of Experiences Questionnaire (LEQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "WBIS"
     "title":
       "en": "Wechsler-Bellevue Intelligence Scale"
     "description":
       "en": "Wechsler-Bellevue Intelligence Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SAT_MAT"
     "title":
       "en": "Scholastic Aptitude Test and Miller Analogies Test"
     "description":
       "en": "Scholastic Aptitude Test and Miller Analogies Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Army_Alpha"
     "title":
       "en": "Army Alpha"
     "description":
       "en": "Army Alpha"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CAMDEX_R"
     "title":
       "en": "Revised Cambridge Examination for Mental Disorders of the Elderly"
     "description":
       "en": "Revised Cambridge Examination for Mental Disorders of the Elderly"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "DLST"
     "title":
       "en": "Digit Letter Substitution Test"
     "description":
       "en": "Digit Letter Substitution Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CASI"
     "title":
       "en": "Cognitive Abilities Screening Instrument"
     "description":
       "en": "Cognitive Abilities Screening Instrument"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "BVRT"
     "title":
       "en": "Benton Visual Retention Test"
     "description":
       "en": "Benton Visual Retention Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Card_rotation"
     "title":
       "en": "Card Rotation Test"
     "description":
       "en": "Card Rotation Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PMAVoc"
     "title":
       "en": "Primary Mental Abilities Vocabulary"
     "description":
       "en": "Primary Mental Abilities Vocabulary"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Swedish_psy_battery"
     "title":
       "en": "Swedish psychometric battery"
     "description":
       "en": "Swedish psychometric battery"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PSIF"
     "title":
-      "en": "Perceptual speed "
+      "en": "Perceptual Speed "
     "description":
-      "en": "Perceptual speed (identical forms)"
+      "en": "Perceptual Speed "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Thurstone_pic_memory"
     "title":
       "en": "Thurstone's picture memory test"
     "description":
       "en": "Thurstone's picture memory test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "M_CHAT"
     "title":
       "en": "Modified Checklist of Autism in Toddlers"
     "description":
       "en": "Modified Checklist of Autism in Toddlers"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MIR"
     "title":
       "en": "Memory in Reality test"
     "description":
       "en": "Memory in Reality test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "FAST_GDS"
     "title":
       "en": "Functional Assessment Staging Test and Global Deterioration Scale"
     "description":
       "en": "Functional Assessment Staging Test and Global Deterioration Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Berger_scale"
     "title":
       "en": "Berger Scale"
     "description":
       "en": "Berger Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CR"
     "title":
       "en": "Cognitive Rating Scale"
     "description":
       "en": "Cognitive Rating Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Coin_test"
     "title":
       "en": "Coin Test"
     "description":
       "en": "Coin Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "AH4"
     "title":
       "en": "AH4 Group Test of General Intelligence"
     "description":
       "en": "AH4 Group Test of General Intelligence"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Mill_Hill"
     "title":
       "en": "Mill Hill Vocabulary Scale"
     "description":
       "en": "Mill Hill Vocabulary Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "AMT"
     "title":
       "en": "Abbreviated Mental Test"
     "description":
       "en": "Abbreviated Mental Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Bayley_Infant"
     "title":
       "en": "Bayley Scales of Infant and Toddler Development"
     "description":
       "en": "Bayley Scales of Infant and Toddler Development"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MacArthur_Communicative"
     "title":
       "en": "MacArthur-Bates Communicative Development Inventories"
     "description":
       "en": "MacArthur-Bates Communicative Development Inventories"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MIA"
     "title":
       "en": "Metamemory in Adulthood Questionnaire"
     "description":
       "en": "Metamemory in Adulthood Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Memory_impair_screen"
     "title":
       "en": "Memory Impairment Screen"
     "description":
       "en": "Memory Impairment Screen"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SPMT"
     "title":
       "en": "Scenery Picture Memory Test"
     "description":
       "en": "Scenery Picture Memory Test (SPMT)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "TWFT"
     "title":
       "en": "Thurstone Word Fluency Test"
     "description":
       "en": "Thurstone Word Fluency Test (Thurstone, 1938)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ECog"
     "title":
       "en": "Everyday Cognition Scale"
     "description":
       "en": "Everyday Cognition Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "STMS"
     "title":
       "en": "Short Test of Mental Status "
     "description":
       "en": "Short Test of Mental Status (Kokmen E.,1987)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
-  - "name": " CAMCog"
+  - "name": "CAMCog"
     "title":
       "en": "Cambridge Cognitive Examination"
     "description":
       "en": "Cambridge Cognitive Examination"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "RBMT"
     "title":
       "en": "Rivermead Behavioral Memory Test"
     "description":
       "en": "Rivermead Behavioral Memory Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "FAB"
     "title":
       "en": "Frontal Assessment Battery"
     "description":
       "en": "Frontal Assessment Battery (Dubois, 2000)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CogState_DET"
     "title":
       "en": "CogState Detection Task (DET)"
     "description":
       "en": "CogState Detection Task (DET)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CogState_GML"
     "title":
       "en": "CogState Groton Maze Learning Task (GML)"
     "description":
       "en": "CogState Groton Maze Learning Task (GML)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CogState_OCL"
     "title":
       "en": "CogState One Card Learning Task (OCL)"
     "description":
       "en": "CogState One Card Learning Task (OCL)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CogState_ONB"
     "title":
       "en": "CogState One Back Task (ONB)"
     "description":
       "en": "CogState One Back Task (ONB)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CogState_IDN"
     "title":
       "en": "CogState Identification Task (IDN)"
     "description":
       "en": "CogState Identification Task (IDN)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Buschke_Cued_Recall"
     "title":
       "en": "Buschke Cued Recall Procedure"
     "description":
       "en": "Buschke Cued Recall Procedure (Buschke, 1984)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Fig_Iden_Task"
     "title":
       "en": "Figure Identification Task"
     "description":
       "en": "Figure Identification Task"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Figu_Logic"
     "title":
       "en": "Figure Logic/Inductive Reasoning"
     "description":
       "en": "Figure Logic/Inductive Reasoning (SRB2) "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "KOHS_Block_Design"
     "title":
       "en": "Kohs Block Design Test"
     "description":
       "en": "Kohs Block Design Test (SRB3)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MSQ"
     "title":
       "en": "Mental Status Questionnaire"
     "description":
       "en": "Mental Status Questionnaire (Kahn, 1960)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Serial_7s"
     "title":
       "en": "Subtraction Serial 7s"
     "description":
       "en": "Subtraction Serial 7s"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Synonym_Test"
     "title":
       "en": "Verbal Synonym Test"
     "description":
       "en": "Verbal Synonym Test (SRB1)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Present_Functioning_Questionnaire"
     "title":
       "en": "Present Functioning Questionnaire"
     "description":
       "en": "Present Functioning Questionnaire (Crockett, 1989)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Gesture_Execution"
     "title":
       "en": "Gesture Execution Test"
     "description":
       "en": "Gesture Execution Test (Joanette, 1999)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MAT"
     "title":
       "en": "Miller Analogies Test"
     "description":
       "en": "Miller Analogies Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Rey_Auditory"
     "title":
       "en": "Rey Auditory Verbal Learning Test"
     "description":
       "en": "Rey Auditory Verbal Learning Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Rey_Word_Recognition"
     "title":
       "en": "Rey Word Recognition Test"
     "description":
       "en": "Rey Word Recognition Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Change_Cognition_Age"
     "title":
       "en": "Change in Cognition with Age Questionnaire"
     "description":
       "en": "Change in Cognition with Age Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "GPCOG"
     "title":
       "en": "General Practitioner Assessment of Cognition"
     "description":
       "en": "General Practitioner Assessment of Cognition"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Dementia_Behaviour_Disturbance_Scale"
     "title":
       "en": "Dementia Behavior Disturbance Scale"
     "description":
       "en": "Dementia Behavior Disturbance Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Wilson_Barona"
     "title":
       "en": "Wilson-Barona Index"
     "description":
       "en": "Wilson-Barona Index"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MACQ"
     "title":
       "en": "Memory Assessment Clinic Questionnaire"
     "description":
       "en": "Memory Assessment Clinic Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ACER"
     "title":
-      "en": "Addenbrooke’s Cognitive Examination Revised"
+      "en": "Addenbrooke's Cognitive Examination Revised"
     "description":
-      "en": "Addenbrooke’s Cognitive Examination Revised"
+      "en": "Addenbrooke's Cognitive Examination Revised"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "GMS"
     "title":
       "en": "Geriatric Mental State Examination"
     "description":
       "en": "Geriatric Mental State Examination"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "SPMSQ"
+    "title":
+      "en": "Short Portable Mental Status Questionnaire"
+    "description":
+      "en": "Short Portable Mental Status Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Double_Letter_Cancellation"
+    "title":
+      "en": "Double Letter Cancellation Test"
+    "description":
+      "en": "Double Letter Cancellation Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Silly_Sentences"
+    "title":
+      "en": "Silly Sentences Task"
+    "description":
+      "en": "Silly Sentences Task"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Munn_Face_Recognition"
+    "title":
+      "en": "Munn Face Recognition Task"
+    "description":
+      "en": "Munn Face Recognition Task"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "BSRA"
+    "title":
+      "en": "Bracken School Readiness Assessment"
+    "description":
+      "en": "Bracken School Readiness Assessment"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "BAS"
+    "title":
+      "en": "British Ability Scales"
+    "description":
+      "en": "British Ability Scales"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Sally_Anne"
+    "title":
+      "en": "Sally-Anne Test"
+    "description":
+      "en": "Sally-Anne Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PiM"
+    "title":
+      "en": "Progress in Maths test"
+    "description":
+      "en": "Progress in Maths test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "SART"
+    "title":
+      "en": "Sustained Attention to Response Task"
+    "description":
+      "en": "Sustained Attention to Response Task"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CTT"
+    "title":
+      "en": "Color Trails Test"
+    "description":
+      "en": "Color Trails Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PPVT"
+    "title":
+      "en": "Peabody Picture Vocabulary Test"
+    "description":
+      "en": "Peabody Picture Vocabulary Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "HVLT"
+    "title":
+      "en": "Hopkins Verbal Learning test"
+    "description":
+      "en": "Hopkins Verbal Learning test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "UFOV"
+    "title":
+      "en": "Useful Field of View Test (UFOV)"
+    "description":
+      "en": "Useful Field of View Test (UFOV)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Letter_series"
+    "title":
+      "en": "Letter Series Test"
+    "description":
+      "en": "Letter Series Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Letter_sets"
+    "title":
+      "en": "Letter Sets Test"
+    "description":
+      "en": "Letter Sets Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PLTM"
+    "title":
+      "en": "Prospective Long-Term Memory Test"
+    "description":
+      "en": "Prospective Long-Term Memory Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "FI_test"
+    "title":
+      "en": "Fluid Intelligence Test"
+    "description":
+      "en": "Fluid Intelligence Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PAL"
+    "title":
+      "en": "Paired Associates Learning (PAL)"
+    "description":
+      "en": "Paired Associates Learning (PAL)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "DVRT"
+    "title":
+      "en": "Dynamic Visual Retention Test"
+    "description":
+      "en": "Dynamic Visual Retention Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Verbal_reasoning"
+    "title":
+      "en": "Verbal Reasoning Test"
+    "description":
+      "en": "Verbal Reasoning Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Mental_alternation"
+    "title":
+      "en": "Mental Alternation Test"
+    "description":
+      "en": "Mental Alternation Test"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Henmon_Nelson"
+    "title":
+      "en": "Henmon-Nelson Test of Mental Ability"
+    "description":
+      "en": "Henmon-Nelson Test of Mental Ability"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Numeracy"
+    "title":
+      "en": "Numeracy Scale"
+    "description":
+      "en": "Numeracy Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Personality"
   "title":
@@ -825,189 +1298,254 @@
     "fr": "Mesures de personalité"
   "description":
     "en": "Information about composite measures (scales, scores) of personality tests."
-    "fr": "Information au sujet de mesures composées (échelles) de tests de personalité\
-      ."
+    "fr": "Information au sujet de mesures composées (échelles) de tests de personalité."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "NEO_PIR"
     "title":
       "en": "NEO Personality Inventory - Revised"
     "description":
       "en": "NEO Personality Inventory - Revised (NEO PIR)"
+    "attributes": {}
+    "keywords": {}
   - "name": "EPQ"
     "title":
       "en": "Eysenck Personality Questionnaire"
     "description":
       "en": "Eysenck Personality Questionnaire (EPQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "BISBAS"
     "title":
       "en": "BIS/BAS scale"
     "description":
       "en": "Behavioural inhibition (BIS) and behavioural activation system (BAS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CD_RISC"
     "title":
       "en": "Connor-Davidson Resilience Scale"
     "description":
       "en": "Connor-Davidson Resilience Scale (CD RISC)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Divergent_Thinking"
     "title":
       "en": "Divergent Thinking Test"
     "description":
       "en": "Divergent Thinking Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "BFI"
     "title":
       "en": "Big Five Inventory"
     "description":
       "en": "Big Five Inventory"
+    "attributes": {}
+    "keywords": {}
   - "name": "Self_Control"
     "title":
       "en": "Self Control Scale"
     "description":
       "en": "Self Control Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "RASQ"
     "title":
       "en": "Reactivity to Affective Stimuli Questionnaire"
     "description":
       "en": "Reactivity to Affective Stimuli Questionnaire"
+    "attributes": {}
+    "keywords": {}
   - "name": "ERQ"
     "title":
       "en": "Emotion Regulation Questionnaire"
     "description":
       "en": "Emotion Regulation Questionnaire"
+    "attributes": {}
+    "keywords": {}
   - "name": "MPQ"
     "title":
       "en": "Multidimensional Personality Questionnaire"
     "description":
       "en": "Multidimensional Personality Questionnaire"
+    "attributes": {}
+    "keywords": {}
   - "name": "MIDI"
     "title":
       "en": "Midlife Development Inventory Personality Scales"
     "description":
       "en": "Midlife Development Inventory Personality Scales"
+    "attributes": {}
+    "keywords": {}
   - "name": "LOT"
     "title":
       "en": "Life Orientation Test"
     "description":
       "en": "Life Orientation Test"
+    "attributes": {}
+    "keywords": {}
   - "name": "Rorschach"
     "title":
       "en": "Rorschach Test"
     "description":
       "en": "Rorschach Test"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Sociopathy"
     "title":
       "en": "Sociopathy Scale"
     "description":
       "en": "Sociopathy Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PDL"
     "title":
       "en": "Psychoanalytic Developmental Level"
     "description":
       "en": "Psychoanalytic Developmental Level"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "DSQ_67"
     "title":
       "en": "Defense Style Questionnaire 67"
     "description":
       "en": "Defense Style Questionnaire 67"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WURS"
     "title":
       "en": "Wender Utah Rating Scale"
     "description":
       "en": "Wender Utah Rating Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Hartmann_Schizo"
     "title":
       "en": "Hartmann Schizophrenia Prediction Scale"
     "description":
       "en": "Hartmann Schizophrenia Prediction Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WUSCT"
     "title":
       "en": "Washington University Sentence Completion Test "
     "description":
       "en": "Washington University Sentence Completion Test ( Loevinger, 1987)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Explanatory_Style"
     "title":
       "en": "Explanatory Style"
     "description":
       "en": "Explanatory Style"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "LPI"
     "title":
       "en": "Lazare-Klerman-Armor Personality Inventory"
     "description":
       "en": "Lazare-Klerman-Armor Personality Inventory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MQS_DSQ"
     "title":
       "en": "Mini-Q-Sort Defense Style Questionnaire"
     "description":
       "en": "Mini-Q-Sort Defense Style Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Bates_Infant"
     "title":
       "en": "Bates' Infant Characteristics Questionnaire"
     "description":
       "en": "Bates' Infant Characteristics Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "FTAS"
     "title":
       "en": "Framingham Type A Scale"
     "description":
       "en": "Framingham Type A Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Malaise_inventory"
     "title":
       "en": "Malaise Inventory "
     "description":
       "en": "Malaise Inventory "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Bortner_scale"
     "title":
       "en": "Bortner Scale"
     "description":
       "en": "Bortner Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "JAS"
     "title":
       "en": "Jenkins Activity Survey"
     "description":
       "en": "Jenkins Activity Survey"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ABAS"
     "title":
       "en": "Adaptive Behavior Assessment System"
     "description":
       "en": "Adaptive Behavior Assessment System"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ECBQ"
     "title":
       "en": "Early Childhood Behavior Questionnaire"
     "description":
       "en": "Early Childhood Behavior Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "TABP"
     "title":
       "en": "Type A behavior pattern"
     "description":
       "en": "Type A behavior pattern (Friedman and Rosenman 1974)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
-  - "name": "TGP_FGA"
+  - "name": "FGAS"
     "title":
-      "en": "Tenacious Goal Pursuit And Flexible Goal Adjustment"
+      "en": "Flexible Goal Adjustment Scale"
     "description":
-      "en": "Tenacious Goal Pursuit And Flexible Goal Adjustment (Brandtstädter 1990)"
+      "en": "Flexible Goal Adjustment Scale (Brandtstädter 1990)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Portrait_Values"
     "title":
       "en": "Portrait Values Questionnaire"
     "description":
       "en": "Portrait Values Questionnaire (Schwartz 2001)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "EAS_Scales"
     "title":
@@ -1015,24 +1553,208 @@
     "description":
       "en": "Emotionality, Activity and Sociability (EAS) temperament Survey (Buss\
         \ & Plomin 1984)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "KSP"
     "title":
       "en": "Karolinska Scales of Personality"
     "description":
       "en": "Karolinska Scales of Personality (KSP)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Ho_Scale"
     "title":
       "en": "Cook-Medley Hostility Scale"
     "description":
       "en": "Cook-Medley Hostility Scale (Cook & Medley, 1954)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Personality_Disorder_Examination"
     "title":
       "en": "International Personality Disorder Examination Questionnaire"
     "description":
       "en": "International Personality Disorder Examination Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "GSES"
+    "title":
+      "en": "General Self-Efficacy Scale"
+    "description":
+      "en": "General Self-Efficacy Scale (Schwarzer, R., & Jerusalem, M., 1995)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Mastery_scale"
+    "title":
+      "en": "Pearlin Personal Mastery Scale"
+    "description":
+      "en": "Pearlin Personal Mastery Scale (Pearlin 1981)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Personal_Mastery_Perceived_Constraint"
+    "title":
+      "en": "Personal Mastery and Perceived Constraints Scale"
+    "description":
+      "en": "Personal Mastery and Perceived Constraints Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PIC"
+    "title":
+      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+    "description":
+      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Rosenberg_Self_Esteem"
+    "title":
+      "en": "Rosenberg Self-Esteem Scale"
+    "description":
+      "en": "Rosenberg Self-Esteem Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Wagnild_Young_Resilience"
+    "title":
+      "en": "Resilience Scale"
+    "description":
+      "en": "Resilience Scale (Wagnild and Young, 1993)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Brief_Resilience_Scale"
+    "title":
+      "en": "Brief Resilience Scale"
+    "description":
+      "en": "Brief Resilience Scale (Smith et al. 2008)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "SDQ"
+    "title":
+      "en": "Strengths and Difficulties Questionnaire"
+    "description":
+      "en": "Strengths and Difficulties Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "SVS"
+    "title":
+      "en": "Schwartz Value Survey"
+    "description":
+      "en": "Schwartz Value Survey"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Dialectical_Self"
+    "title":
+      "en": "Dialectical Self Scale"
+    "description":
+      "en": "Dialectical Self Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "RIASEC"
+    "title":
+      "en": "RIASEC Scales"
+    "description":
+      "en": "RIASEC Scales"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "TST"
+    "title":
+      "en": "Twenty Statements Test"
+    "description":
+      "en": "Twenty Statements Test (1954, Manfred Kuhn & Thomas McPartland) "
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CSBQ"
+    "title":
+      "en": "Child Social Behaviour Questionnaire"
+    "description":
+      "en": "Child Social Behaviour Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CITS"
+    "title":
+      "en": "Carey Infant Temperament Scale"
+    "description":
+      "en": "Carey Infant Temperament Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "GAS"
+    "title":
+      "en": "Goal Adjustment Scale "
+    "description":
+      "en": "Goal Adjustment Scale (Wrosch, C., et al. 2003)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "TypeD"
+    "title":
+      "en": "Type-D Scale"
+    "description":
+      "en": "Type-D Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "MacArthur_React_Respond"
+    "title":
+      "en": "MacArthur Reactive Responding Scale"
+    "description":
+      "en": "MacArthur Reactive Responding Scale (1999)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "BSRI"
+    "title":
+      "en": "Bem Sex Roles Inventory"
+    "description":
+      "en": "Bem Sex Roles Inventory"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "SSS"
+    "title":
+      "en": "Sensation Seeking Scale"
+    "description":
+      "en": "Sensation Seeking Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "MMPI"
+    "title":
+      "en": "Minnesota Multiphasic Personality Inventory"
+    "description":
+      "en": "Minnesota Multiphasic Personality Inventory"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "TIPI"
+    "title":
+      "en": "Ten-Item Personality Inventory"
+    "description":
+      "en": "Ten-Item Personality Inventory"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Mattering"
+    "title":
+      "en": "Mattering Scale"
+    "description":
+      "en": "Mattering Scale (Elliott, 2004)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Emotional"
   "title":
@@ -1043,198 +1765,372 @@
       \ tests."
     "fr": "Information au sujet de mesures composées (échelles) de tests de détresse\
       \ émotionnelle."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "GDS"
     "title":
       "en": "Geriatric Depression Scale"
     "description":
       "en": "All versions of Geriatric Depression Scale are included here"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "HADS"
     "title":
       "en": "Hospital Anxiety and Depression Scale"
     "description":
       "en": "Hospital Anxiety and Depression Scale (HADS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "CES_D"
     "title":
       "en": "Center for Epidemiological Studies Depression Scale"
     "description":
       "en": "Center for Epidemiological Studies Depression Scale (CES-D)"
+    "attributes": {}
+    "keywords": {}
   - "name": "CORN"
     "title":
       "en": "Cornell Scale for Depression in Dementia"
     "description":
       "en": "Cornell Scale for Depression in Dementia (CORN)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "GADS_dep"
     "title":
       "en": "Goldberg Anxiety and Depression Scales - Depression"
     "description":
       "en": "Goldberg Anxiety and Depression Scales - Depression (GADS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "GADS_anx"
     "title":
       "en": "Goldberg Anxiety and Depression Scales - Anxiety"
     "description":
       "en": "Goldberg Anxiety and Depression Scales - Anxiety (GADS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PANAS"
     "title":
       "en": "Positive and Negative Affect Schedule"
     "description":
       "en": "Positive and Negative Affect Schedule (PANAS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "CIDI"
     "title":
       "en": "Composite International Diagnostic Interview"
     "description":
       "en": "Composite International Diagnostic Interview (CIDI)"
+    "attributes": {}
+    "keywords": {}
   - "name": "SPAQ"
     "title":
       "en": "Seasonal Pattern Assessment Questionniare"
     "description":
       "en": "Seasonal Pattern Assessment Questionniare (SPAQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "RRS"
     "title":
       "en": "Ruminative Responses Scale"
     "description":
       "en": "Ruminative Responses Scale (RRS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "PSS"
     "title":
       "en": "PTSD Symptom Scale"
     "description":
       "en": "PTSD Symptom Scale (PSS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "C_SSRS"
     "title":
       "en": "Columbia Suicide Severity Rating Scale"
     "description":
       "en": "Columbia Suicide Severity Rating Scale (C SSRS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MASQ"
     "title":
       "en": "Mood and Anxiety Symptom Questionnaire"
     "description":
       "en": "Mood and Anxiety Symptom Questionnaire (MASQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "PC_PTSD"
     "title":
       "en": "Primary Care: Post-Traumatic Stress Disorder"
     "description":
       "en": "Primary Care: Post-Traumatic Stress Disorder (PC-PTSD)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Brief_PHQ"
     "title":
       "en": "Brief Patient Health Questionnaire"
     "description":
       "en": "Brief Patient Health Questionnaire (BPHQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAXI"
     "title":
       "en": "Spielberger State-Trait Anger Expression Inventory"
     "description":
       "en": "Spielberger State-Trait Anger Expression Inventory (STAXI)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAS"
     "title":
       "en": "Spielberger State-Trait Anger Scale"
     "description":
       "en": "Spielberger State-Trait Anger Scale (STAS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "STAI"
     "title":
       "en": "Spielberger State-Trait Anxiety Inventory"
     "description":
       "en": "Spielberger State-Trait Anxiety Inventory (STAI)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "DPES"
     "title":
       "en": "Dispositional Positive Emotion Scale"
     "description":
       "en": "Dispositional Positive Emotion Scale (DPES)"
+    "attributes": {}
+    "keywords": {}
   - "name": "ZUNG_SAS"
     "title":
       "en": "Zung Self-Rating Anxiety Scale"
     "description":
       "en": "Zung Self-Rating Anxiety Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "CAMDEX_Depres"
     "title":
       "en": "Depression Symptoms from CAMDEX"
     "description":
       "en": "Depression Symptoms from CAMDEX"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "BSI"
     "title":
       "en": "Brief Symptom Inventory"
     "description":
       "en": "Brief Symptom Inventory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "GHQ"
     "title":
       "en": "General Health Questionnaire"
     "description":
       "en": "General Health Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Gen_anx_7"
     "title":
       "en": "Generalized Anxiety Disorder 7-item Scale"
     "description":
       "en": "Generalized Anxiety Disorder 7-item Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PHQ"
     "title":
       "en": "Patient Health Questionnaire "
     "description":
       "en": "Patient Health Questionnaire "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Fram_Anger_Scale"
     "title":
       "en": "Framingham Anger Scales"
     "description":
       "en": "Framingham Anger Scales"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "PGCMS"
     "title":
       "en": "Philadelphia Geriatric Center Morale Scale"
     "description":
       "en": "Philadelphia Geriatric Center Morale Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "NPI"
     "title":
       "en": "Neuropsychiatric Inventory"
     "description":
       "en": "Neuropsychiatric Inventory (Cummings, 1994)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Preg_Anxiety"
     "title":
-      "en": " Pregnancy Specific Anxiety Measure"
+      "en": "Pregnancy Specific Anxiety Measure"
     "description":
       "en": "Pregnancy Specific Anxiety Measure\n"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "BDI"
     "title":
       "en": "Beck Depression Inventory"
     "description":
       "en": "Beck Depression Inventory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "BAI"
     "title":
       "en": "Beck Anxiety Inventory"
     "description":
       "en": "Beck Anxiety Inventory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SHARP"
     "title":
       "en": "Short Happiness and Affect Research Protocol"
     "description":
       "en": "Short Happiness and Affect Research Protocol (Stones 1995)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Kessler_10"
     "title":
       "en": "Kessler Psychological Distress Scale "
     "description":
-      "en": "Kessler Psychological Distress Scale (K10)"
+      "en": "Kessler Psychological Distress Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SCID"
     "title":
       "en": "Structured Clinical Interview for DSM Disorders"
     "description":
       "en": "Structured Clinical Interview for DSM Disorders"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PSWQ"
+    "title":
+      "en": "Penn State Worry Questionnaire"
+    "description":
+      "en": "Penn State Worry Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Perceived_Stress"
+    "title":
+      "en": "Perceived Stress Scale"
+    "description":
+      "en": "Perceived Stress Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Perceived_Stress_4"
+    "title":
+      "en": "Short Form Perceived Stress Scale"
+    "description":
+      "en": "Short Form Perceived Stress Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Stress_Coping"
+    "title":
+      "en": "Stress Coping Scale"
+    "description":
+      "en": "Stress Coping Scale (Billings and Moos, 1984)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Bradburn_Affect_Balance"
+    "title":
+      "en": "Bradburn Affect Balance Scale"
+    "description":
+      "en": "Bradburn Affect Balance Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "PSF"
+    "title":
+      "en": "Psychiatric Symptom Frequency Scale"
+    "description":
+      "en": "Psychiatric Symptom Frequency Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "MINI"
+    "title":
+      "en": "Mini International Neuropsychiatric Interview"
+    "description":
+      "en": "Mini International Neuropsychiatric Interview"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "CBCL"
+    "title":
+      "en": "Child Behavior Checklist"
+    "description":
+      "en": "Child Behavior Checklist"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "ASI"
+    "title":
+      "en": "Anxiety Sensitivity Index"
+    "description":
+      "en": "Anxiety Sensitivity Index (Reiss S. 1984)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "GLLM"
+    "title":
+      "en": "Groningen List of Long-term Difficulties"
+    "description":
+      "en": "Groningen List of Long-term Difficulties"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "MHI"
+    "title":
+      "en": "Mental Health Inventory"
+    "description":
+      "en": "Mental Health Inventory"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "ASBS"
+    "title":
+      "en": "Anxiety Symtoms and Beliefs Scale"
+    "description":
+      "en": "Anxiety Symtoms and Beliefs Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "TRIG"
+    "title":
+      "en": "Texas Revised Inventory of Grief"
+    "description":
+      "en": "Texas Revised Inventory of Grief"
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Other_psycho"
   "title":
@@ -1244,273 +2140,393 @@
     "en": "Information about other composite measures (scales, scores) of psychological\
       \ tests."
     "fr": "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "SWLS"
     "title":
-      "en": "Satisfaction with life scale"
+      "en": "Satisfaction with Life Scale"
     "description":
-      "en": "Satisfaction with life scale (SWLS)"
+      "en": "Satisfaction with Life Scale (SWLS)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
   - "name": "LSQ"
     "title":
       "en": "Life Satisfaction Questionnaire"
     "description":
       "en": "Life Satisfaction Questionnaire (LSQ)"
+    "attributes": {}
+    "keywords": {}
   - "name": "Subj_Well_Being"
     "title":
       "en": "Subjective Well-Being Scale"
     "description":
       "en": "Subjective Well-Being Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "RPWB"
     "title":
       "en": "Ryff Psychological Well-Being Scale"
     "description":
       "en": "Ryff Psychological Well-Being Scale (RPWB)"
-  - "name": "Perceived_Stress"
-    "title":
-      "en": "Perceived Stress Scale"
-    "description":
-      "en": "Perceived Stress Scale"
-  - "name": "Personal_Mastery_Perceived_Constraint"
-    "title":
-      "en": "Personal Mastery and Perceived Constraint Scales"
-    "description":
-      "en": "Personal Mastery and Perceived Constraint Scales"
+    "attributes": {}
+    "keywords": {}
   - "name": "Locus_Control_Behaviour"
     "title":
       "en": "Locus of Control Behaviour Scale"
     "description":
       "en": "Locus of Control Behaviour Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "DAS_7"
     "title":
-      "en": "Seven-Item Short Form of the Dyadic Adjustment Scale"
+      "en": "Dyadic Adjustment Scale"
     "description":
-      "en": "Seven-Item Short Form of the Dyadic Adjustment Scale (DAS 7)"
+      "en": "Dyadic Adjustment Scale (DAS)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "COPE"
     "title":
       "en": "COPE Inventory"
     "description":
       "en": "COPE Inventory"
+    "attributes": {}
+    "keywords": {}
   - "name": "Brief_COPE"
     "title":
       "en": "Brief COPE"
     "description":
       "en": "Brief COPE"
+    "attributes": {}
+    "keywords": {}
   - "name": "PRO"
     "title":
       "en": "Positive Reciprocity Orientation"
     "description":
       "en": "Positive Reciprocity Orientation (PRO)"
+    "attributes": {}
+    "keywords": {}
   - "name": "FTP"
     "title":
       "en": "Future Time Perspective Scale"
     "description":
       "en": "Future Time Perspective Scale (FTP)"
+    "attributes": {}
+    "keywords": {}
   - "name": "PSCS"
     "title":
       "en": "Primary and Secondary Control Scale"
     "description":
       "en": "Primary and Secondary Control Scale (PSCS)"
-  - "name": "PIC"
-    "title":
-      "en": "Personality in Intellectual Aging Contexts Inventory"
-    "description":
-      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+    "attributes": {}
+    "keywords": {}
   - "name": "LGS"
     "title":
       "en": "Loyola Generativity Scale"
     "description":
       "en": "Loyola Generativity Scale (LGS)"
+    "attributes": {}
+    "keywords": {}
   - "name": "SAS"
     "title":
       "en": "Somatosensory Amplification Scale"
     "description":
       "en": "Somatosensory Amplification Scale (SAS)"
-  - "name": "Rosenberg_Self_Esteem"
-    "title":
-      "en": "Rosenberg Self-Esteem Scale"
-    "description":
-      "en": "Rosenberg Self-Esteem Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Perceived_Inequalities"
     "title":
       "en": "Assessment of Perceived Inequalities"
     "description":
       "en": "Assessment of Perceived Inequalities"
+    "attributes": {}
+    "keywords": {}
   - "name": "Work_Family_Spillover"
     "title":
       "en": "Work-Family Spillover Scale"
     "description":
       "en": "Work-Family Spillover Scale"
+    "attributes": {}
+    "keywords": {}
   - "name": "Planning_Making_Sense_Past"
     "title":
       "en": "Planning and Making Sense of Past"
     "description":
       "en": "Planning and Making Sense of Past"
+    "attributes": {}
+    "keywords": {}
   - "name": "Religiosity"
     "title":
       "en": "Religiosity"
     "description":
       "en": "Religiosity"
+    "attributes": {}
+    "keywords": {}
   - "name": "PHS"
     "title":
       "en": "Psychological Health-Sickness"
     "description":
       "en": "Psychological Health-Sickness"
-    "terms": []
-  - "name": "Perceived_Stress_4"
-    "title":
-      "en": "Short form Perceived Stress Scale"
-    "description":
-      "en": "Short form Perceived Stress Scale"
-    "terms": []
-  - "name": "PSWQ"
-    "title":
-      "en": "Penn State Worry Questionnaire"
-    "description":
-      "en": "Penn State Worry Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "APQ"
     "title":
       "en": "Ageing Perceptions Questionnaire"
     "description":
       "en": "Ageing Perceptions Questionnaire"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "LSIA"
     "title":
       "en": "Life Satisfaction Index A"
     "description":
       "en": "Life Satisfaction Index A"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "SDRS_5"
     "title":
       "en": "Socially Desirable Response Set Five-Item Survey"
     "description":
       "en": "Socially Desirable Response Set Five-Item Survey"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "BCCI"
     "title":
       "en": "Brief California Coping Inventory"
     "description":
       "en": "Brief California Coping Inventory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "HLOC"
     "title":
       "en": "Health Locus of Control Scale"
     "description":
       "en": "Health Locus of Control Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "HV_4"
     "title":
       "en": "4-item Health Value Scale"
     "description":
       "en": "4-item Health Value Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Job_sat"
     "title":
       "en": "Job Satisfaction Scale"
     "description":
       "en": "Job Satisfaction Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Marital_Happiness"
     "title":
       "en": "Marital Happiness Scale"
     "description":
       "en": "Marital Happiness Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "LSIZ"
     "title":
       "en": "Life Satisfaction Index Z"
     "description":
       "en": "Life Satisfaction Index Z"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "MHLC"
     "title":
       "en": "Multidimensional Health Locus of Control Scales"
     "description":
       "en": "Multidimensional Health Locus of Control Scales"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "WEMWBS"
     "title":
       "en": "Warwick-Edinburgh Mental Wellbeing Scale "
     "description":
       "en": "Warwick-Edinburgh Mental Wellbeing Scale "
-    "terms": []
-  - "name": "GSES"
-    "title":
-      "en": "General Self-Efficacy Scale "
-    "description":
-      "en": "General Self-Efficacy Scale "
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "HAI"
     "title":
       "en": "Health Attitude Inventory"
     "description":
       "en": "Health Attitude Inventory"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "ECR"
     "title":
       "en": "Experiences in Close Relationships Scale"
     "description":
       "en": "Experiences in Close Relationships Scale"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Infant_Toddler_Sensory"
     "title":
       "en": "Infant/Toddler Sensory Profile"
     "description":
       "en": "Infant/Toddler Sensory Profile"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "QMI"
     "title":
       "en": "Quality of Marriage Index"
     "description":
       "en": "Quality of Marriage Index (Norton, 1983)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "JCQ"
     "title":
       "en": "Job Content Questionnaire"
     "description":
       "en": "Job Content Questionnaire (Karasek, 1998)"
-    "terms": []
-  - "name": "Mastery_scale"
-    "title":
-      "en": "Pearlin Mastery Scale"
-    "description":
-      "en": "Pearlin Mastery Scale (Pearlin 1981)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Adult_Hope_Scale"
     "title":
       "en": "Adult Hope Scale"
     "description":
       "en": "Adult Hope Scale (Snyder 1991)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Rotter_Locus_Control"
     "title":
       "en": "Rotter's Locus of Control Scale "
     "description":
       "en": "Rotter's Locus of Control Scale "
-    "terms": []
-  - "name": "Stress_Coping"
-    "title":
-      "en": "Stress Coping Scale"
-    "description":
-      "en": "Stress Coping Scale (Billings and Moos, 1984)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Neurobehavioral_Rating"
     "title":
       "en": "Neurobehavioral Rating Scale"
     "description":
       "en": "Neurobehavioral Rating Scale (Levin 1987)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Zarit_Burden_Scale"
     "title":
       "en": "Zarit Caregiver Burden Scale"
     "description":
       "en": "Zarit Caregiver Burden Scale (Zarit 1990)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Caregiver_burden"
     "title":
       "en": "Caregiver Burden Scale"
     "description":
       "en": "Caregiver Burden Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Gilford_Bengtson_MS"
+    "title":
+      "en": "Gilford-Bengtson Marital Satisfaction Scale"
+    "description":
+      "en": "Gilford-Bengtson Marital Satisfaction Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Optimism"
+    "title":
+      "en": "Optimism Scale"
+    "description":
+      "en": "Optimism Scale (Brandtstädter & Wentura, 1994)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Life_Invest"
+    "title":
+      "en": "Life Investment Scale"
+    "description":
+      "en": "Life Investment Scale (Ebner et al., 2006)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Paulhus_Spheres_of_Control"
+    "title":
+      "en": "Spheres of Control Scale"
+    "description":
+      "en": "Spheres of Control Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "MCSD"
+    "title":
+      "en": "Marlowe-Crowne Social Desirability Scale"
+    "description":
+      "en": "Marlowe-Crowne Social Desirability Scale"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "ERI"
+    "title":
+      "en": "Effort-Reward Imbalance Questionnaire"
+    "description":
+      "en": "Effort-Reward Imbalance Questionnaire"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Beck_Hopelessness"
+    "title":
+      "en": "Beck Hopelessness Scale"
+    "description":
+      "en": "Beck Hopelessness Scale (Beck, 1988)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Brief_H_Neg"
+    "title":
+      "en": "Negatively Worded Brief Measure of Hopelessness (Brief-H-Neg)"
+    "description":
+      "en": "Negatively Worded Brief Measure of Hopelessness (Brief-H-Neg) (Everson,\
+        \ 1996)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Organiz_Justice"
+    "title":
+      "en": "Organizational Justice Questionnaire"
+    "description":
+      "en": "Organizational Justice Questionnaire (Niehoff and Moorman, 1993)"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "BIDR"
+    "title":
+      "en": "Balanced Inventory of Desirable Responding"
+    "description":
+      "en": "Balanced Inventory of Desirable Responding"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+  - "name": "Paulhus_Deception"
+    "title":
+      "en": "Paulhus Deception Scales"
+    "description":
+      "en": "Paulhus Deception Scales"
+    "attributes": {}
+    "keywords": {}
     "terms": []
