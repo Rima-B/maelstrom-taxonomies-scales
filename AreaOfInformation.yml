@@ -6,6 +6,8 @@
 "description":
   "en": "Information classification developed by Maelstrom"
   "fr": "Classification des informations développée par Maelstrom"
+"attributes": {}
+"keywords": {}
 "vocabularies":
 - "name": "Sociodemographic_economic_characteristics"
   "title":
@@ -14,6 +16,8 @@
   "description":
     "en": "Refers to sociodemographic and economic characteristics of an individual."
     "fr": "Réfère aux caractéristiques sociodémographiques et économiques d'un individu."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Age"
     "title":
@@ -22,6 +26,8 @@
     "description":
       "en": "Information about current age (e.g. how old are you now?)."
       "fr": "Informations au sujet de l'âge actuel (e.g. quel âge avez-vous aujourd'hui?)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Sex"
     "title":
@@ -33,6 +39,8 @@
       "fr": "Informations au sujet du sexe (e.g. caractéristiques biologiques) ou\
         \ du genre (rôle social en lien avec le sexe adopté par l'individu) de l'individu\
         \ (e.g. orientation sexuelle)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Twin"
     "title":
@@ -43,6 +51,8 @@
         \ - identical or not)."
       "fr": "Informations au sujet du fait d'être un jumeau (e.g. zygosité 'être un\
         \ jumeau' - identique ou non)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Marital_status"
     "title":
@@ -53,6 +63,8 @@
         \ status (e.g. married, divorced, single)."
       "fr": "Informations au sujet des relations interpersonnelles passées et actuelles\
         \ de l'individu (e.g. marié, divorcé, célibataire)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Education"
     "title":
@@ -63,6 +75,8 @@
         \ years of schooling completed)."
       "fr": "Informations au sujet de l'éducation de l'individu (e.g. niveau le plus\
         \ élevé de scolarité atteint, nombre d'années de scolarité complétées)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Birth_place"
     "title":
@@ -72,6 +86,8 @@
       "en": "Information about birth place (e.g. country of birth: Canada, USA)."
       "fr": "Informations au sujet du lieu de naissance (e.g. lieu de naissance: Canada,\
         \ États-Unis)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Citizenship"
     "title":
@@ -83,6 +99,8 @@
       "fr": "Informations au sujet de la citoyenneté et du statut d'immigration de\
         \ l'individu (e.g. immigrant reçu, citoyen canadien, nombre d'années résidant\
         \ au Canada)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Ethnic_race_religion"
     "title":
@@ -95,6 +113,8 @@
       "fr": "Informations au sujet de l'ethnicité (e.g. Canadien français, Italien,\
         \ Chinois, Japonais), de la race (e.g. Caucasien, Noir, Asiatique) et de la\
         \ religion (e.g. Chrétien, Musulman, Bouddhiste) de l'individu."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Language"
     "title":
@@ -105,6 +125,8 @@
         \ English mother tongue, knowledge of Spanish)."
       "fr": "Informations au sujet des origines linguistiques de l'individu (e.g.\
         \ français, langue maternelle anglais, connaissance de l'espagnol)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Residence"
     "title":
@@ -116,6 +138,8 @@
       "fr": "Informations au sujet des endroits passés et actuels dans lesquels l'individu\
         \ a vécu autre que de manière transitoire (e.g. adresse, région, pays, sans\
         \ domicile fixe)"
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Family_hh_struct"
     "title":
@@ -127,6 +151,8 @@
       "fr": "Informations au sujet de la structure familiale et du ménage passés et\
         \ actuels de l'individu (e.g. nombre de personnes qui vivent avec le participant,\
         \ nombre de frères et soeurs)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Labour_retirement"
     "title":
@@ -139,6 +165,8 @@
       "fr": "Informations au sujet de l'emploi passé et actuel et de la retraite de\
         \ l'individu (e.g. statut d'emploi, secteur d'emploi, participation dans les\
         \ Forces Armées, nombre d'années de travail, début de la retraite)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Income"
     "title":
@@ -151,6 +179,8 @@
       "fr": "Informations au sujet du revenu actuel et passé, des biens et des avantages\
         \ sociaux reliés au travail de l'individu (e.g. revenu avant impôt, assurance\
         \ santé, congé de maladie, propriétaire)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_sociodemogr_chars"
     "title":
@@ -161,6 +191,8 @@
         \ (e.g. being adopted)."
       "fr": "Informations au sujet d'autres caractéristiques sociodémographiques et\
         \ économiques (e.g. avoir été adopté)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Lifestyle_behaviours"
   "title":
@@ -171,6 +203,8 @@
       \ and life plans."
     "fr": "Réfère aux informations passées et actuelles au sujet des habitudes de\
       \ vie, des comportements, des activités et des plans de vie."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Tobacco"
     "title":
@@ -182,6 +216,8 @@
       "fr": "Informations au sujet du tabagisme sous toutes les formes (e.g. fréquence\
         \ et quantité de cigarettes et autres produits du tabac fumés, mâchés ou inhalé\
         s) et des comportement associés."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Alcohol"
     "title":
@@ -193,6 +229,8 @@
       "fr": "Informations au sujet de la consommation de boissons alcoolisées (e.g.\
         \ fréquence, quantité et type d'alcool consommé) et des comportements associé\
         s."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Drugs"
     "title":
@@ -204,6 +242,8 @@
       "fr": "Informations au sujet de l'usage de drogues illicites sous toutes les\
         \ formes (e.g. quantité et fréquence de fumer, avaler, inhaler) et des comportements\
         \ associés."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Nutrition"
     "title":
@@ -219,6 +259,8 @@
         \ alimentaire) et des comportements associés. Voir également Sect. 10 \"Naissance,\
         \ petite enfance et enfance\", sous 'Nutrition du nouveau-né/bébé' pour les\
         \ informations au sujet d'avoir été allaité et des aliments pour bébé."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Phys_act"
     "title":
@@ -232,6 +274,8 @@
         \ physique telle que les exercice physiques et les sports (e.g. course à pied,\
         \ hockey), activités quotidiennes (e.g. corvées ménagères, promener le chien)\
         \ ou la sédentarité (e.g. regarder la télévision)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Transportation"
     "title":
@@ -243,6 +287,8 @@
       "fr": "Informations au sujet des moyens de transport et des comportements associé\
         s (e.g. porter la ceinture de sécurité, prendre la voiture pour se rendre\
         \ au travail)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Pers_hygiene"
     "title":
@@ -253,6 +299,8 @@
         \ often teeth are brushed)."
       "fr": "Informations au sujet de l'hygiène personnelle, incluant l'hygiène orale\
         \ (e.g. fréquence du brossage des dents)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Sleep"
     "title":
@@ -265,6 +313,8 @@
       "fr": "Informations au sujet du type, de la fréquence et de l'intensité des\
         \ comportements liés au sommeil (e.g. nombre d'heures de sommeil, qualité\
         \ du sommeil). Voir également la catégorie 'Activité physique'."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Sex_behav"
     "title":
@@ -276,6 +326,8 @@
       "fr": "Informations au sujet du type, de la fréquence et de l'intensité des\
         \ comportements sexuels (e.g. nombre de partenaires, fréquence des relations\
         \ sexuelles)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Leisure_act"
     "title":
@@ -287,6 +339,8 @@
       "fr": "Informations au sujet du type, de la fréquence et de l'intensité des\
         \ activités de loisir autre que l'activité physique (e.g. lecture, voyages,\
         \ rencontres sociales, Sudoku)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_lifestyle"
     "title":
@@ -300,6 +354,8 @@
       "fr": "Informations au sujet d'autres habitudes de vie (e.g. usage de lits de\
         \ bronzage), d'habitudes de vie non spécifiées et de comportements de santé\
         \ liés à plusieurs catégories à la fois (e.g. tabagisme et consommation d'alcool)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Health_status_functional_limitations"
   "title":
@@ -312,6 +368,8 @@
     "fr": "Réfère à la perception de la santé en général, du bien-être et de la qualité\
       \ de vie. Cette section réfère à l'évaluation subjective de la santé d'un individu\
       \ (contrairement aux problèmes de santé diagnostiqués)."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Perc_health"
     "title":
@@ -326,6 +384,8 @@
         tre et de la capacité à profiter de la vie (e.g. en lien avec le vieillissement).\
         \ Cette section réfère à une évaluation subjective de la santé générale par\
         \ l'individu en considérant les aspects physiques et mentaux de la santé."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Qual_life"
     "title":
@@ -336,6 +396,8 @@
         \ of life scales, WHOQOL-BREF)."
       "fr": "Informations au sujet de la qualité de vie passée et actuelle (e.g. é\
         chelles de qualité de vie, WHOQOL-BREF)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Act_daily_living"
     "title":
@@ -356,6 +418,8 @@
         \ ou un ordinateur, faire l'épicerie, s'occuper des finances, gérer les mé\
         dicaments). Voir également la catégorie 'Utilisation d'appareils fonctionnels\
         \ et autres dispositifs d'aide'."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Use_devices"
     "title":
@@ -369,6 +433,8 @@
         \ dispositifs d'aide dans le but d'améliorer et d'augmenter l'indépendance\
         \ dans l'accomplissement des activités de la vie quotidienne (e.g. lunettes,\
         \ appareil auditif, béquilles)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other"
     "title":
@@ -379,6 +445,8 @@
         \ information."
       "fr": "Informations au sujet d'autres états de santé ou reliées aux limitations\
         \ fonctionnelles."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Diseases"
   "title":
@@ -389,6 +457,8 @@
       \ ICD-10."
     "fr": "Réfère aux informations au sujet de maladies passées et actuelles telles\
       \ que catégorisées dans la CIM-10."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Infectious_dis"
     "title":
@@ -401,6 +471,8 @@
       "fr": "Informations au sujet de maladies infectieuses et parasitaires passé\
         es et actuelles généralement reconnues comme contagieuses ou transmissibles\
         \ (e.g. VIH/Sida, paludisme, tuberculose)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Neoplasms"
     "title":
@@ -411,6 +483,8 @@
         \ neoplasms, in situ neoplasms)."
       "fr": "Informations au sujet de tumeurs passées et actuelles (e.g. tumeurs bé\
         nignes et malignes, tumeurs in situ)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Blood_immune_dis"
     "title":
@@ -426,6 +500,8 @@
         matopoïétiques et certains troubles du système immunitaire passés et actuels\
         \ (e.g. anémies nutritionnelles, anomalie de coagulation. PAS le VIH/Sida,\
         \ PAS le lupus, PAS les allergies)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Endocrine_metabolic_dis"
     "title":
@@ -437,6 +513,8 @@
       "fr": "Informations au sujet de maladies endocriniennes, nutritionnelles et\
         \ métaboliques passées et actuelles (e.g. diabète, troubles thyroïdiens et\
         \ métaboliques, malnutrition)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Mental_behav_dis"
     "title":
@@ -450,6 +528,8 @@
         \ actuels (e.g. démence, schizophrénie, syndrome chronique d'État de Stress\
         \ Post-Traumatique SSPT, troubles affectifs de l'humeur, troubles mentaux\
         \ liés à la toxicomanie)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Nervous_sys_dis"
     "title":
@@ -462,6 +542,8 @@
       "fr": "Informations au sujet de maladies du système nerveux passées et actuelles\
         \ (e.g. Parkinson, Alzheimer, Huntington, maladies inflammatoires du systè\
         me nerveux central)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Eye_adnexa_dis"
     "title":
@@ -473,6 +555,8 @@
       "fr": "Informations au sujet de maladies de l'œil et de ses annexes passées\
         \ et actuelles (e.g. glaucome, conjunctivite, cataractes, strabisme, faible\
         \ vision)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Ear_mastoid_dis"
     "title":
@@ -484,6 +568,8 @@
       "fr": "Informations au sujet de maladies de l'oreille et de l'apophyse mastoï\
         de passées et actuelles (e.g. otite, mastoïdite, labyrinthite, perte auditive\
         \ non spécifiée)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Circulatory_sys_dis"
     "title":
@@ -495,6 +581,8 @@
       "fr": "Informations au sujet de maladies de l'appareil circulatoire passées\
         \ et actuelles (e.g. hypertension, maladies cardiaques ischémiques, maladies\
         \ cérébrovasculaires)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Respiratory_sys_dis"
     "title":
@@ -509,6 +597,8 @@
         \ et actuelles (e.g. asthme, bronchite, emphysème, maladie pulmonaire obstructive\
         \ chronique MPOC, pneumonie, influenza - \"grippe\", nasopharyngite, rhinopharyngite\
         \ - \"rhume\")."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Digestive_sys_dis"
     "title":
@@ -520,6 +610,8 @@
       "fr": "Informations au sujet de maladies de l'appareil digestif passées et actuelles\
         \ (e.g. maladie de Crohn, hépatite, syndrome du côlon irritable, cirrhose,\
         \ colite)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Skin_subcutaneous_dis"
     "title":
@@ -530,6 +622,8 @@
         \ tissue (e.g. dermatitis, eczema, urticarial, erythema)."
       "fr": "Informations au sujet de maladies de la peau et du tissu cellulaire sous-cutané\
         \ passées et actuelles (e.g. dermatite, eczéma, urticaire, erythème)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Musculoskeletal_sys_dis"
     "title":
@@ -542,6 +636,8 @@
       "fr": "Informations au sujet de maladies du système ostéo-articulaire, des muscles\
         \ et du tissu conjonctif passées et actuelles (e.g. arthrite, arthrose, lupus,\
         \ douleurs au bas du dos)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Genitourinary_sys_dis"
     "title":
@@ -554,6 +650,8 @@
       "fr": "Informations au sujet de maladies de l'appareil génito-urinaire passé\
         es et actuelles (e.g. insuffisance rénale, cystite, infection du tractus urinaire\
         \ (ITU), inflammation de la prostate,  mastite, endométriose)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Pregnancy_childbirth"
     "title":
@@ -566,6 +664,8 @@
       "fr": "Informations au sujet de conditions reliées à la grossesse, l'accouchement\
         \ et la puerpéralité actuelles ou passées  (causes maternelles ou obstétriques).\
         \ Les informations sur les nouveau-nés ne sont pas incluses ici."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Perinatal_cond"
     "title":
@@ -580,6 +680,8 @@
         \ et de l'accouchement du fœtus et du nouveau-né. Traumatismes de naissance,\
         \ troubles et infections spécifiques de la période périnatale. Les informations\
         \ sur la mère ne sont pas incluses ici."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Cong_malform_chrom_abnor"
     "title":
@@ -592,6 +694,8 @@
       "fr": "Informations au sujet de malformations congénitales, déformations et\
         \ anomalies chromosomiques  (e.g. fente labiale et palatine, spina bifida,\
         \ anomalie cardiaque aortique)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Injury_poisoning"
     "title":
@@ -605,6 +709,8 @@
       "fr": "Informations au sujet de lésions traumatiques, empoisonnements et certaines\
         \ autres conséquences de causes externes passées et actuelles (e.g. brûlures,\
         \ fractures, coupures, corrosions, empoisonnement, allergies)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Morbidity_mortality_ext"
     "title":
@@ -616,6 +722,8 @@
       "fr": "Informations au sujet de causes externes de morbidité et de mortalité\
         \ passées et actuelles (e.g. blessures reliées à la circulation, chutes, explosions,\
         \ blessures auto-infligées)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_dis"
     "title":
@@ -634,6 +742,8 @@
         \ reçu un diagnostic d'Alzheimer ou de démence ? Diagnostic d'un trouble du\
         \ développement tel que l'autisme, la paralysie cérébrale, l'épilepsie ou\
         \ le retard mental)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Symptoms_signs"
   "title":
@@ -643,6 +753,8 @@
     "en": "Refers to information about the bodily experience of health."
     "fr": "Réfère aux informations au sujet de l'expérience corporelle de la santé\
       ."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Circulatory_respiratory_sympt"
     "title":
@@ -654,6 +766,8 @@
       "fr": "Informations au sujet de symptômes et signes des appareils circulatoire\
         \ et respiratoire passés et actuels (e.g. tachycardie, épistaxis, toux, respiration\
         \ sifflante)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Digestive_sympt"
     "title":
@@ -665,6 +779,8 @@
       "fr": "Informations au sujet de symptômes et signes de l'appareil digestif et\
         \ de l'abdomen passés et actuels (e.g. nausée, vomissement, brûlures d'estomac,\
         \ ballonnement)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Skin_subcut_sympt"
     "title":
@@ -677,6 +793,8 @@
       "fr": "Informations au sujet de symptômes et signes de la peau et du tissu cellulaire\
         \ sous-cutané passés et actuels (e.g. gonflements locaux, masses, grosseurs,\
         \ cyanose, rougeurs, desquamation)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Nervous_musculoskeletal_sympt"
     "title":
@@ -688,6 +806,8 @@
       "fr": "Informations au sujet de symptômes et signes des systèmes nerveux et\
         \ ostéo-musculaire passés et actuels (e.g. tremblements, réflexes anormaux,\
         \ crampes, spasmes)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Urinary_sympt"
     "title":
@@ -698,6 +818,8 @@
         \ system (e.g. dysuria, retention of urine)."
       "fr": "Informations au sujet de symptômes et signes de l'appareil urinaire passé\
         s et actuels (e.g. dysurie, rétention d'urine)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Cognitive_perc_emotional_sympt"
     "title":
@@ -712,6 +834,8 @@
         \ l'humeur et du comportement passés et actuels (e.g. somnolence, étourdissements,\
         \ hallucinations, nervosité, hostilité). Voir également Sect. 13 \"Cognition,\
         \ personalité et autres mesures psychologiques\"."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Speech_voice_sympt"
     "title":
@@ -722,6 +846,8 @@
         \ and voice (e.g. aphasia, dysphonia, hypernasality)."
       "fr": "Informations au sujet de symptômes et signes en lien avec le langage\
         \ et la voix passés et actuels (e.g. aphasie, dysphonie, hypernasalité)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "General_sympt"
     "title":
@@ -732,6 +858,8 @@
         \ headache, malaise and fatigue, lethargy, senility, pain)."
       "fr": "Informations au sujet de symptômes et signes généraux passés et actuels\
         \ (e.g. fièvre, maux de tête, malaise et fatigue, léthargie, sénilité, douleur)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_sympt"
     "title":
@@ -743,6 +871,8 @@
       "fr": "Informations au sujet de symptômes et signes passés et actuels relié\
         s à de multiples catégories de symptômes et signes (e.g. nombre de symptô\
         mes, symptômes non spécifiés)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Medication_supplements"
   "title":
@@ -756,6 +886,8 @@
       \ libre), incluant les médicaments et les suppléments (e.g. vitamines, extraits\
       \ de plantes) utilisés dans le traitement ou la prévention de maladies ou l'allè\
       gement de symptômes de maladies."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Medication_suppl"
     "title":
@@ -768,6 +900,8 @@
       "fr": "Informations au sujet de tout médicament qui traite, prévient ou allè\
         ge les symptômes d'une maladie (e.g. Advil, chimiothérapie, vitamine C, Ginseng,\
         \ timbres de nicotine)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Posology_protocol"
     "title":
@@ -781,6 +915,8 @@
         \ section inclut des questions au sujet de l'heure, de la fréquence et de\
         \ la quantité des médicaments pris par l'individu, la voie d'absorption et\
         \ l'observance au traitement."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_pharmacological_inter"
     "title":
@@ -792,6 +928,8 @@
       "fr": "Informations au sujet d'autres interventions pharmacologiques non mentionné\
         es auparavant (e.g. vaccination) ou des interventions pharmacologiques non\
         \ spécifiées (e.g. application de crème solaire)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Non_pharmacological_interventions"
   "title":
@@ -802,6 +940,8 @@
       \ or prevent diseases or to alleviate symptoms of disease."
     "fr": "Réfère aux informations au sujet d'interventions non-pharmacologiques pour\
       \ traiter ou prévenir des maladies ou alléger des symptômes d'une maladie."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Surgical_inter"
     "title":
@@ -812,6 +952,8 @@
         \ interventions (e.g. biopsy, removal of gall bladder)."
       "fr": "Informations au sujet d'interventions chirurgicales diagnostiques, pré\
         ventives ou thérapeutiques (e.g. biopsie, ablation de la vésicule biliaire)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Radiological_inter"
     "title":
@@ -823,6 +965,8 @@
       "fr": "Informations au sujet d'interventions radiologiques diagnostiques, pré\
         ventives ou thérapeutiques (e.g. rayons X, traitement de radiation contre\
         \ le cancer)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Physical_inter"
     "title":
@@ -833,6 +977,8 @@
         \ (e.g. physiotherapy, exercises)."
       "fr": "Informations au sujet d'interventions de thérapie physique préventives\
         \ ou thérapeutiques (e.g. physiothérapie, exercices physiques)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Cognitive_psycho_sensory_inter"
     "title":
@@ -844,6 +990,8 @@
       "fr": "Informations au sujet d'interventions cognitives, psychologiques ou sensorielles\
         \ préventives ou thérapeutiques (e.g. psychothérapie, aromathérapie, exercices\
         \ de mémoire)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Educational_inter"
     "title":
@@ -856,6 +1004,8 @@
       "fr": "Informations au sujet d'interventions éducationnelles et de promotion\
         \ de la santé préventives ou thérapeutiques (e.g. programme de cessation de\
         \ tabagisme, programme de prévention de maladies infectieuses)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Biosample_analyses"
     "title":
@@ -867,11 +1017,13 @@
       "fr": "Informations au sujet d'analyses d'échantillons biologiques dans un but\
         \ de diagnostic (e.g. test d'antigène prostatique (PSA), vérification du cholesté\
         rol)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_non_pharmacological_inter"
     "title":
       "en": "Other information on non-pharmacological interventions"
-      "fr": "Autres information en lien avec des interventions non-pharmacologiques"
+      "fr": "Autres informations en lien avec des interventions non-pharmacologiques"
     "description":
       "en": "Information about other non-pharmacological interventions not mentioned\
         \ above (e.g. control visits with a dentist or general practitioner) or unspecified\
@@ -879,6 +1031,8 @@
       "fr": "Informations au sujet d'interventions non-pharmacologiques non mentionné\
         es auparavant (e.g. visite de contrôle chez le dentiste ou le médecin de famille)\
         \ ou d'interventions non-pharmacologiques non spécifiées."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Health_community_care_utilization"
   "title":
@@ -889,6 +1043,8 @@
       \ a healthcare professional or hospitalizations."
     "fr": "Informations au sujet de l'utilisation des systèmes de santé et communautaire\
       \ telle que des visites chez un professionnel de la santé ou une hospitalisation."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Visit_health_prof"
     "title":
@@ -900,6 +1056,8 @@
       "fr": "Informations au sujet de visites passées et actuelles chez un praticien\
         \ généraliste (médecin de famille), un dentiste ou un spécialiste (pédiatre,\
         \ psychologue)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Hospitalizations"
     "title":
@@ -910,6 +1068,8 @@
         \ hospitalized, year of hospitalization)."
       "fr": "Informations au sujet d'hospitalisations passées et actuelles (e.g. nombre\
         \ de jours hospitalisés, année de l'hospitalisation)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Community_care"
     "title":
@@ -920,6 +1080,8 @@
         \ nurse visiting at home)."
       "fr": "Informations au sujet de soins communautaires passés et actuels (e.g.\
         \ popote roulante, soins à domicile)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_health_and_community_care"
     "title":
@@ -930,6 +1092,8 @@
         \ care institutions (e.g. group home, shelter)."
       "fr": "Informations au sujet de l'utilisation passée et actuelle d'autres institutions\
         \ de santé et de soins communautaires (e.g. foyer d'accueil, abri)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Reproduction"
   "title":
@@ -938,6 +1102,8 @@
   "description":
     "en": "Information about current or past reproductive health."
     "fr": "Informations au sujet de la santé reproductive actuelle ou passée."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Menstr_menop_andropause"
     "title":
@@ -949,6 +1115,8 @@
       "fr": "Informations au sujet de la menstruation, de la ménopause, de l'andropause\
         \ et d'événements en lien avec ces sujets (e.g. âge lors de la ménarche, anné\
         e de début de la ménopause)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Contraception"
     "title":
@@ -959,6 +1127,8 @@
         \ contraception used, years of family planning)."
       "fr": "Informations au sujet de la contraception et du planning familial (e.g.\
         \ méthodes de contraception utilisées, années de planning familial)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Pregnancy_delivery"
     "title":
@@ -972,6 +1142,8 @@
       "fr": "Informations au sujet de la grossesse, du travail, de l'accouchement\
         \  incluant des informations au sujet des issues normales (e.g. semaines de\
         \ gestation, attendre/donner naissance à des jumeaux, score APGAR)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Gravidity_fertility"
     "title":
@@ -989,6 +1161,8 @@
         \ au sujet du nombre d'enfants accouchés par une femme (parité) (e.g. nombre\
         \ d'enfants vivants à la naissance) ou conçus par un homme (fertilité) (e.g.\
         \ nombre d'enfants conçus)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Breastfeeding"
     "title":
@@ -999,6 +1173,8 @@
         \ duration and frequency of breastfeeding)."
       "fr": "Informations au sujet de la mère nourrissant un enfant au sein (e.g.\
         \ durée et fréquence de l'allaitement)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Reprod_sexual_problems"
     "title":
@@ -1012,6 +1188,8 @@
         \ à induire une conception. Réfère aux hommes ou aux femmes. Voir la section\
         \ Z30-Z39 \"Sujets ayant recours aux services de santé pour des motifs lié\
         s à la reproduction\" (http://apps.who.int/classifications/icd10/browse/2010/en#/Z30-Z39)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_reproductive"
     "title":
@@ -1020,6 +1198,8 @@
     "description":
       "en": "Information about other reproductive health issues."
       "fr": "Informations au sujet d'autres issues en lien avec la santé reproductive."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Infancy_childhood"
   "title":
@@ -1032,6 +1212,8 @@
     "fr": "La petite enfance réfère à la période entre la naissance et les 12 premiers\
       \ mois de vie. L'enfance réfère à la période entre la première année de vie\
       \ (après 12 mois) et la fin de l'école primaire (env. 12 ans)."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Newborn_characteristics"
     "title":
@@ -1043,6 +1225,8 @@
       "fr": "Informations au sujet des caractéristiques à la naissance (e.g. âge gestationnel,\
         \ score APGAR, poids et taille à la naissance, circonférence de la tête, ê\
         tre un jumeau)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Newborn_nutrition"
     "title":
@@ -1056,6 +1240,8 @@
         quence et durée de l'allaitement, moment de l'introduction des aliments solides,\
         \ type d'aliments). Voir également Sect. 2 \"Habitudes de vie et comportements\
         \ de santé\", sous 'Nutrition'."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Newborn_development"
     "title":
@@ -1070,6 +1256,8 @@
         \ moteur, cognitif, socio-affectif et du language). Voir également Sect. 13\
         \ \"Cognition, personalité et autres mesures psychologiques\" pour des informations\
         \ sur les mesures de développement."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Newborn_daycare"
     "title":
@@ -1080,6 +1268,8 @@
         \ attendance, type of daycare)."
       "fr": "Informations au sujet du type de garde du nouveau-né/bébé (e.g. fréquence\
         \ de fréquentation de la garderie, type de garderie)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Child_school"
     "title":
@@ -1093,6 +1283,8 @@
         \ la garderie, de l'école maternelle et de l'école (e.g. type de garde d'enfant,\
         \ fréquence de la présence à la garderie, participation à des activités pré\
         -scolaires)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_child_info"
     "title":
@@ -1101,6 +1293,8 @@
     "description":
       "en": "Other infant/child related information (e.g. adoption)."
       "fr": "Autres informations en lien avec le bébé/enfant (e.g. adoption)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "End_of_life"
   "title":
@@ -1109,6 +1303,8 @@
   "description":
     "en": "Refers to information about the end of life period."
     "fr": "Réfère aux informations au sujet de la période de fin de vie."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Life_status"
     "title":
@@ -1118,6 +1314,8 @@
       "en": "Information about the vital status (e.g. alive, deceased, age at death)."
       "fr": "Informations au sujet du statut vital (e.g. vivant, décédé, âge au dé\
         cès)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Cause_death"
     "title":
@@ -1126,6 +1324,8 @@
     "description":
       "en": "Information about the cause of death (e.g. pneumonia, suicide)."
       "fr": "Informations au sujet de la cause du décès (e.g. pneumonie, suicide)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Palliative_care"
     "title":
@@ -1136,6 +1336,8 @@
         \ psychological care)."
       "fr": "Informations au sujet des soins palliatifs (e.g. prise de médicaments\
         \ anti-douleur, soins psychologiques)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_death"
     "title":
@@ -1144,6 +1346,8 @@
     "description":
       "en": "Other information related to end of life or death."
       "fr": "Autres informations en lien avec la fin de vie ou le décès."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Physical_measures"
   "title":
@@ -1157,6 +1361,8 @@
       \ section sont généralement mesurées en unités standardisées. Voir Sect 17 \"\
       Informations administratives\" pour les informations relatives aux mesures (e.g.\
       \ date du test, bras utilisé)."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Physical_characteristics"
     "title":
@@ -1167,6 +1373,8 @@
         \ dominance."
       "fr": "Informations au sujet de la couleur naturelle des yeux et des cheveux,\
         \ dominance des mains, des pieds et des yeux."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Anthropo_measures"
     "title":
@@ -1179,6 +1387,8 @@
       "fr": "Informations au sujet de la mesure actuelle des structures anthropomé\
         triques (e.g. taille et poids actuels) sans distinction entre les valeurs\
         \ mesurées et auto-rapportées."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Circulation_respiration"
     "title":
@@ -1189,6 +1399,8 @@
         \ (e.g. blood pressure, spirometry)."
       "fr": "Informations au sujet des mesures actuelles de circulation de de respiration\
         \ (e.g. pression sanguine, spirométrie)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Muscles_skeleton_mobility"
     "title":
@@ -1200,6 +1412,8 @@
       "fr": "Informations au sujet des mesures actuelles des muscles, du mouvement\
         \ et de la mobilité (e.g. force de préhension de la main, test de 10 mètres\
         \ de marche chronométré, ostéodensitométrie)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Sensory_pain"
     "title":
@@ -1213,6 +1427,8 @@
         \ (e.g. vue, ouïe, odorat) et de la douleur (e.g. examen des yeux en utilisant\
         \ l'échelle de Snellen, test auditif, échelle visuelle analogue pour la douleur,\
         \ douleur oui/non)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Brain_nerves"
     "title":
@@ -1226,6 +1442,8 @@
         \ nerveux central (cerveau et moëlle épinière) et périphérique (nerfs) (e.g.\
         \ détection de l'impulsion électrique (EEG, EMG) et tests d'imagerie médicale\
         \ (scans CT, TEP, IRM)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Skin_subcutaneous"
     "title":
@@ -1236,6 +1454,8 @@
         \ tissue (e.g. measurement by skinfold caliper)."
       "fr": "Informations au sujet des mesures actuelles de la peau et du tissu sous-cutané\
         \ (e.g. adipométrie)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Speech_voice"
     "title":
@@ -1246,6 +1466,8 @@
         \ intensity profile)."
       "fr": "Informations au sujet des mesures actuelles du langage et de la voix\
         \ (e.g. profil de l'intensité et de la hauteur de la voix)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Digestion"
     "title":
@@ -1254,6 +1476,8 @@
     "description":
       "en": "Information about the current measurement of digestion."
       "fr": "Informations au sujet des mesures actuelles de digestion."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Reproduction"
     "title":
@@ -1264,6 +1488,8 @@
         \ number of eggs counted)."
       "fr": "Informations au sujet des mesures actuelles des fonctions de reproduction\
         \ (e.g. décompte du nombre d'ovules)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_phys_measures"
     "title":
@@ -1274,6 +1500,8 @@
         \ (e.g. activity, sleep, wake and light-exposure measurement with Actiwatch)."
       "fr": "Informations au sujet d'autres mesures actuelles des fonctions physiques\
         \ (e.g. activité, sommeil, temps d'éveil et exposition à la lumière avec Actiwatch)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Cognitive_psychological_measures"
   "title":
@@ -1287,6 +1515,8 @@
       \ du fonctionnement psychologique d'un individu. Voir Sect. 17 \"Informations\
       \ administratives\" pour les informations en lien avec les mesures (e.g. date\
       \ du test)."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Cognitive_functioning"
     "title":
@@ -1304,6 +1534,8 @@
         \ Voir également Sect. 5 \"Symptômes et signes\", sous 'Cognition, perception,\
         \ humeur et comportement (R40-R46)', pour les questions à propos des problè\
         mes de mémoire n'impliquant pas de mesure (symptômes)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Psychological_emotional_distress"
     "title":
@@ -1315,6 +1547,8 @@
       "fr": "Informations au sujet de l'humeur recueillies par questionnaires (e.g.\
         \ mesurées avec l'inventaire de dépression de Beck) plutôt que par le diagnostic\
         \ (contraire au F00-F99)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Personality"
     "title":
@@ -1334,6 +1568,8 @@
         \ Voir également Sect. 5 \"Symptômes et signes\", sous 'Cognition, perception,\
         \ humeur et comportement (R40-R46)', pour les questions à propos des problè\
         mes de mémoire n'impliquant pas de mesure (symptômes)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_psycholog_measures"
     "title":
@@ -1346,6 +1582,8 @@
       "fr": "Informations au sujet de la satisfaction de la vie/au travail, le stress\
         \ perçu, l'évaluation subjective des performances à l'école/au travail et\
         \ d'autres caractéristiques d'auto-évaluation de la vie positives/négatives."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Laboratory_measures"
   "title":
@@ -1359,6 +1597,8 @@
       \ biologique a été collecté et analysé dans un laboratoire. Voir Sect. 17 \"\
       Information administratives\" pour les informations en lien avec la mesure (e.g.\
       \ date du test, le bras utilisé)."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Hematology"
     "title":
@@ -1370,6 +1610,8 @@
       "fr": "Informations au sujet des caractéristiques du sang telles que la quantité\
         \ et la fonction des cellules sanguines et du plasma (e.g.  Numération formule\
         \ sanguine - NFS ; plaquettes; hématocrite)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Biochemistry"
     "title":
@@ -1380,6 +1622,8 @@
         \ (e.g. cholesterol, glucose, lipids, hormones)."
       "fr": "Informations au sujet des composants chimiques du sang et des autres\
         \ fluides corporels (e.g. cholestérol, glucose, lipides, hormones)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Microbiology"
     "title":
@@ -1390,6 +1634,8 @@
         \ (e.g. bacteria, fungi or parasites)."
       "fr": "Informations au sujet des éléments infectieux dans le sang et dans les\
         \ autres fluides corporels (e.g. bactéries, champignons ou parasites)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Virology"
     "title":
@@ -1401,6 +1647,8 @@
       "fr": "Informations au sujet des infections virales, soit observées directement\
         \ par la détection des antigènes viraux (e.g. VRS, VHS), soit par un anticorps\
         \ (e.g. VIH, Anti-HBc)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Immunology"
     "title":
@@ -1410,6 +1658,8 @@
       "en": "Information about the immune system from antibodies (e.g. IgE, IgA)."
       "fr": "Informations au sujet du système immunitaire à partir des anticorps (e.g.\
         \ IgE, IgA)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Toxicology"
     "title":
@@ -1420,6 +1670,8 @@
         \ (e.g. amphetamines, cocaine, lead)."
       "fr": "Informations au sujet des composants toxiques dans le sang et des autres\
         \ fluides corporels (e.g. amphétamines, cocaïne, plomb)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Histology"
     "title":
@@ -1430,6 +1682,8 @@
         \ test, biopsy analysis)."
       "fr": "Informations au sujet de l'anatomie microscopique des cellules et des\
         \ tissus (e.g. test de Papanicolaou, analyse de biopsies)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Genomics"
     "title":
@@ -1439,6 +1693,8 @@
       "en": "DNA analysis (e.g. anti-dsDNA, anti-nuclear antibody test - ANA)."
       "fr": "Analyse de l'ADN (e.g. anti-ADNdb, test des anticorps antinucléaire -\
         \ AAN)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_lab_measures"
     "title":
@@ -1447,6 +1703,8 @@
     "description":
       "en": "Information about other laboratory analyses."
       "fr": "Informations au sujet d'autres analyses de laboratoire."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Social_environment"
   "title":
@@ -1457,6 +1715,8 @@
       \ from the social environment."
     "fr": "Réfère aux informations au sujet des relations et du soutien donné et reç\
       u de l'environnement social."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Soc_network"
     "title":
@@ -1467,6 +1727,8 @@
         \ of friends, number of years since friends were made)."
       "fr": "Informations au sujet de la composition des relations personnelles (e.g.\
         \ nombre d'amis, nombre d'années depuis le début de l'amitié)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Soc_participation"
     "title":
@@ -1479,6 +1741,8 @@
       "fr": "Informations au sujet de l'implication sociale et l'intéraction de l'individu\
         \ avec les autres (e.g. bénévolat, faire des dons, participation à des activité\
         s récréatives et religieuses)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Soc_support"
     "title":
@@ -1498,6 +1762,8 @@
         \ des membres de la famille à qui parler ou demander de l'aide; degré d'inté\
         gration dans un réseau). Le soutien peut être donné ou reçu et est basé sur\
         \ une relation personnelle."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Life_events"
     "title":
@@ -1510,6 +1776,8 @@
       "fr": "Informations au sujet d'événements majeurs (e.g. maltraitance infantile,\
         \ guerre, prison) et mineurs (e.g. rénovation de la maison) et des plans de\
         \ vie (e.g. quoi faire après l'obtention du diplôme, pour la retraite)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_soc_characteristics"
     "title":
@@ -1520,6 +1788,8 @@
         \ one can talk to)."
       "fr": "Informations au sujet d'autres caractéristiques de l'environnement social\
         \ (e.g. animaux domestiques à qui parler)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Physical_environment"
   "title":
@@ -1530,6 +1800,8 @@
       \ exposures arising from this environment."
     "fr": "Réfère aux caractéristiques de l'environnement physique et les expositions\
       \ physiques ou chimiques provenant de cet environnement."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Housing"
     "title":
@@ -1541,6 +1813,8 @@
       "fr": "Informations au sujet des caractéristiques du logement dans lequel l'individu\
         \ vit (e.g. année de construction de la maison, source du chauffage, présence\
         \ de moisissures)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Neighborhood"
     "title":
@@ -1553,6 +1827,8 @@
       "fr": "Informations au sujet des caractéristiques de l'environnement physique\
         \ en dehors de la maison et du travail (e.g. densité résidentielle, proximité\
         \ des parcs), incluant les moyens de transport disponibles."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Workplace"
     "title":
@@ -1564,6 +1840,8 @@
       "fr": "Informations au sujet des caractéristiques physiques du lieu de travail\
         \ (e.g. adresse, caractéristiques de l'immeuble, ventilation, travail à l'inté\
         rieur/extérieur d'un bâtiment)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Radiation_exp"
     "title":
@@ -1575,6 +1853,8 @@
       "fr": "Informations au sujet de l'exposition à la radiation provenant des rayons\
         \ du soleil (e.g. exposition UV) ou des ondes radio (e.g. utilisation du cellulaire,\
         \ fréquence de voyage en avion)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Chemical_exp"
     "title":
@@ -1586,6 +1866,8 @@
       "fr": "Informations au sujet de l'exposition aux produits chimiques dans l'air,\
         \ la nourriture ou l'eau (e.g. fumée de cigarette et  de feux de bois, solvants,\
         \ pesticides)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Biological_exp"
     "title":
@@ -1596,6 +1878,8 @@
         \ virus, ticks transmitting Lyme disease)."
       "fr": "Information au sujet d'exposition aux biorisques (e.g. virus Ebola, virus\
         \ de la varicelle, tiques transmettant la maladie de Lyme)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_environment"
     "title":
@@ -1604,6 +1888,8 @@
     "description":
       "en": "Information about other physical environment characteristics."
       "fr": "Informations au sujet d'autres caractéristiques de l'environnement physique."
+    "attributes": {}
+    "keywords": {}
     "terms": []
 - "name": "Administrative_information"
   "title":
@@ -1612,6 +1898,8 @@
   "description":
     "en": "Refers to information about administrative data."
     "fr": "Réfère aux informations au sujet des données administratives."
+  "attributes": {}
+  "keywords": {}
   "terms":
   - "name": "Identifiers"
     "title":
@@ -1624,6 +1912,8 @@
       "fr": "Informations au sujet de l'identification d'un individu ou d'un groupe\
         \ d'individus (e.g. participant, ménage, numéro de l'intervieweur, vague de\
         \ collecte de données, identifiant de l'échantillon)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Date_time_related_info"
     "title":
@@ -1633,8 +1923,10 @@
       "en": "Information about date and time of questionnaires completed and physical/cognitive\
         \ measures/biosamples taken."
       "fr": "Informations au sujet de la date et de l'heure auxquelles les questionnaires\
-        \ sont complétées et les mesures physiques/cognitives et les échantillons\
-        \ biologiques sont pris."
+        \ sont complétés et les mesures physiques/cognitives et les échantillons biologiques\
+        \ sont pris."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Questionnaire_interview_related_info"
     "title":
@@ -1648,6 +1940,8 @@
         \ version, section du questionnaire, répondant, nombre d'individus présents\
         \ au moment de l'entrevue, mode d'administration du questionnaire, méthode\
         \ de l'entrevue)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Physical_measure_biosamp_related_info"
     "title":
@@ -1664,6 +1958,8 @@
         \ lors de l'évaluation, informations de la biobanque (le volume collecté,\
         \ les circonstances de l'analyse du spécimen), informations liées aux procé\
         dures standardisées)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Data_sample_center"
     "title":
@@ -1676,6 +1972,8 @@
       "fr": "Informations au sujet des caractéristiques de la collecte de données\
         \ et de l'échantillon (e.g. numéro d'identification du centre, nombre de marches\
         \ à l'entrée, zone où se situe l'immeuble)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
   - "name": "Other_admin_info"
     "title":
@@ -1686,4 +1984,6 @@
         \ reason for withdrawal)."
       "fr": "Autres informations administratives (e.g. indicateur de retrait du participant,\
         \ raison du retrait)."
+    "attributes": {}
+    "keywords": {}
     "terms": []
