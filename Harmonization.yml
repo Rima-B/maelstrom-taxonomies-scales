@@ -22,7 +22,6 @@
     "description":
       "en": "Harmonization status is complete."
       "fr": "Le statut d'harmonisation est complet."
-    "terms": []
   - "name": "undetermined"
     "title":
       "en": "Undetermined"
@@ -30,7 +29,6 @@
     "description":
       "en": "Harmonization status is undetermined (information pending)."
       "fr": "Le statut d'harmonisation est indéterminé (en attente d'information)."
-    "terms": []
   - "name": "impossible"
     "title":
       "en": "Impossible"
@@ -38,7 +36,6 @@
     "description":
       "en": "Harmonization status is impossible."
       "fr": "Le statut d'harmonisation est impossible."
-    "terms": []
 - "name": "comment"
   "title":
     "en": "Comment"
@@ -46,7 +43,6 @@
   "description":
     "en": "Additional information about the harmonized variable."
     "fr": "Information supplémentaire à propos de la variable harmonisée."
-  "terms": []
 - "name": "algorithm"
   "title":
     "en": "Algorithm"
@@ -54,4 +50,3 @@
   "description":
     "en": "Algorithm used to generate the harmonized variable."
     "fr": "Algorithme utilisé pour générer la variable harmonisée."
-  "terms": []

@@ -6,346 +6,229 @@
 "description":
   "en": "Refers constructs used to measure general health"
   "fr": "Information au sujet de mesures composées (échelles) de la santé générale"
-"attributes": {}
-"keywords": {}
 "vocabularies":
 - "name": "Perception"
   "title":
     "en": "Constructs for health perception"
   "description":
     "en": "Perception of health constructs"
-  "attributes": {}
-  "keywords": {}
 - "name": "Quality"
   "title":
     "en": "Constructs for quality of life"
   "description":
     "en": "Quality of life constructs"
-  "attributes": {}
-  "keywords": {}
   "terms":
   - "name": "QoL"
     "title":
       "en": "Quality of Life scale"
     "description":
       "en": "Quality of Life scale (QoL)"
-    "attributes": {}
-    "keywords": {}
   - "name": "SF36"
     "title":
       "en": "Short Form (SF36) Health Survey"
     "description":
       "en": "The Short Form (SF36) Health Survey"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "SF12"
     "title":
       "en": "Short Form (SF12) Health Survey"
     "description":
       "en": "The Short Form (SF12) Health Survey"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "Gallup"
     "title":
       "en": "Gallup's Quality of Community Life Survey"
     "description":
       "en": "Gallup's Quality of Community Life Survey"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "CASP_19"
     "title":
       "en": "CASP-19 Quality of Life Scale"
     "description":
       "en": "CASP-19 Quality of Life Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "VR_36"
     "title":
       "en": "Veterans Rand 36-Item Health Survey"
     "description":
       "en": "Veterans Rand 36-Item Health Survey"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "MOS_HRQOL"
     "title":
       "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
     "description":
       "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "EUROHIS_QOL"
     "title":
       "en": "EUROHIS-QOL 8-Item Index"
     "description":
       "en": "EUROHIS-QOL 8-Item Index"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "AQoL"
     "title":
       "en": "Assessment of Quality of Life"
     "description":
       "en": "Assessment of Quality of Life (Hawthorne, Richardson and Day, 1997)"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "Ped_QoL"
     "title":
       "en": "Paediatric Quality of Life Inventory"
     "description":
       "en": "Paediatric Quality of Life Inventory"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "HUI"
     "title":
       "en": "Health Utilities Index"
     "description":
       "en": "Health Utilities Index"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
 - "name": "Functional"
   "title":
     "en": "Constructs for functional activities"
   "description":
     "en": "Constructs for functional activities of daily activities"
-  "attributes": {}
-  "keywords": {}
   "terms":
   - "name": "ADL"
     "title":
       "en": "Activities of Daily Living"
     "description":
       "en": "Activities of Daily Living (ADL)"
-    "attributes": {}
-    "keywords": {}
   - "name": "OARS_ADL"
     "title":
       "en": "ADL from the Older Americans Resources and Services list"
     "description":
       "en": "Activities of Daily Living (ADL) from the Older Americans Resources and\
         \ Services (OARS) list"
-    "attributes": {}
-    "keywords": {}
   - "name": "IADL"
     "title":
       "en": "Instrumental Activities of Daily Living"
     "description":
       "en": "Instrumental Activities of Daily Living (IADL)"
-    "attributes": {}
-    "keywords": {}
   - "name": "OARS_IADL"
     "title":
       "en": "IADL from the Older Americans Resources and Services list"
     "description":
       "en": "Instrumental Activities of Daily Living (IADL) from the Older Americans\
         \ Resources and Services (OARS) list"
-    "attributes": {}
-    "keywords": {}
   - "name": "OARS"
     "title":
       "en": "Older Americans Resources and Services list"
     "description":
       "en": "Older Americans Resources and Services (OARS) list"
-    "attributes": {}
-    "keywords": {}
   - "name": "FUL"
     "title":
       "en": "Functional status"
     "description":
       "en": "Functional status (FUL)"
-    "attributes": {}
-    "keywords": {}
   - "name": "Blessed_Dementia_Scale"
     "title":
       "en": "Blessed Dementia Scale"
     "description":
       "en": "Blessed Dementia Scale"
-    "attributes": {}
-    "keywords": {}
   - "name": "WHI_Selfrep_PA"
     "title":
       "en": "WHICAP Self-reported Physical Activity"
     "description":
       "en": "WHICAP Self-reported Physical Activity"
-    "attributes": {}
-    "keywords": {}
   - "name": "SMAF"
     "title":
       "en": "Functional Autonomy Measurement System"
     "description":
       "en": "Functional Autonomy Measurement System (SMAF)"
-    "attributes": {}
-    "keywords": {}
   - "name": "SMAF_Social"
     "title":
       "en": "Social Functional Autonomy Measurement System"
     "description":
       "en": "Social Functional Autonomy Measurement System (SMAF Social)"
-    "attributes": {}
-    "keywords": {}
   - "name": "FAQ"
     "title":
       "en": "Functional Activities Questionnaire"
     "description":
       "en": "Functional Activities Questionnaire (FAQ)"
-    "attributes": {}
-    "keywords": {}
   - "name": "PADLs"
     "title":
       "en": "Physical Activities of Daily Living Scale"
     "description":
       "en": "Physical Activities of Daily Living Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "Fried_Frailty"
     "title":
       "en": "Fried's Frailty Phenotype"
     "description":
       "en": "Fried's Frailty Phenotype"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "Strawbridge_Frailty"
     "title":
       "en": "Strawbridge Frailty Questionnaire"
     "description":
       "en": "Strawbridge Frailty Questionnaire"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "Townsend_Frailty"
     "title":
       "en": "Townsend Disability Scale"
     "description":
       "en": "Townsend Disability Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "Fried_Townsend_Strawbridge"
     "title":
       "en": "Fried, Townsend and Strawbridge Scores"
     "description":
       "en": "Fried, Townsend and Strawbridge Scores"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "CSHA_Frailty"
     "title":
       "en": "CSHA Clinical Frailty Scale"
     "description":
       "en": "CSHA Clinical Frailty Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "WHODAS"
     "title":
       "en": "World Health Organization Disability Assessment Schedule "
     "description":
       "en": "World Health Organization Disability Assessment Schedule "
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "OHIP"
     "title":
       "en": "Oral Health Impact Profile"
     "description":
       "en": "Oral Health Impact Profile"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "HAQ_Disability"
     "title":
       "en": "Health Assessment Questionnaire Disability Scale"
     "description":
       "en": "Health Assessment Questionnaire Disability Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "HAQ_Pain"
     "title":
       "en": "Health Assessment Questionnaire Pain Scale"
     "description":
       "en": "Health Assessment Questionnaire Pain Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "SMAS"
     "title":
       "en": "Self-Management Ability Scale"
     "description":
       "en": "Self-Management Ability Scale"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "TIADL"
     "title":
       "en": "Timed Instrumental Activities of Daily Living Tasks"
     "description":
       "en": "Timed Instrumental Activities of Daily Living Tasks"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "OTDL"
     "title":
       "en": "Observed Tasks of Daily Living (OTDL)"
     "description":
       "en": "Observed Tasks of Daily Living (OTDL)"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "EPT"
     "title":
       "en": "Everyday Problems Test (EPT)"
     "description":
       "en": "Everyday Problems Test (EPT)"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
 - "name": "Other"
   "title":
     "en": "Constructs for other general health"
   "description":
     "en": "Constructs for other measures of general health"
-  "attributes": {}
-  "keywords": {}
   "terms":
   - "name": "Life_Space"
     "title":
       "en": "Life-space assessment"
     "description":
       "en": "Life-space assessment"
-    "attributes": {}
-    "keywords": {}
   - "name": "DKT"
     "title":
       "en": "Diabetes Knowledge Test"
     "description":
       "en": "Diabetes Knowledge Test"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "NVS"
     "title":
       "en": "Newest Vital Sign"
     "description":
       "en": "Newest Vital Sign"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
   - "name": "STOFHLA"
     "title":
       "en": "Short Test of Functional Health Literacy in Adults"
     "description":
       "en": "Short Test of Functional Health Literacy in Adults"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
