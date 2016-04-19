@@ -7,6 +7,8 @@
   "en": "Refers to constructs used in the social domain"
   "fr": "Information au sujet de mesures composites (échelles) utilisées dans le domaine\
     \ social"
+"author": "Maelstrom Research"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
 - "name": "Social_network"
   "title":

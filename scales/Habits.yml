@@ -6,6 +6,8 @@
 "description":
   "en": "Refers to constructs used to measure life habits"
   "fr": "Information au sujet de mesures composites d'habitudes de vie"
+"author": "Maelstrom Research"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
 - "name": "Alcohol"
   "title":

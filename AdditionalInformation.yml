@@ -6,6 +6,8 @@
 "description":
   "en": "Additional information about the collected variable"
   "fr": "Informations additionnelles au sujet des variables collectées"
+"author": "Maelstrom Research"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
 - "name": "Source"
   "title":

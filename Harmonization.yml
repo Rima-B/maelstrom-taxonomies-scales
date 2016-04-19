@@ -6,6 +6,8 @@
 "description":
   "en": "Harmonization qualification by Maelstrom"
   "fr": "Qualification de l'harmonisation par Maelstrom"
+"author": "Maelstrom Research"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
 - "name": "status"
   "title":

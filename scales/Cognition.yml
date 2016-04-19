@@ -8,6 +8,8 @@
   "en": "Constructs for cognitive functioning and mental health"
   "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif\
     \ et de la santé mentale"
+"author": "Maelstrom Research"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
 - "name": "Cog_scale"
   "title":

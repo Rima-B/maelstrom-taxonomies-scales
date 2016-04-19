@@ -6,6 +6,8 @@
 "description":
   "en": "Refers constructs used to measure general health"
   "fr": "Information au sujet de mesures composées (échelles) de la santé générale"
+"author": "Maelstrom Research"
+"license": "CC BY-NC-ND 4.0"
 "vocabularies":
 - "name": "Perception"
   "title":
