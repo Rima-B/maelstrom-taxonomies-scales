@@ -128,36 +128,36 @@
         \ du participant de l'étude."
   - "name": "Partner"
     "title":
-      "en": "Partner"
-      "fr": "Partenaire"
+      "en": "Partners"
+      "fr": "Partenaires"
     "description":
       "en": "Information requested in the question is about the study participant’\
-        s partner."
-      "fr": "L'information demandée dans la question est au sujet du partenaire du\
+        s partners."
+      "fr": "L'information demandée dans la question est au sujet des partenaires du\
         \ participant de l'étude."
   - "name": "Interviewer"
     "title":
-      "en": "Interviewer"
-      "fr": "Intervieweur"
+      "en": "Interviewers"
+      "fr": "Intervieweurs"
     "description":
-      "en": "Information requested in the question is about the study interviewer."
-      "fr": "L'information demandée dans la question est au sujet de l'intervieweur\
+      "en": "Information requested in the question is about the study interviewers."
+      "fr": "L'information demandée dans la question est au sujet des intervieweurs\
         \ de l'étude."
   - "name": "Proxy"
     "title":
-      "en": "Proxy"
-      "fr": "Proxy"
+      "en": "Proxies"
+      "fr": "Proxies"
     "description":
       "en": "Information requested in the question is about the study participant’\
-        s proxy."
-      "fr": "L'information demandée dans la question est au sujet du proxy du participant\
+        s proxies."
+      "fr": "L'information demandée dans la question est au sujet des proxies du participant\
         \ de l'étude."
   - "name": "Other"
     "title":
-      "en": "Other target"
-      "fr": "Autre cible"
+      "en": "Other targets"
+      "fr": "Autre cibles"
     "description":
-      "en": "Information requested in the question is about another person (i.e. study\
+      "en": "Information requested in the question is about other people (i.e. study\
         \ participant’s friends)."
-      "fr": "L'information demandée dans la question est au sujet d'une autre personne\
+      "fr": "L'information demandée dans la question est au sujet d'autres personnes\
         \ (p.ex. les amis du participant)."
