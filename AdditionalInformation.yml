@@ -14,150 +14,128 @@
     "en": "Source"
     "fr": "Source"
   "description":
-    "en": "Source refers to the original document/method of data collection."
-    "fr": "Source réfère au document ou à la méthode originale de la collecte de donné\
-      es."
+    "en": "Source refers to the origin of the information."
+    "fr": "Source réfère l'origine de l'information."
   "terms":
   - "name": "Questionnaire"
     "title":
       "en": "Questionnaire"
       "fr": "Questionnaire"
     "description":
-      "en": "Information was collected in a questionnaire, either self-administrated\
+      "en": "Information is extracted from a questionnaire, either self-administered\
         \ or administrated by an interviewer."
-      "fr": "L'information était collectée par questionnaire, soit auto-administré\
+      "fr": "L'information est extraite d'un questionnaire, soit auto-administré\
         , soit administré par un intervieweur."
   - "name": "Physical_measure"
     "title":
       "en": "Physical measure"
       "fr": "Mesure physique"
     "description":
-      "en": "Information was measured rather than reported by the participant. It\
-        \ can appear in the questionnaire but it needs to have a clear indication\
-        \ that it was measured to appear in this category."
-      "fr": "L'information était mesurée plutôt que rapportée par le participant.\
-        \ Elle peut apparaître dans un questionnaire mais il faut une indication claire\
-        \ qu'elle provient d'une mesure physique pour apparaître dans cette catégorie."
+      "en": "Information is related to a physical measure assessed by an interviewer\
+        \ or other professional."
+      "fr": "L'information est liée à une mesure physique évalué par un intervieweur\
+        \ ou un autre professionnel."
   - "name": "Cognitive_measure"
     "title":
       "en": "Cognitive measure"
       "fr": "Mesure cognitive"
     "description":
-      "en": "Information was measured rather than reported by the participant. It\
-        \ can appear in the questionnaire but it needs to have a clear indication\
-        \ that it was measured to appear in this category."
-      "fr": "L'information était mesurée plutôt que rapportée par le participant.\
-        \ Elle peut apparaître dans un questionnaire mais il faut une indication claire\
-        \ qu'elle provient d'une mesure cognitive pour apparaître dans cette caté\
-        gorie."
+      "en": "Information is related to a cognitive measure assessed by the participant,\
+        \ an interviewer or other professional."
+      "fr": "L'information est liée à une mesure cognitive évalué par le participant,\
+        \ un intervieweur ou un autre professionnel."
   - "name": "Biosample"
     "title":
       "en": "Biosample"
       "fr": "Échantillon biologique"
     "description":
-      "en": "Information comes from a biological sample collected from the participant."
-      "fr": "L'information provient d'un échantillon biolologique prélevé chez le\
-        \ participant."
+      "en": "Information is related to, or comes from, a biological sample."
+      "fr": "L'information est liée à, ou provient d'un échantillon biologique."
   - "name": "Governmental_databases_registries"
     "title":
       "en": "Government databases/registries"
       "fr": "Bases de données gouvernementales/registres"
     "description":
-      "en": "Information comes from a governmental or hospital database or registry\
+      "en": "Information is extracted from a governmental, hospital or other registry\
         \ (i.e. death registries, birth registries)."
-      "fr": "L'information provient d'une base de données gouvernementale ou d'un\
-        \ registre (i.e. registre des décès, des naissances.)"
+      "fr": "L'information est extraite d'un registre gouvernemental, hôspitalier ou\
+        \ autre (i.e. registre des décès, des naissances)."
   - "name": "Other"
     "title":
       "en": "Other source of information"
       "fr": "Autre source d'information"
     "description":
-      "en": "Information comes from another source, not mentioned before."
-      "fr": "L'information provient d'une autre source, non mentionnée auparavant."
+      "en": "Information is extracted from another source."
+      "fr": "L'information est extraite d'une autre source."
 - "name": "Target"
   "title":
     "en": "Target"
     "fr": "Cible"
   "description":
-    "en": "Target refers to the person the question is about."
-    "fr": "Cible réfère à la personne ciblée par la question."
+    "en": "Target refers to the person the information is about."
+    "fr": "Cible réfère à la personne ciblée par l'information'."
   "terms":
   - "name": "Participant"
     "title":
       "en": "Participant"
       "fr": "Participant"
     "description":
-      "en": "Information requested in the question is about the study participant."
-      "fr": "L'information demandée dans la question est au sujet du participant de\
-        \ l'étude."
+      "en": "Information is about the study participant."
+      "fr": "L'information est à propos du participant de l'étude."
   - "name": "Children"
     "title":
       "en": "Children"
       "fr": "Enfants"
     "description":
-      "en": "Information requested in the question is about the study participant’\
-        s child/children."
-      "fr": "L'information demandée dans la question est au sujet des enfants du participant\
-        \ de l'étude."
+      "en": "Information is about the study participant’s child/children."
+      "fr": "L'information est à propos du ou des enfants du participant de l'étude."
   - "name": "Parents"
     "title":
       "en": "Parents"
       "fr": "Parents"
     "description":
-      "en": "Information requested in the question is about the study participant’\
-        s parents."
-      "fr": "L'information demandée dans la question est au sujet des parents du participant\
-        \ de l'étude."
+      "en": "Information is about the study participant’s parent(s)."
+      "fr": "L'information est à propos de(s) parent(s) du participant de l'étude."
   - "name": "Grandparents"
     "title":
       "en": "Grandparents"
       "fr": "Grand-parents"
     "description":
-      "en": "Information requested in the question is about the study participant’\
-        s grandparents."
-      "fr": "L'information demandée dans la question est au sujet des grand-parents\
-        \ du participant de l'étude."
+      "en": "Information is about the study participant’s grandparent(s)."
+      "fr": "L'information est à propos de(s) grand-parent(s) du participant de l'étude."
   - "name": "Siblings"
     "title":
       "en": "Siblings"
       "fr": "Fratrie"
     "description":
-      "en": "Information requested in the question is about the study participant’\
-        s siblings."
-      "fr": "L'information demandée dans la question est au sujet des frères et soeurs\
-        \ du participant de l'étude."
+      "en": "Information is about the study participant’s sibling(s)."
+      "fr": "L'information est à propos de(s) frère(s) et soeur(s) du participant de l'étude."
   - "name": "Partner"
     "title":
       "en": "Partners"
       "fr": "Partenaires"
     "description":
-      "en": "Information requested in the question is about the study participant’\
-        s partners."
-      "fr": "L'information demandée dans la question est au sujet des partenaires du\
-        \ participant de l'étude."
+      "en": "Information is about the study participant’s partner(s)."
+      "fr": "L'information est sur le(s) partenaires du participant de l'étude."
   - "name": "Interviewer"
     "title":
       "en": "Interviewers"
       "fr": "Intervieweurs"
     "description":
-      "en": "Information requested in the question is about the study interviewers."
-      "fr": "L'information demandée dans la question est au sujet des intervieweurs\
-        \ de l'étude."
+      "en": "Information is about the study interviewer(s)."
+      "fr": "L'information est à propos du ou des intervieweurs de l'étude."
   - "name": "Proxy"
     "title":
       "en": "Proxies"
       "fr": "Proxies"
     "description":
-      "en": "Information requested in the question is about the study participant’\
-        s proxies."
-      "fr": "L'information demandée dans la question est au sujet des proxies du participant\
-        \ de l'étude."
+      "en": "Information is about the study participant’s proxy."
+      "fr": "L'information est à propos du proxy du participant de l'étude."
   - "name": "Other"
     "title":
       "en": "Other targets"
       "fr": "Autre cibles"
     "description":
-      "en": "Information requested in the question is about other people (i.e. study\
-        \ participant’s friends)."
-      "fr": "L'information demandée dans la question est au sujet d'autres personnes\
-        \ (p.ex. les amis du participant)."
+      "en": "Information is about another person (i.e. study participant’s friends)."
+      "fr": "L'information est à propos d'une autre personnes (i.e. les amis du\
+        \ participant de l'étude)."
