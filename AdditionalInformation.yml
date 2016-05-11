@@ -1,8 +1,8 @@
 !!org.obiba.opal.core.domain.taxonomy.Taxonomy
 "name": "Mlstr_additional"
 "title":
-  "en": "Additional information"
-  "fr": "Informations additionnelles"
+  "en": "Source & target"
+  "fr": "Source & cible"
 "description":
   "en": "Additional information about the collected variable"
   "fr": "Informations additionnelles au sujet des variables collectées"
