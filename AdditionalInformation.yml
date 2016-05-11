@@ -15,7 +15,7 @@
     "fr": "Source"
   "description":
     "en": "Source refers to the origin of the information."
-    "fr": "Source réfère l'origine de l'information."
+    "fr": "La source réfère à l'origine de l'information."
   "terms":
   - "name": "Questionnaire"
     "title":
@@ -24,7 +24,7 @@
     "description":
       "en": "Information is extracted from a questionnaire, either self-administered\
         \ or administrated by an interviewer."
-      "fr": "L'information est extraite d'un questionnaire, soit auto-administré\
+      "fr": "L'information est extraite d'un questionnaire soit auto-administré\
         , soit administré par un intervieweur."
   - "name": "Physical_measure"
     "title":
@@ -50,7 +50,7 @@
       "fr": "Échantillon biologique"
     "description":
       "en": "Information is related to, or comes from, a biological sample."
-      "fr": "L'information est liée à, ou provient d'un échantillon biologique."
+      "fr": "L'information est liée ou provient d'un échantillon biologique."
   - "name": "Governmental_databases_registries"
     "title":
       "en": "Government databases/registries"
@@ -58,7 +58,7 @@
     "description":
       "en": "Information is extracted from a governmental, hospital or other registry\
         \ (i.e. death registries, birth registries)."
-      "fr": "L'information est extraite d'un registre gouvernemental, hôspitalier ou\
+      "fr": "L'information est extraite d'un registre gouvernemental, hospitalier ou\
         \ autre (i.e. registre des décès, des naissances)."
   - "name": "Other"
     "title":
@@ -73,7 +73,7 @@
     "fr": "Cible"
   "description":
     "en": "Target refers to the person the information is about."
-    "fr": "Cible réfère à la personne ciblée par l'information'."
+    "fr": "La cible réfère à la personne ciblée par l'information'."
   "terms":
   - "name": "Participant"
     "title":
@@ -137,5 +137,5 @@
       "fr": "Autre cibles"
     "description":
       "en": "Information is about another person (i.e. study participant’s friends)."
-      "fr": "L'information est à propos d'une autre personnes (i.e. les amis du\
+      "fr": "L'information est à propos d'une autre personne (i.e. les amis du\
         \ participant de l'étude)."
