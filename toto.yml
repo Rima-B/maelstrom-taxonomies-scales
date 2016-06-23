@@ -1,0 +1,10 @@
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "Mlstr_toto"
+"title":
+  "en": "Toto"
+  "fr": "Toto"
+"description":
+  "en": "Toto"
+  "fr": "Toto"
+"author": "Toto"
+"license": "CC BY-NC-ND 4.0"
