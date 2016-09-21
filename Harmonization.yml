@@ -38,6 +38,49 @@
     "description":
       "en": "Harmonization status is impossible."
       "fr": "Le statut d'harmonisation est impossible."
+- "name": "status_detail"
+  "title":
+    "en": "Status Detail"
+    "fr": "Détail du statut"
+  "description":
+    "en": "Harmonization sub-status"
+    "fr": "Sous-statut d'harmonisation"
+  "terms":
+  - "name": "identical"
+    "title":
+      "en": "Identical"
+      "fr": "Identique"
+    "description":
+      "en": "Harmonization sub-status is qualified as identical information."
+      "fr": "Le sous-statut d’harmonisation est qualifié d’information identique."
+  - "name": "unidentical"
+    "title":
+      "en": "Unidentical"
+      "fr": "Non identique"
+    "description":
+      "en": "Harmonization sub-status is qualified as unidentical information."
+      "fr": "Le sous-statut d’harmonisation est qualifié d’information non identique."
+  - "name": "incompatible"
+    "title":
+      "en": "Incompatible"
+      "fr": "Non compatible"
+    "description":
+      "en": "Harmonization sub-status is qualified as incompatible information."
+      "fr": "Le sous-statut d’harmonisation est qualifié d’information non compatible."
+  - "name": "unavailable"
+    "title":
+      "en": "Unavailable"
+      "fr": "Non disponible"
+    "description":
+      "en": "Harmonization sub-status is qualified as unavailable information."
+      "fr": "Le sous-statut d’harmonisation est qualifié d’information non disponible."
+  - "name": "undetermined"
+    "title":
+      "en": "Undetermined"
+      "fr": "Indéterminé"
+    "description":
+      "en": "Harmonization sub-status is qualified as undetermined."
+      "fr": "Le sous-statut d’harmonisation est qualifié d’indéterminé."
 - "name": "comment"
   "title":
     "en": "Comment"
