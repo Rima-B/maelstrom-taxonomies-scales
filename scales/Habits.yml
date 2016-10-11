@@ -20,88 +20,113 @@
       "en": "Alcohol Use Disorders Identification Test"
     "description":
       "en": "Alcohol Use Disorders Identification Test (AUDIT)"
-  - "name": "Cahalan"
-    "title":
-      "en": "11-point Cahalan Scale of Socially Deviant Drinking"
-    "description":
-      "en": "11-point Cahalan Scale of Socially Deviant Drinking"
-  - "name": "PDS"
-    "title":
-      "en": "Problem Drinking Scale"
-    "description":
-      "en": "Problem Drinking Scale"
   - "name": "CAGE"
     "title":
       "en": "CAGE Questionnaire"
     "description":
       "en": "CAGE Questionnaire"
+  - "name": "Cahalan"
+    "title":
+      "en": "11-point Cahalan Scale of Socially Deviant Drinking"
+    "description":
+      "en": "11-point Cahalan Scale of Socially Deviant Drinking"
   - "name": "MAST"
     "title":
       "en": "Michigan Alcohol Screening Test"
     "description":
       "en": "Michigan Alcohol Screening Test"
+  - "name": "PDS"
+    "title":
+      "en": "Problem Drinking Scale"
+    "description":
+      "en": "Problem Drinking Scale"
+  - "name": "T_ACE"
+    "title":
+      "en": "T-ACE Screening Tool"
+    "description":
+      "en": "T-ACE Screening Tool"
 - "name": "Nutrition"
   "title":
     "en": "Constructs for nutrition"
   "description":
     "en": "Constructs used for nutrition"
   "terms":
-  - "name": "FFQ"
-    "title":
-      "en": "Food Frequency Questionnaire"
-    "description":
-      "en": "Food Frequency Questionnaire (FFQ)"
-  - "name": "NSI"
-    "title":
-      "en": "Nutritional Screening Initiative"
-    "description":
-      "en": "Nutritional Screening Initiative (Determine Qx)"
-  - "name": "ENS"
-    "title":
-      "en": "Elderly Nutrition Screening"
-    "description":
-      "en": "Elderly Nutrition Screening"
-  - "name": "7day_dietary_record"
-    "title":
-      "en": "7 day dietary record"
-    "description":
-      "en": "7 day dietary record"
-  - "name": "MNA"
-    "title":
-      "en": "Mini Nutritional Assessment"
-    "description":
-      "en": "Mini Nutritional Assessment"
   - "name": "24h_food_diary"
     "title":
       "en": "24-hour Food Diary"
     "description":
       "en": "24-hour Food Diary"
+  - "name": "7day_dietary_record"
+    "title":
+      "en": "7 day dietary record"
+    "description":
+      "en": "7 day dietary record"
+  - "name": "DHQ"
+    "title":
+      "en": "Diet History Questionnaire"
+    "description":
+      "en": "Diet History Questionnaire"
+  - "name": "ENS"
+    "title":
+      "en": "Elderly Nutrition Screening"
+    "description":
+      "en": "Elderly Nutrition Screening"
+  - "name": "FFQ"
+    "title":
+      "en": "Food Frequency Questionnaire"
+    "description":
+      "en": "Food Frequency Questionnaire (FFQ)"
+  - "name": "MCHFS"
+    "title":
+      "en": "Montreal Children's Hospital Feeding Scale"
+    "description":
+      "en": "Montreal Children's Hospital Feeding Scale"
+  - "name": "MNA"
+    "title":
+      "en": "Mini Nutritional Assessment"
+    "description":
+      "en": "Mini Nutritional Assessment"
+  - "name": "NSI"
+    "title":
+      "en": "Nutritional Screening Initiative"
+    "description":
+      "en": "Nutritional Screening Initiative (NSI)"
+  - "name": "NutriStep"
+    "title":
+      "en": "Nutrition Screening Tool for Every Preschooler"
+    "description":
+      "en": "Nutrition Screening Tool for Every Preschooler"
   - "name": "Willett_FFQ"
     "title":
       "en": "Willett Semi-Quantitative Food Frequency Questionnaire"
     "description":
       "en": "Willett Semi-Quantitative Food Frequency Questionnaire"
+  - "name": "YFAS"
+    "title":
+      "en": "Yale Food Addiction Scale"
+    "description":
+      "en": "Yale Food Addiction Scale"
 - "name": "Physical_activity"
   "title":
     "en": "Constructs for physical activity"
   "description":
     "en": "Constructs used for physical activity"
   "terms":
-  - "name": "IPAQ"
+  - "name": "Active_Australia"
     "title":
-      "en": "International Physical Activity Questionnaire "
+      "en": "Active Australia Survey"
     "description":
-      "en": "International Physical Activity Questionnaire (IPAQ)"
-  - "name": "PASE"
-    "title":
-      "en": "Physical Activity Scale for the Elderly"
-    "description":
-      "en": "Physical Activity Scale for the Elderly (PASE)"
+      "en": "Active Australia Survey"
   - "name": "HAPAQ"
     "title":
       "en": "Historical adulthood physical activity questionnaire"
     "description":
       "en": "Historical adulthood physical activity questionnaire (HAPAQ)"
+  - "name": "IPAQ"
+    "title":
+      "en": "International Physical Activity Questionnaire "
+    "description":
+      "en": "International Physical Activity Questionnaire (IPAQ)"
   - "name": "Leisure_time_PAQ"
     "title":
       "en": "Leisure time physical activity questionnaire"
@@ -112,63 +137,83 @@
       "en": "Lifetime total physical activity questionnaire"
     "description":
       "en": "Lifetime total Physical Activity Questionnaire"
-  - "name": "PPAQ"
-    "title":
-      "en": "Paffenbarger Physical Activity Questionnaire "
-    "description":
-      "en": "Paffenbarger Physical Activity Questionnaire "
-  - "name": "PAQ"
-    "title":
-      "en": "Physical Activity Questionnaire"
-    "description":
-      "en": "Physical Activity Questionnaire"
-  - "name": "Preg_PAQ"
-    "title":
-      "en": "Pregnancy Physical Activity Questionnaire"
-    "description":
-      "en": "Pregnancy Physical Activity Questionnaire"
-  - "name": "Active_Australia"
-    "title":
-      "en": "Active Australia Survey"
-    "description":
-      "en": "Active Australia Survey"
   - "name": "PAFQ"
     "title":
       "en": "Physical Activity Frequency Questionnaire"
     "description":
       "en": "Physical Activity Frequency Questionnaire"
+  - "name": "PAQ"
+    "title":
+      "en": "Physical Activity Questionnaire"
+    "description":
+      "en": "Physical Activity Questionnaire"
+  - "name": "PASE"
+    "title":
+      "en": "Physical Activity Scale for the Elderly"
+    "description":
+      "en": "Physical Activity Scale for the Elderly (PASE)"
+  - "name": "PHPAQ"
+    "title":
+      "en": "Person’s Habitual Physical Activity Questionnaire"
+    "description":
+      "en": "Person’s Habitual Physical Activity Questionnaire"
+  - "name": "PPAQ"
+    "title":
+      "en": "Paffenbarger Physical Activity Questionnaire "
+    "description":
+      "en": "Paffenbarger Physical Activity Questionnaire "
+  - "name": "Preg_PAQ"
+    "title":
+      "en": "Pregnancy Physical Activity Questionnaire"
+    "description":
+      "en": "Pregnancy Physical Activity Questionnaire"
 - "name": "Sleep"
   "title":
     "en": "Constructs for sleep"
   "description":
     "en": "Constructs used for Sleep"
   "terms":
-  - "name": "WHI_Sleep"
-    "title":
-      "en": "WHICAP Sleep Form"
-    "description":
-      "en": "WHICAP Sleep Form"
-  - "name": "PSQ"
-    "title":
-      "en": "Pittsburgh Sleep Questionnaire"
-    "description":
-      "en": "Pittsburgh Sleep Questionnaire (PSQ)"
   - "name": "Actiwatch_Daily_Sleep_Diary"
     "title":
       "en": "Actiwatch: Daily Sleep Diary"
     "description":
       "en": "Actiwatch: Daily Sleep Diary"
+  - "name": "ESS"
+    "title":
+      "en": "Epworth Sleepiness Scale"
+    "description":
+      "en": "Epworth Sleepiness Scale"
   - "name": "Mayo_Sleep"
     "title":
       "en": "Mayo Sleep Questionnaire"
     "description":
       "en": "Mayo Sleep Questionnaire"
+  - "name": "PSQ"
+    "title":
+      "en": "Pittsburgh Sleep Questionnaire"
+    "description":
+      "en": "Pittsburgh Sleep Questionnaire (PSQ)"
+  - "name": "WHI_Sleep"
+    "title":
+      "en": "WHICAP Sleep Form"
+    "description":
+      "en": "WHICAP Sleep Form"
 - "name": "Other"
   "title":
     "en": "Other constructs for life habits"
   "description":
     "en": "Other constructs used for life habits"
   "terms":
+  - "name": "CPGI"
+    "title":
+      "en": "Problem Gambling Severity Index"
+    "description":
+      "en": "Problem Gambling Severity Index"
+  - "name": "LS7"
+    "title":
+      "en": "Life’s Simple 7"
+    "description":
+      "en": "Life’s Simple 7"
   - "name": "SLS_Health_Behavior"
     "title":
       "en": "SLS Health behavior questionnaire"

@@ -9,72 +9,77 @@
 "author": "Maelstrom Research"
 "license": "CC BY-NC-ND 4.0"
 "vocabularies":
-- "name": "Perception"
-  "title":
-    "en": "Constructs for health perception"
-  "description":
-    "en": "Perception of health constructs"
 - "name": "Quality"
   "title":
     "en": "Constructs for quality of life"
   "description":
     "en": "Quality of life constructs"
   "terms":
-  - "name": "QoL"
-    "title":
-      "en": "Quality of Life scale"
-    "description":
-      "en": "Quality of Life scale (QoL)"
-  - "name": "SF36"
-    "title":
-      "en": "Short Form (SF36) Health Survey"
-    "description":
-      "en": "The Short Form (SF36) Health Survey"
-  - "name": "SF12"
-    "title":
-      "en": "Short Form (SF12) Health Survey"
-    "description":
-      "en": "The Short Form (SF12) Health Survey"
-  - "name": "Gallup"
-    "title":
-      "en": "Gallup's Quality of Community Life Survey"
-    "description":
-      "en": "Gallup's Quality of Community Life Survey"
-  - "name": "CASP_19"
-    "title":
-      "en": "CASP-19 Quality of Life Scale"
-    "description":
-      "en": "CASP-19 Quality of Life Scale"
-  - "name": "VR_36"
-    "title":
-      "en": "Veterans Rand 36-Item Health Survey"
-    "description":
-      "en": "Veterans Rand 36-Item Health Survey"
-  - "name": "MOS_HRQOL"
-    "title":
-      "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
-    "description":
-      "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
-  - "name": "EUROHIS_QOL"
-    "title":
-      "en": "EUROHIS-QOL 8-Item Index"
-    "description":
-      "en": "EUROHIS-QOL 8-Item Index"
   - "name": "AQoL"
     "title":
       "en": "Assessment of Quality of Life"
     "description":
       "en": "Assessment of Quality of Life (Hawthorne, Richardson and Day, 1997)"
-  - "name": "Ped_QoL"
+  - "name": "BPI"
     "title":
-      "en": "Paediatric Quality of Life Inventory"
+      "en": "Brief Pain Inventory"
     "description":
-      "en": "Paediatric Quality of Life Inventory"
+      "en": "Brief Pain Inventory"
+  - "name": "CASP_19"
+    "title":
+      "en": "CASP-19 Quality of Life Scale"
+    "description":
+      "en": "CASP-19 Quality of Life Scale"
+  - "name": "EQ5D"
+    "title":
+      "en": "EuroQol five dimensions questionnaire"
+    "description":
+      "en": "EuroQol five dimensions questionnaire"
+  - "name": "EUROHIS_QOL"
+    "title":
+      "en": "EUROHIS-QOL 8-Item Index"
+    "description":
+      "en": "EUROHIS-QOL 8-Item Index"
+  - "name": "Gallup"
+    "title":
+      "en": "Gallup's Quality of Community Life Survey"
+    "description":
+      "en": "Gallup's Quality of Community Life Survey"
   - "name": "HUI"
     "title":
       "en": "Health Utilities Index"
     "description":
       "en": "Health Utilities Index"
+  - "name": "MOS_HRQOL"
+    "title":
+      "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
+    "description":
+      "en": "Medical Outcome Study (MOS) Health-Related Quality of Life"
+  - "name": "Ped_QoL"
+    "title":
+      "en": "Paediatric Quality of Life Inventory"
+    "description":
+      "en": "Paediatric Quality of Life Inventory"
+  - "name": "QoL"
+    "title":
+      "en": "Quality of Life scale"
+    "description":
+      "en": "Quality of Life scale (QoL)"
+  - "name": "SF12"
+    "title":
+      "en": "Short Form (SF12) Health Survey"
+    "description":
+      "en": "The Short Form (SF12) Health Survey"
+  - "name": "SF36"
+    "title":
+      "en": "Short Form (SF36) Health Survey"
+    "description":
+      "en": "The Short Form (SF36) Health Survey"
+  - "name": "VR_36"
+    "title":
+      "en": "Veterans Rand 36-Item Health Survey"
+    "description":
+      "en": "Veterans Rand 36-Item Health Survey"
 - "name": "Functional"
   "title":
     "en": "Constructs for functional activities"
@@ -86,98 +91,46 @@
       "en": "Activities of Daily Living"
     "description":
       "en": "Activities of Daily Living (ADL)"
-  - "name": "OARS_ADL"
-    "title":
-      "en": "ADL from the Older Americans Resources and Services list"
-    "description":
-      "en": "Activities of Daily Living (ADL) from the Older Americans Resources and\
-        \ Services (OARS) list"
-  - "name": "IADL"
-    "title":
-      "en": "Instrumental Activities of Daily Living"
-    "description":
-      "en": "Instrumental Activities of Daily Living (IADL)"
-  - "name": "OARS_IADL"
-    "title":
-      "en": "IADL from the Older Americans Resources and Services list"
-    "description":
-      "en": "Instrumental Activities of Daily Living (IADL) from the Older Americans\
-        \ Resources and Services (OARS) list"
-  - "name": "OARS"
-    "title":
-      "en": "Older Americans Resources and Services list"
-    "description":
-      "en": "Older Americans Resources and Services (OARS) list"
-  - "name": "FUL"
-    "title":
-      "en": "Functional status"
-    "description":
-      "en": "Functional status (FUL)"
   - "name": "Blessed_Dementia_Scale"
     "title":
       "en": "Blessed Dementia Scale"
     "description":
       "en": "Blessed Dementia Scale"
-  - "name": "WHI_Selfrep_PA"
+  - "name": "CPF"
     "title":
-      "en": "WHICAP Self-reported Physical Activity"
+      "en": "Composite Physical Function Scale"
     "description":
-      "en": "WHICAP Self-reported Physical Activity"
-  - "name": "SMAF"
-    "title":
-      "en": "Functional Autonomy Measurement System"
-    "description":
-      "en": "Functional Autonomy Measurement System (SMAF)"
-  - "name": "SMAF_Social"
-    "title":
-      "en": "Social Functional Autonomy Measurement System"
-    "description":
-      "en": "Social Functional Autonomy Measurement System (SMAF Social)"
-  - "name": "FAQ"
-    "title":
-      "en": "Functional Activities Questionnaire"
-    "description":
-      "en": "Functional Activities Questionnaire (FAQ)"
-  - "name": "PADLs"
-    "title":
-      "en": "Physical Activities of Daily Living Scale"
-    "description":
-      "en": "Physical Activities of Daily Living Scale"
-  - "name": "Fried_Frailty"
-    "title":
-      "en": "Fried's Frailty Phenotype"
-    "description":
-      "en": "Fried's Frailty Phenotype"
-  - "name": "Strawbridge_Frailty"
-    "title":
-      "en": "Strawbridge Frailty Questionnaire"
-    "description":
-      "en": "Strawbridge Frailty Questionnaire"
-  - "name": "Townsend_Frailty"
-    "title":
-      "en": "Townsend Disability Scale"
-    "description":
-      "en": "Townsend Disability Scale"
-  - "name": "Fried_Townsend_Strawbridge"
-    "title":
-      "en": "Fried, Townsend and Strawbridge Scores"
-    "description":
-      "en": "Fried, Townsend and Strawbridge Scores"
+      "en": "Composite Physical Function Scale"
   - "name": "CSHA_Frailty"
     "title":
       "en": "CSHA Clinical Frailty Scale"
     "description":
       "en": "CSHA Clinical Frailty Scale"
-  - "name": "WHODAS"
+  - "name": "EPT"
     "title":
-      "en": "World Health Organization Disability Assessment Schedule "
+      "en": "Everyday Problems Test (EPT)"
     "description":
-      "en": "World Health Organization Disability Assessment Schedule "
-  - "name": "OHIP"
+      "en": "Everyday Problems Test (EPT)"
+  - "name": "FAQ"
     "title":
-      "en": "Oral Health Impact Profile"
+      "en": "Functional Activities Questionnaire"
     "description":
-      "en": "Oral Health Impact Profile"
+      "en": "Functional Activities Questionnaire (FAQ)"
+  - "name": "FUL"
+    "title":
+      "en": "Functional status"
+    "description":
+      "en": "Functional status (FUL)"
+  - "name": "Fried_Frailty"
+    "title":
+      "en": "Fried's Frailty Phenotype"
+    "description":
+      "en": "Fried's Frailty Phenotype"
+  - "name": "Fried_Townsend_Strawbridge"
+    "title":
+      "en": "Fried, Townsend and Strawbridge Scores"
+    "description":
+      "en": "Fried, Townsend and Strawbridge Scores"
   - "name": "HAQ_Disability"
     "title":
       "en": "Health Assessment Questionnaire Disability Scale"
@@ -188,42 +141,104 @@
       "en": "Health Assessment Questionnaire Pain Scale"
     "description":
       "en": "Health Assessment Questionnaire Pain Scale"
-  - "name": "SMAS"
+  - "name": "IADL"
     "title":
-      "en": "Self-Management Ability Scale"
+      "en": "Instrumental Activities of Daily Living"
     "description":
-      "en": "Self-Management Ability Scale"
-  - "name": "TIADL"
+      "en": "Instrumental Activities of Daily Living (IADL)"
+  - "name": "OARS"
     "title":
-      "en": "Timed Instrumental Activities of Daily Living Tasks"
+      "en": "Older Americans Resources and Services list"
     "description":
-      "en": "Timed Instrumental Activities of Daily Living Tasks"
+      "en": "Older Americans Resources and Services (OARS) list"
+  - "name": "OARS_ADL"
+    "title":
+      "en": "ADL from the Older Americans Resources and Services list"
+    "description":
+      "en": "Activities of Daily Living (ADL) from the Older Americans Resources and\
+        \ Services (OARS) list"
+  - "name": "OARS_IADL"
+    "title":
+      "en": "IADL from the Older Americans Resources and Services list"
+    "description":
+      "en": "Instrumental Activities of Daily Living (IADL) from the Older Americans\
+        \ Resources and Services (OARS) list"
+  - "name": "OHIP"
+    "title":
+      "en": "Oral Health Impact Profile"
+    "description":
+      "en": "Oral Health Impact Profile"
   - "name": "OTDL"
     "title":
       "en": "Observed Tasks of Daily Living (OTDL)"
     "description":
       "en": "Observed Tasks of Daily Living (OTDL)"
-  - "name": "EPT"
+  - "name": "PADLs"
     "title":
-      "en": "Everyday Problems Test (EPT)"
+      "en": "Physical Activities of Daily Living Scale"
     "description":
-      "en": "Everyday Problems Test (EPT)"
+      "en": "Physical Activities of Daily Living Scale"
+  - "name": "PPS"
+    "title":
+      "en": "Physical Performance Scale"
+    "description":
+      "en": "Physical Performance Scale"
+  - "name": "SMAF"
+    "title":
+      "en": "Functional Autonomy Measurement System"
+    "description":
+      "en": "Functional Autonomy Measurement System (SMAF)"
+  - "name": "SMAF_Social"
+    "title":
+      "en": "Social Functional Autonomy Measurement System"
+    "description":
+      "en": "Social Functional Autonomy Measurement System (SMAF Social)"
+  - "name": "SMAS"
+    "title":
+      "en": "Self-Management Ability Scale"
+    "description":
+      "en": "Self-Management Ability Scale"
+  - "name": "Strawbridge_Frailty"
+    "title":
+      "en": "Strawbridge Frailty Questionnaire"
+    "description":
+      "en": "Strawbridge Frailty Questionnaire"
+  - "name": "TIADL"
+    "title":
+      "en": "Timed Instrumental Activities of Daily Living Tasks"
+    "description":
+      "en": "Timed Instrumental Activities of Daily Living Tasks"
+  - "name": "Townsend_Frailty"
+    "title":
+      "en": "Townsend Disability Scale"
+    "description":
+      "en": "Townsend Disability Scale"
+  - "name": "WHI_Selfrep_PA"
+    "title":
+      "en": "WHICAP Self-reported Physical Activity"
+    "description":
+      "en": "WHICAP Self-reported Physical Activity"
+  - "name": "WHODAS"
+    "title":
+      "en": "World Health Organization Disability Assessment Schedule "
+    "description":
+      "en": "World Health Organization Disability Assessment Schedule "
 - "name": "Other"
   "title":
     "en": "Constructs for other general health"
   "description":
     "en": "Constructs for other measures of general health"
   "terms":
-  - "name": "Life_Space"
-    "title":
-      "en": "Life-space assessment"
-    "description":
-      "en": "Life-space assessment"
   - "name": "DKT"
     "title":
       "en": "Diabetes Knowledge Test"
     "description":
       "en": "Diabetes Knowledge Test"
+  - "name": "Life_Space"
+    "title":
+      "en": "Life-space assessment"
+    "description":
+      "en": "Life-space assessment"
   - "name": "NVS"
     "title":
       "en": "Newest Vital Sign"
