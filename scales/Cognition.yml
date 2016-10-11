@@ -1,13 +1,13 @@
 !!org.obiba.opal.core.domain.taxonomy.Taxonomy
 "name": "Mlstr_cogscale"
 "title":
-  "en": "Constructs for cognitive functioning and mental health"
   "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif\
     \ et de la santé mentale"
+  "en": "Constructs for cognitive functioning and mental health"
 "description":
-  "en": "Constructs for cognitive functioning and mental health"
   "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif\
     \ et de la santé mentale"
+  "en": "Constructs for cognitive functioning and mental health"
 "author": "Maelstrom Research"
 "license": "CC BY-NC-ND 4.0"
 "vocabularies":
@@ -32,6 +32,11 @@
       "en": "Addenbrooke's Cognitive Examination Revised"
     "description":
       "en": "Addenbrooke's Cognitive Examination Revised"
+  - "name": "AFQT"
+    "title":
+      "en": "Armed Forces Qualification Test"
+    "description":
+      "en": "Armed Forces Qualification Test"
   - "name": "AH4"
     "title":
       "en": "AH4 Group Test of General Intelligence"
@@ -42,6 +47,16 @@
       "en": "Abbreviated Mental Test"
     "description":
       "en": "Abbreviated Mental Test"
+  - "name": "ASQ"
+    "title":
+      "en": "Ages and Stages Questionnaire"
+    "description":
+      "en": "Ages and Stages Questionnaire"
+  - "name": "ASVAB"
+    "title":
+      "en": "Armed Services Vocational Aptitude Battery"
+    "description":
+      "en": "Armed Services Vocational Aptitude Battery"
   - "name": "Army_Alpha"
     "title":
       "en": "Army Alpha"
@@ -137,6 +152,11 @@
       "en": "Controlled Oral Word Association Test"
     "description":
       "en": "Controlled Oral Word Association Test (COWAT)"
+  - "name": "CPT"
+    "title":
+      "en": "Continuous Performance Test"
+    "description":
+      "en": "Continuous Performance Test"
   - "name": "CR"
     "title":
       "en": "Cognitive Rating Scale"
@@ -152,6 +172,11 @@
       "en": "Color Trails Test"
     "description":
       "en": "Color Trails Test"
+  - "name": "CVLT"
+    "title":
+      "en": "California Verbal Learning Test"
+    "description":
+      "en": "California Verbal Learning Test"
   - "name": "Cambridge_Face_Memory"
     "title":
       "en": "Cambridge Face Memory Test"
@@ -292,6 +317,11 @@
       "en": "Forward Digit Span Task"
     "description":
       "en": "Forward Digit Span Task"
+  - "name": "GHFT"
+    "title":
+      "en": "Gottschaldt’s Hidden Figures Test"
+    "description":
+      "en": "Gottschaldt’s Hidden Figures Test"
   - "name": "GMS"
     "title":
       "en": "Geriatric Mental State Examination"
@@ -507,6 +537,11 @@
       "en": "Perceptual Speed "
     "description":
       "en": "Perceptual Speed "
+  - "name": "PVT"
+    "title":
+      "en": "Psychomotor Vigilance Task"
+    "description":
+      "en": "Psychomotor Vigilance Task"
   - "name": "Pattern_comparison"
     "title":
       "en": "Pattern comparison"
@@ -532,6 +567,11 @@
       "en": "Rivermead Behavioral Memory Test"
     "description":
       "en": "Rivermead Behavioral Memory Test"
+  - "name": "RST"
+    "title":
+      "en": "Reading Span Task"
+    "description":
+      "en": "Reading Span Task"
   - "name": "RT_Accuracy"
     "title":
       "en": "Reaction Time and Accuracy"
@@ -797,6 +837,11 @@
       "en": "WAIS Vocabulary"
     "description":
       "en": "Wechsler Adult Intelligence Scale (WAIS) Vocabulary"
+  - "name": "WASI_FSIQ"
+    "title":
+      "en": "Wechsler Abbreviated Scale of Intelligence (Full Scale IQ)"
+    "description":
+      "en": "Wechsler Abbreviated Scale of Intelligence (Full Scale IQ)"
   - "name": "WBIS"
     "title":
       "en": "Wechsler-Bellevue Intelligence Scale"
@@ -807,6 +852,16 @@
       "en": "Subjective memory complaints questionnaire (SMCQ)"
     "description":
       "en": "Subjective Memory Complaints Questionnaire SMCQ "
+  - "name": "WJ_III"
+    "title":
+      "en": "Woodcock Johnson Psychoeducational Battery"
+    "description":
+      "en": "Woodcock Johnson Psychoeducational Battery"
+  - "name": "WMS_Digit_Span"
+    "title":
+      "en": "Wechsler Memory Scale (Digit Span)"
+    "description":
+      "en": "Wechsler Memory Scale (Digit Span)"
   - "name": "WMS_Face_Recognition"
     "title":
       "en": "Wechsler Face recognition"
@@ -816,7 +871,7 @@
     "title":
       "en": "Wechsler Letter number"
     "description":
-      "en": "Wechsler Memory Scale (Letter number)"
+      "en": "Wechsler Memory Scale (Letter number Sequence)"
   - "name": "WMS_Logical_Memory"
     "title":
       "en": "Wechsler Logical memory"
@@ -827,6 +882,11 @@
       "en": "Wechsler Mental control"
     "description":
       "en": "Wechsler Memory Scale (Mental control)"
+  - "name": "WMS_Spatial_Span"
+    "title":
+      "en": "Wechsler Memory Scale (Spatial Span)"
+    "description":
+      "en": "Wechsler Memory Scale (Spatial Span)"
   - "name": "WMS_Visual_Reproduction"
     "title":
       "en": "Wechsler Visual reproduction"
@@ -857,6 +917,341 @@
       "en": "Working Memory Span"
     "description":
       "en": "Working Memory Span tasks (WMS)"
+- "name": "Personality"
+  "title":
+    "en": "Constructs for personality measures"
+    "fr": "Mesures de personalité"
+  "description":
+    "en": "Information about composite measures (scales, scores) of personality tests."
+    "fr": "Information au sujet de mesures composées (échelles) de tests de personalité\
+      ."
+  "terms":
+  - "name": "ABAS"
+    "title":
+      "en": "Adaptive Behavior Assessment System"
+    "description":
+      "en": "Adaptive Behavior Assessment System"
+  - "name": "BFI"
+    "title":
+      "en": "Big Five Inventory"
+    "description":
+      "en": "Big Five Inventory"
+  - "name": "BISBAS"
+    "title":
+      "en": "BIS/BAS scale"
+    "description":
+      "en": "Behavioural inhibition (BIS) and behavioural activation system (BAS)"
+  - "name": "BITSEA"
+    "title":
+      "en": "Brief Infant Toddler Social Emotional Assessment"
+    "description":
+      "en": "Brief Infant Toddler Social Emotional Assessment"
+  - "name": "BSRI"
+    "title":
+      "en": "Bem Sex Roles Inventory"
+    "description":
+      "en": "Bem Sex Roles Inventory"
+  - "name": "Bates_Infant"
+    "title":
+      "en": "Bates' Infant Characteristics Questionnaire"
+    "description":
+      "en": "Bates' Infant Characteristics Questionnaire"
+  - "name": "Bortner_scale"
+    "title":
+      "en": "Bortner Scale"
+    "description":
+      "en": "Bortner Scale"
+  - "name": "Brief_Resilience_Scale"
+    "title":
+      "en": "Brief Resilience Scale"
+    "description":
+      "en": "Brief Resilience Scale (Smith et al. 2008)"
+  - "name": "CBQ_VSF"
+    "title":
+      "en": "Children’s Behaviour Questionnaire"
+    "description":
+      "en": "Children’s Behaviour Questionnaire"
+  - "name": "CD_RISC"
+    "title":
+      "en": "Connor-Davidson Resilience Scale"
+    "description":
+      "en": "Connor-Davidson Resilience Scale (CD RISC)"
+  - "name": "CITS"
+    "title":
+      "en": "Carey Infant Temperament Scale"
+    "description":
+      "en": "Carey Infant Temperament Scale"
+  - "name": "CSBQ"
+    "title":
+      "en": "Child Social Behaviour Questionnaire"
+    "description":
+      "en": "Child Social Behaviour Questionnaire"
+  - "name": "CTPQ"
+    "title":
+      "en": "Childhood Temperament and Personality Questionnaire"
+    "description":
+      "en": "Childhood Temperament and Personality Questionnaire"
+  - "name": "DSQ_67"
+    "title":
+      "en": "Defense Style Questionnaire 67"
+    "description":
+      "en": "Defense Style Questionnaire 67"
+  - "name": "Dialectical_Self"
+    "title":
+      "en": "Dialectical Self Scale"
+    "description":
+      "en": "Dialectical Self Scale"
+  - "name": "Divergent_Thinking"
+    "title":
+      "en": "Divergent Thinking Test"
+    "description":
+      "en": "Divergent Thinking Test"
+  - "name": "EAS_Scales"
+    "title":
+      "en": "Emotionality, Activity and Sociability (EAS) temperament Survey "
+    "description":
+      "en": "Emotionality, Activity and Sociability (EAS) temperament Survey (Buss\
+        \ & Plomin 1984)"
+  - "name": "ECBQ"
+    "title":
+      "en": "Early Childhood Behavior Questionnaire"
+    "description":
+      "en": "Early Childhood Behavior Questionnaire"
+  - "name": "EPQ"
+    "title":
+      "en": "Eysenck Personality Questionnaire"
+    "description":
+      "en": "Eysenck Personality Questionnaire (EPQ)"
+  - "name": "ERQ"
+    "title":
+      "en": "Emotion Regulation Questionnaire"
+    "description":
+      "en": "Emotion Regulation Questionnaire"
+  - "name": "ERS"
+    "title":
+      "en": "Ego Resilience Scale"
+    "description":
+      "en": "Ego Resilience Scale (Block, 1996)"
+  - "name": "Explanatory_Style"
+    "title":
+      "en": "Explanatory Style"
+    "description":
+      "en": "Explanatory Style"
+  - "name": "FGAS"
+    "title":
+      "en": "Flexible Goal Adjustment Scale"
+    "description":
+      "en": "Flexible Goal Adjustment Scale (Brandtstädter 1990)"
+  - "name": "FTAS"
+    "title":
+      "en": "Framingham Type A Scale"
+    "description":
+      "en": "Framingham Type A Scale"
+  - "name": "GAS"
+    "title":
+      "en": "Goal Adjustment Scale "
+    "description":
+      "en": "Goal Adjustment Scale (Wrosch, C., et al. 2003)"
+  - "name": "GSES"
+    "title":
+      "en": "General Self-Efficacy Scale"
+    "description":
+      "en": "General Self-Efficacy Scale (Schwarzer, R., & Jerusalem, M., 1995)"
+  - "name": "Hartmann_Schizo"
+    "title":
+      "en": "Hartmann Schizophrenia Prediction Scale"
+    "description":
+      "en": "Hartmann Schizophrenia Prediction Scale"
+  - "name": "Ho_Scale"
+    "title":
+      "en": "Cook-Medley Hostility Scale"
+    "description":
+      "en": "Cook-Medley Hostility Scale (Cook & Medley, 1954)"
+  - "name": "IBQ"
+    "title":
+      "en": "Infant Behavior Questionnaire"
+    "description":
+      "en": "Infant Behavior Questionnaire"
+  - "name": "JAS"
+    "title":
+      "en": "Jenkins Activity Survey"
+    "description":
+      "en": "Jenkins Activity Survey"
+  - "name": "KSP"
+    "title":
+      "en": "Karolinska Scales of Personality"
+    "description":
+      "en": "Karolinska Scales of Personality (KSP)"
+  - "name": "LOT"
+    "title":
+      "en": "Life Orientation Test"
+    "description":
+      "en": "Life Orientation Test"
+  - "name": "LPI"
+    "title":
+      "en": "Lazare-Klerman-Armor Personality Inventory"
+    "description":
+      "en": "Lazare-Klerman-Armor Personality Inventory"
+  - "name": "MEQ"
+    "title":
+      "en": "Morningness-Eveningness Questionnaire"
+    "description":
+      "en": "Morningness-Eveningness Questionnaire"
+  - "name": "MIDI"
+    "title":
+      "en": "Midlife Development Inventory Personality Scales"
+    "description":
+      "en": "Midlife Development Inventory Personality Scales"
+  - "name": "MMPI"
+    "title":
+      "en": "Minnesota Multiphasic Personality Inventory"
+    "description":
+      "en": "Minnesota Multiphasic Personality Inventory"
+  - "name": "MPQ"
+    "title":
+      "en": "Multidimensional Personality Questionnaire"
+    "description":
+      "en": "Multidimensional Personality Questionnaire"
+  - "name": "MQS_DSQ"
+    "title":
+      "en": "Mini-Q-Sort Defense Style Questionnaire"
+    "description":
+      "en": "Mini-Q-Sort Defense Style Questionnaire"
+  - "name": "MacArthur_React_Respond"
+    "title":
+      "en": "MacArthur Reactive Responding Scale"
+    "description":
+      "en": "MacArthur Reactive Responding Scale (1999)"
+  - "name": "Malaise_inventory"
+    "title":
+      "en": "Malaise Inventory "
+    "description":
+      "en": "Malaise Inventory "
+  - "name": "Mastery_scale"
+    "title":
+      "en": "Pearlin Personal Mastery Scale"
+    "description":
+      "en": "Pearlin Personal Mastery Scale (Pearlin 1981)"
+  - "name": "Mattering"
+    "title":
+      "en": "Mattering Scale"
+    "description":
+      "en": "Mattering Scale (Elliott, 2004)"
+  - "name": "NEO_PIR"
+    "title":
+      "en": "NEO Personality Inventory - Revised"
+    "description":
+      "en": "NEO Personality Inventory - Revised (NEO PIR)"
+  - "name": "PDL"
+    "title":
+      "en": "Psychoanalytic Developmental Level"
+    "description":
+      "en": "Psychoanalytic Developmental Level"
+  - "name": "PIC"
+    "title":
+      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+    "description":
+      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+  - "name": "Personal_Mastery_Perceived_Constraint"
+    "title":
+      "en": "Personal Mastery and Perceived Constraints Scale"
+    "description":
+      "en": "Personal Mastery and Perceived Constraints Scale"
+  - "name": "Personality_Disorder_Examination"
+    "title":
+      "en": "International Personality Disorder Examination Questionnaire"
+    "description":
+      "en": "International Personality Disorder Examination Questionnaire"
+  - "name": "Portrait_Values"
+    "title":
+      "en": "Portrait Values Questionnaire"
+    "description":
+      "en": "Portrait Values Questionnaire (Schwartz 2001)"
+  - "name": "RASQ"
+    "title":
+      "en": "Reactivity to Affective Stimuli Questionnaire"
+    "description":
+      "en": "Reactivity to Affective Stimuli Questionnaire"
+  - "name": "RIASEC"
+    "title":
+      "en": "RIASEC Scales"
+    "description":
+      "en": "RIASEC Scales"
+  - "name": "Rorschach"
+    "title":
+      "en": "Rorschach Test"
+    "description":
+      "en": "Rorschach Test"
+  - "name": "Rosenberg_Self_Esteem"
+    "title":
+      "en": "Rosenberg Self-Esteem Scale"
+    "description":
+      "en": "Rosenberg Self-Esteem Scale"
+  - "name": "SDQ"
+    "title":
+      "en": "Strengths and Difficulties Questionnaire"
+    "description":
+      "en": "Strengths and Difficulties Questionnaire"
+  - "name": "SSS"
+    "title":
+      "en": "Sensation Seeking Scale"
+    "description":
+      "en": "Sensation Seeking Scale"
+  - "name": "SVS"
+    "title":
+      "en": "Schwartz Value Survey"
+    "description":
+      "en": "Schwartz Value Survey"
+  - "name": "Self_Control"
+    "title":
+      "en": "Self Control Scale"
+    "description":
+      "en": "Self Control Scale"
+  - "name": "Social_Aptitudes"
+    "title":
+      "en": "Social Aptitudes Scale"
+    "description":
+      "en": "Social Aptitudes Scale"
+  - "name": "Sociopathy"
+    "title":
+      "en": "Sociopathy Scale"
+    "description":
+      "en": "Sociopathy Scale"
+  - "name": "TABP"
+    "title":
+      "en": "Type A behavior pattern"
+    "description":
+      "en": "Type A behavior pattern (Friedman and Rosenman 1974)"
+  - "name": "TIPI"
+    "title":
+      "en": "Ten-Item Personality Inventory"
+    "description":
+      "en": "Ten-Item Personality Inventory"
+  - "name": "TST"
+    "title":
+      "en": "Twenty Statements Test"
+    "description":
+      "en": "Twenty Statements Test (1954, Manfred Kuhn & Thomas McPartland) "
+  - "name": "TypeD"
+    "title":
+      "en": "Type-D Scale"
+    "description":
+      "en": "Type-D Scale"
+  - "name": "WURS"
+    "title":
+      "en": "Wender Utah Rating Scale"
+    "description":
+      "en": "Wender Utah Rating Scale"
+  - "name": "WUSCT"
+    "title":
+      "en": "Washington University Sentence Completion Test "
+    "description":
+      "en": "Washington University Sentence Completion Test ( Loevinger, 1987)"
+  - "name": "Wagnild_Young_Resilience"
+    "title":
+      "en": "Resilience Scale"
+    "description":
+      "en": "Resilience Scale (Wagnild and Young, 1993)"
 - "name": "Emotional"
   "title":
     "en": "Constructs for emotional distress"
@@ -877,6 +1272,11 @@
       "en": "Anxiety Sensitivity Index"
     "description":
       "en": "Anxiety Sensitivity Index (Reiss S. 1984)"
+  - "name": "ASRS"
+    "title":
+      "en": "Adult ADHD Self-Report Scale"
+    "description":
+      "en": "Adult ADHD Self-Report Scale"
   - "name": "BAI"
     "title":
       "en": "Beck Anxiety Inventory"
@@ -912,6 +1312,11 @@
       "en": "Child Behavior Checklist"
     "description":
       "en": "Child Behavior Checklist"
+  - "name": "CCI"
+    "title":
+      "en": "Crown-Crisp Index of Phobic Anxiety"
+    "description":
+      "en": "Crown-Crisp Index of Phobic Anxiety"
   - "name": "CES_D"
     "title":
       "en": "Center for Epidemiological Studies Depression Scale"
@@ -932,11 +1337,21 @@
       "en": "Columbia Suicide Severity Rating Scale"
     "description":
       "en": "Columbia Suicide Severity Rating Scale (C SSRS)"
+  - "name": "DAWBA"
+    "title":
+      "en": "Development and Well-Being Assessment"
+    "description":
+      "en": "Development and Well-Being Assessment"
   - "name": "DPES"
     "title":
       "en": "Dispositional Positive Emotion Scale"
     "description":
       "en": "Dispositional Positive Emotion Scale (DPES)"
+  - "name": "EPDS"
+    "title":
+      "en": "Edinburgh Postnatal Depression Scale"
+    "description":
+      "en": "Edinburgh Postnatal Depression Scale"
   - "name": "Fram_Anger_Scale"
     "title":
       "en": "Framingham Anger Scales"
@@ -992,11 +1407,21 @@
       "en": "Mental Health Inventory"
     "description":
       "en": "Mental Health Inventory"
+  - "name": "MHQ"
+    "title":
+      "en": "Middlesex Hospital Questionnaire"
+    "description":
+      "en": "Middlesex Hospital Questionnaire"
   - "name": "MINI"
     "title":
       "en": "Mini International Neuropsychiatric Interview"
     "description":
       "en": "Mini International Neuropsychiatric Interview"
+  - "name": "MSAS"
+    "title":
+      "en": "Maternal Separation Anxiety Scale"
+    "description":
+      "en": "Maternal Separation Anxiety Scale\n"
   - "name": "NPI"
     "title":
       "en": "Neuropsychiatric Inventory"
@@ -1012,6 +1437,11 @@
       "en": "Primary Care: Post-Traumatic Stress Disorder"
     "description":
       "en": "Primary Care: Post-Traumatic Stress Disorder (PC-PTSD)"
+  - "name": "PDSQ"
+    "title":
+      "en": "Psychiatric Diagnosis Screening Questionnaire"
+    "description":
+      "en": "Psychiatric Diagnosis Screening Questionnaire"
   - "name": "PGCMS"
     "title":
       "en": "Philadelphia Geriatric Center Morale Scale"
@@ -1062,6 +1492,11 @@
       "en": "Structured Clinical Interview for DSM Disorders"
     "description":
       "en": "Structured Clinical Interview for DSM Disorders"
+  - "name": "SCL_90"
+    "title":
+      "en": "Symptom Checklist 90"
+    "description":
+      "en": "Symptom Checklist 90"
   - "name": "SHARP"
     "title":
       "en": "Short Happiness and Affect Research Protocol"
@@ -1097,6 +1532,11 @@
       "en": "Texas Revised Inventory of Grief"
     "description":
       "en": "Texas Revised Inventory of Grief"
+  - "name": "WSI"
+    "title":
+      "en": "Weekly Stress Inventory"
+    "description":
+      "en": "Weekly Stress Inventory"
   - "name": "ZUNG_SAS"
     "title":
       "en": "Zung Self-Rating Anxiety Scale"
@@ -1104,12 +1544,12 @@
       "en": "Zung Self-Rating Anxiety Scale"
 - "name": "Other_psycho"
   "title":
-    "en": "Constructs for other psychological measures"
     "fr": "D'autres mesures psychologiques"
+    "en": "Constructs for other psychological measures"
   "description":
+    "fr": "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
     "en": "Information about other composite measures (scales, scores) of psychological\
       \ tests."
-    "fr": "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
   "terms":
   - "name": "APQ"
     "title":
@@ -1337,6 +1777,11 @@
       "en": "Socially Desirable Response Set Five-Item Survey"
     "description":
       "en": "Socially Desirable Response Set Five-Item Survey"
+  - "name": "SHS"
+    "title":
+      "en": "Subjective Happiness Scale"
+    "description":
+      "en": "Subjective Happiness Scale"
   - "name": "SWLS"
     "title":
       "en": "Satisfaction with Life Scale"
@@ -1352,6 +1797,16 @@
       "en": "Warwick-Edinburgh Mental Wellbeing Scale "
     "description":
       "en": "Warwick-Edinburgh Mental Wellbeing Scale "
+  - "name": "WHO"
+    "title":
+      "en": "WHO Well-Being Index"
+    "description":
+      "en": "WHO Well-Being Index"
+  - "name": "Ways_coping"
+    "title":
+      "en": "Ways of Coping Questionnaire"
+    "description":
+      "en": "Ways of Coping Questionnaire (Folkman & Lazarus)"
   - "name": "Work_Family_Spillover"
     "title":
       "en": "Work-Family Spillover Scale"
@@ -1362,303 +1817,3 @@
       "en": "Zarit Caregiver Burden Scale"
     "description":
       "en": "Zarit Caregiver Burden Scale (Zarit 1990)"
-- "name": "Personality"
-  "title":
-    "en": "Constructs for personality measures"
-    "fr": "Mesures de personalité"
-  "description":
-    "en": "Information about composite measures (scales, scores) of personality tests."
-    "fr": "Information au sujet de mesures composées (échelles) de tests de personalité\
-      ."
-  "terms":
-  - "name": "ABAS"
-    "title":
-      "en": "Adaptive Behavior Assessment System"
-    "description":
-      "en": "Adaptive Behavior Assessment System"
-  - "name": "BFI"
-    "title":
-      "en": "Big Five Inventory"
-    "description":
-      "en": "Big Five Inventory"
-  - "name": "BISBAS"
-    "title":
-      "en": "BIS/BAS scale"
-    "description":
-      "en": "Behavioural inhibition (BIS) and behavioural activation system (BAS)"
-  - "name": "BSRI"
-    "title":
-      "en": "Bem Sex Roles Inventory"
-    "description":
-      "en": "Bem Sex Roles Inventory"
-  - "name": "Bates_Infant"
-    "title":
-      "en": "Bates' Infant Characteristics Questionnaire"
-    "description":
-      "en": "Bates' Infant Characteristics Questionnaire"
-  - "name": "Bortner_scale"
-    "title":
-      "en": "Bortner Scale"
-    "description":
-      "en": "Bortner Scale"
-  - "name": "Brief_Resilience_Scale"
-    "title":
-      "en": "Brief Resilience Scale"
-    "description":
-      "en": "Brief Resilience Scale (Smith et al. 2008)"
-  - "name": "CD_RISC"
-    "title":
-      "en": "Connor-Davidson Resilience Scale"
-    "description":
-      "en": "Connor-Davidson Resilience Scale (CD RISC)"
-  - "name": "CITS"
-    "title":
-      "en": "Carey Infant Temperament Scale"
-    "description":
-      "en": "Carey Infant Temperament Scale"
-  - "name": "CSBQ"
-    "title":
-      "en": "Child Social Behaviour Questionnaire"
-    "description":
-      "en": "Child Social Behaviour Questionnaire"
-  - "name": "DSQ_67"
-    "title":
-      "en": "Defense Style Questionnaire 67"
-    "description":
-      "en": "Defense Style Questionnaire 67"
-  - "name": "Dialectical_Self"
-    "title":
-      "en": "Dialectical Self Scale"
-    "description":
-      "en": "Dialectical Self Scale"
-  - "name": "Divergent_Thinking"
-    "title":
-      "en": "Divergent Thinking Test"
-    "description":
-      "en": "Divergent Thinking Test"
-  - "name": "EAS_Scales"
-    "title":
-      "en": "Emotionality, Activity and Sociability (EAS) temperament Survey "
-    "description":
-      "en": "Emotionality, Activity and Sociability (EAS) temperament Survey (Buss\
-        \ & Plomin 1984)"
-  - "name": "ECBQ"
-    "title":
-      "en": "Early Childhood Behavior Questionnaire"
-    "description":
-      "en": "Early Childhood Behavior Questionnaire"
-  - "name": "EPQ"
-    "title":
-      "en": "Eysenck Personality Questionnaire"
-    "description":
-      "en": "Eysenck Personality Questionnaire (EPQ)"
-  - "name": "ERQ"
-    "title":
-      "en": "Emotion Regulation Questionnaire"
-    "description":
-      "en": "Emotion Regulation Questionnaire"
-  - "name": "Explanatory_Style"
-    "title":
-      "en": "Explanatory Style"
-    "description":
-      "en": "Explanatory Style"
-  - "name": "FGAS"
-    "title":
-      "en": "Flexible Goal Adjustment Scale"
-    "description":
-      "en": "Flexible Goal Adjustment Scale (Brandtstädter 1990)"
-  - "name": "FTAS"
-    "title":
-      "en": "Framingham Type A Scale"
-    "description":
-      "en": "Framingham Type A Scale"
-  - "name": "GAS"
-    "title":
-      "en": "Goal Adjustment Scale "
-    "description":
-      "en": "Goal Adjustment Scale (Wrosch, C., et al. 2003)"
-  - "name": "GSES"
-    "title":
-      "en": "General Self-Efficacy Scale"
-    "description":
-      "en": "General Self-Efficacy Scale (Schwarzer, R., & Jerusalem, M., 1995)"
-  - "name": "Hartmann_Schizo"
-    "title":
-      "en": "Hartmann Schizophrenia Prediction Scale"
-    "description":
-      "en": "Hartmann Schizophrenia Prediction Scale"
-  - "name": "Ho_Scale"
-    "title":
-      "en": "Cook-Medley Hostility Scale"
-    "description":
-      "en": "Cook-Medley Hostility Scale (Cook & Medley, 1954)"
-  - "name": "JAS"
-    "title":
-      "en": "Jenkins Activity Survey"
-    "description":
-      "en": "Jenkins Activity Survey"
-  - "name": "KSP"
-    "title":
-      "en": "Karolinska Scales of Personality"
-    "description":
-      "en": "Karolinska Scales of Personality (KSP)"
-  - "name": "LOT"
-    "title":
-      "en": "Life Orientation Test"
-    "description":
-      "en": "Life Orientation Test"
-  - "name": "LPI"
-    "title":
-      "en": "Lazare-Klerman-Armor Personality Inventory"
-    "description":
-      "en": "Lazare-Klerman-Armor Personality Inventory"
-  - "name": "MIDI"
-    "title":
-      "en": "Midlife Development Inventory Personality Scales"
-    "description":
-      "en": "Midlife Development Inventory Personality Scales"
-  - "name": "MMPI"
-    "title":
-      "en": "Minnesota Multiphasic Personality Inventory"
-    "description":
-      "en": "Minnesota Multiphasic Personality Inventory"
-  - "name": "MPQ"
-    "title":
-      "en": "Multidimensional Personality Questionnaire"
-    "description":
-      "en": "Multidimensional Personality Questionnaire"
-  - "name": "MQS_DSQ"
-    "title":
-      "en": "Mini-Q-Sort Defense Style Questionnaire"
-    "description":
-      "en": "Mini-Q-Sort Defense Style Questionnaire"
-  - "name": "MacArthur_React_Respond"
-    "title":
-      "en": "MacArthur Reactive Responding Scale"
-    "description":
-      "en": "MacArthur Reactive Responding Scale (1999)"
-  - "name": "Malaise_inventory"
-    "title":
-      "en": "Malaise Inventory "
-    "description":
-      "en": "Malaise Inventory "
-  - "name": "Mastery_scale"
-    "title":
-      "en": "Pearlin Personal Mastery Scale"
-    "description":
-      "en": "Pearlin Personal Mastery Scale (Pearlin 1981)"
-  - "name": "Mattering"
-    "title":
-      "en": "Mattering Scale"
-    "description":
-      "en": "Mattering Scale (Elliott, 2004)"
-  - "name": "NEO_PIR"
-    "title":
-      "en": "NEO Personality Inventory - Revised"
-    "description":
-      "en": "NEO Personality Inventory - Revised (NEO PIR)"
-  - "name": "PDL"
-    "title":
-      "en": "Psychoanalytic Developmental Level"
-    "description":
-      "en": "Psychoanalytic Developmental Level"
-  - "name": "PIC"
-    "title":
-      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
-    "description":
-      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
-  - "name": "Personal_Mastery_Perceived_Constraint"
-    "title":
-      "en": "Personal Mastery and Perceived Constraints Scale"
-    "description":
-      "en": "Personal Mastery and Perceived Constraints Scale"
-  - "name": "Personality_Disorder_Examination"
-    "title":
-      "en": "International Personality Disorder Examination Questionnaire"
-    "description":
-      "en": "International Personality Disorder Examination Questionnaire"
-  - "name": "Portrait_Values"
-    "title":
-      "en": "Portrait Values Questionnaire"
-    "description":
-      "en": "Portrait Values Questionnaire (Schwartz 2001)"
-  - "name": "RASQ"
-    "title":
-      "en": "Reactivity to Affective Stimuli Questionnaire"
-    "description":
-      "en": "Reactivity to Affective Stimuli Questionnaire"
-  - "name": "RIASEC"
-    "title":
-      "en": "RIASEC Scales"
-    "description":
-      "en": "RIASEC Scales"
-  - "name": "Rorschach"
-    "title":
-      "en": "Rorschach Test"
-    "description":
-      "en": "Rorschach Test"
-  - "name": "Rosenberg_Self_Esteem"
-    "title":
-      "en": "Rosenberg Self-Esteem Scale"
-    "description":
-      "en": "Rosenberg Self-Esteem Scale"
-  - "name": "SDQ"
-    "title":
-      "en": "Strengths and Difficulties Questionnaire"
-    "description":
-      "en": "Strengths and Difficulties Questionnaire"
-  - "name": "SSS"
-    "title":
-      "en": "Sensation Seeking Scale"
-    "description":
-      "en": "Sensation Seeking Scale"
-  - "name": "SVS"
-    "title":
-      "en": "Schwartz Value Survey"
-    "description":
-      "en": "Schwartz Value Survey"
-  - "name": "Self_Control"
-    "title":
-      "en": "Self Control Scale"
-    "description":
-      "en": "Self Control Scale"
-  - "name": "Sociopathy"
-    "title":
-      "en": "Sociopathy Scale"
-    "description":
-      "en": "Sociopathy Scale"
-  - "name": "TABP"
-    "title":
-      "en": "Type A behavior pattern"
-    "description":
-      "en": "Type A behavior pattern (Friedman and Rosenman 1974)"
-  - "name": "TIPI"
-    "title":
-      "en": "Ten-Item Personality Inventory"
-    "description":
-      "en": "Ten-Item Personality Inventory"
-  - "name": "TST"
-    "title":
-      "en": "Twenty Statements Test"
-    "description":
-      "en": "Twenty Statements Test (1954, Manfred Kuhn & Thomas McPartland) "
-  - "name": "TypeD"
-    "title":
-      "en": "Type-D Scale"
-    "description":
-      "en": "Type-D Scale"
-  - "name": "WURS"
-    "title":
-      "en": "Wender Utah Rating Scale"
-    "description":
-      "en": "Wender Utah Rating Scale"
-  - "name": "WUSCT"
-    "title":
-      "en": "Washington University Sentence Completion Test "
-    "description":
-      "en": "Washington University Sentence Completion Test ( Loevinger, 1987)"
-  - "name": "Wagnild_Young_Resilience"
-    "title":
-      "en": "Resilience Scale"
-    "description":
-      "en": "Resilience Scale (Wagnild and Young, 1993)"
