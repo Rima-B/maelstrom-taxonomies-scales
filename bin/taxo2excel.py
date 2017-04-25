@@ -64,7 +64,7 @@ def write_taxonomy(taxonomy, wss, rows=[1, 1, 1]):
 		vcws.write(vcrow, 6, vocabulary.get('repeatable', '0'))
 		vcrow = vcrow + 1
 		# write terms
-		for term in vocabulary['terms']:
+		for term in vocabulary.get('terms', []):
 			if args.verbose:
 				print "    " + term.get('name')
 			trws.write(trrow, 0, taxonomy.name)
