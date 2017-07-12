@@ -5,11 +5,21 @@
   "fr": "Échelles utilisées dans le domaine social"
 "description":
   "en": "Refers to constructs used in the social domain"
-  "fr": "Information au sujet de mesures composites (échelles) utilisées dans le domaine\
-    \ social"
+  "fr": "Information au sujet de mesures composites (échelles) utilisées dans le domaine social"
 "author": "Maelstrom Research"
 "license": "CC BY-NC-ND 4.0"
 "vocabularies":
+- "name": "Social_network"
+  "title":
+    "en": "Constructs for social network"
+  "description":
+    "en": "Constructs for the measurement of social network"
+  "terms":
+  - "name": "SNI"
+    "title":
+      "en": "Social Network Index"
+    "description":
+      "en": "Social Network Index"
 - "name": "Social_participation"
   "title":
     "en": "Constructs for social participation"
@@ -20,7 +30,7 @@
     "title":
       "en": "Associational Solidarity Scale"
     "description":
-      "en": "Associational Solidarity Scale (Bengston, 1991)"
+      "en": "Associational Solidarity Scale"
   - "name": "EHLE"
     "title":
       "en": "Early Home Learning Environment"
@@ -38,9 +48,9 @@
       "en": "Participation and Activity Limitation Survey "
   - "name": "SPA"
     "title":
-      "en": "Social participation"
+      "en": "Social Participation"
     "description":
-      "en": "Social participation (SPA)"
+      "en": "Social Participation"
   - "name": "Social_Connectedness"
     "title":
       "en": "Social Connectedness Scale"
@@ -61,12 +71,17 @@
     "title":
       "en": "Adult Attachment Scale"
     "description":
-      "en": "Adult Attachment Scale (Hazen & Shaver, 1987)"
+      "en": "Adult Attachment Scale"
   - "name": "Affectual_Solidarity"
     "title":
       "en": "Affectual Solidarity Scale"
     "description":
       "en": "Affectual Solidarity Scale"
+  - "name": "Berkman_SNI"
+    "title":
+      "en": "Berkman-Syme Social Network Index"
+    "description":
+      "en": "Berkman-Syme Social Network Index"
   - "name": "CMAQ"
     "title":
       "en": "Condon Maternal Attachment Questionnaire"
@@ -76,7 +91,7 @@
     "title":
       "en": "Close Persons Questionnaire"
     "description":
-      "en": "Close Persons Questionnaire (Stansfeld and Marmot, 1992)"
+      "en": "Close Persons Questionnaire"
   - "name": "CPRS_SF"
     "title":
       "en": "Child-Parent Relationship Scale"
@@ -87,6 +102,11 @@
       "en": "De Jong Gierveld Loneliness Scale"
     "description":
       "en": "De Jong Gierveld Loneliness Scale"
+  - "name": "FACES_II"
+    "title":
+      "en": "Family Adaptability and Cohesion Evaluation Scale"
+    "description":
+      "en": "Family Adaptability and Cohesion Evaluation Scale"
   - "name": "FAD"
     "title":
       "en": "McMaster Family Assessment Device"
@@ -106,22 +126,32 @@
     "title":
       "en": "Familism Scale"
     "description":
-      "en": "Familism Scale (Heller, 1976)"
+      "en": "Familism Scale"
+  - "name": "IBM"
+    "title":
+      "en": "Intimate Bond Measure"
+    "description":
+      "en": "Intimate Bond Measure"
+  - "name": "ISEL"
+    "title":
+      "en": "Interpersonal Support Evaluation List"
+    "description":
+      "en": "Interpersonal Support Evaluation List"
   - "name": "ISSI"
     "title":
       "en": "Interview Schedule for Social Interaction"
     "description":
-      "en": "Interview Schedule for Social Interaction (ISSI)"
+      "en": "Interview Schedule for Social Interaction"
   - "name": "LSNS_6"
     "title":
       "en": "Lubben Social Network Scale-6"
     "description":
-      "en": "Lubben Social Network Scale-6 (LSNS-6)"
+      "en": "Lubben Social Network Scale-6"
   - "name": "MOS_SSA"
     "title":
-      "en": "Medical Outcomes Study (MOS) Social Support Survey"
+      "en": "Medical Outcomes Study Social Support Survey"
     "description":
-      "en": "Medical Outcomes Study (MOS) Social Support Survey"
+      "en": "Medical Outcomes Study Social Support Survey"
   - "name": "Marital_Adjustment"
     "title":
       "en": "Marital Adjustment Test"
@@ -141,12 +171,17 @@
     "title":
       "en": "Normative Solidarity Scale"
     "description":
-      "en": "Normative Solidarity Scale (Bengston, 1991)"
+      "en": "Normative Solidarity Scale"
+  - "name": "OSS_3"
+    "title":
+      "en": "Oslo‐3 Social Support Scale"
+    "description":
+      "en": "Oslo‐3 Social Support Scale"
   - "name": "PBI"
     "title":
-      "en": "Parental Bonding Instrument (PBI)"
+      "en": "Parental Bonding Instrument"
     "description":
-      "en": "Parental Bonding Instrument (PBI)"
+      "en": "Parental Bonding Instrument"
   - "name": "Parental_Affection"
     "title":
       "en": "Parental Affection in Childhood Scale"
@@ -157,11 +192,26 @@
       "en": "Spouse/Partner Joint Decision Making"
     "description":
       "en": "Spouse/Partner Joint Decision Making"
+  - "name": "Perceived_SS"
+    "title":
+      "en": "Perceived Social Support Scale"
+    "description":
+      "en": "Perceived Social Support Scale"
   - "name": "Perceived_Support_Conflict_Protocol"
     "title":
       "en": "Perceived Social Support/Conflict Protocol"
     "description":
       "en": "Perceived Social Support/Conflict Protocol"
+  - "name": "RQ"
+    "title":
+      "en": "Relationships Questionnaire "
+    "description":
+      "en": "Relationships Questionnaire"
+  - "name": "SPAS"
+    "title":
+      "en": "Social Provisions Scale"
+    "description":
+      "en": "Social Provisions Scale"
   - "name": "SSQ"
     "title":
       "en": "Social Support Questionnaire"
@@ -197,17 +247,17 @@
     "title":
       "en": "Childhood Adversity Questionnaire"
     "description":
-      "en": "Childhood Adversity Questionnaire (CAQ)"
+      "en": "Childhood Adversity Questionnaire"
   - "name": "CTQ"
     "title":
       "en": "Childhood Trauma Questionnaire"
     "description":
-      "en": "Childhood Trauma Questionnaire (CTQ)"
+      "en": "Childhood Trauma Questionnaire"
   - "name": "CTS"
     "title":
       "en": "Conflict Tactics Scale"
     "description":
-      "en": "Conflict Tactics Scale (CTS)"
+      "en": "Conflict Tactics Scale"
   - "name": "CTSPC"
     "title":
       "en": "Conflict Tactics Scale for Parent and Child"
@@ -217,7 +267,12 @@
     "title":
       "en": "Daily Inventory of Stressful Events"
     "description":
-      "en": "Daily Inventory of Stressful Events (DISE)"
+      "en": "Daily Inventory of Stressful Events"
+  - "name": "DRM"
+    "title":
+      "en": "The Day Reconstruction Method"
+    "description":
+      "en": "The Day Reconstruction Method"
   - "name": "ELSI"
     "title":
       "en": "Elders Life Stress Inventory "
@@ -232,12 +287,12 @@
     "title":
       "en": "Interview for Recent Life Events"
     "description":
-      "en": "Interview for Recent Life Events (IRLE)"
+      "en": "Interview for Recent Life Events"
   - "name": "LEC_5"
     "title":
       "en": "Life Events Checklist for DSM-5"
     "description":
-      "en": "Life Events Checklist for DSM-5 (LEC-5)"
+      "en": "Life Events Checklist for DSM-5"
   - "name": "LTE_Q"
     "title":
       "en": "List of Threatening Experiences Questionnaire"
@@ -247,7 +302,7 @@
     "title":
       "en": "Pleasant Events Schedule"
     "description":
-      "en": "Pleasant Events Schedule (PES)"
+      "en": "Pleasant Events Schedule"
   - "name": "PLES"
     "title":
       "en": "Prenatal Life Events Scale"
@@ -267,12 +322,17 @@
     "title":
       "en": "Social Readjustment Rating Scale "
     "description":
-      "en": "Social Readjustment Rating Scale (Holmes and Rahe, 1967)"
+      "en": "Social Readjustment Rating Scale"
   - "name": "TSQ"
     "title":
       "en": "Trauma Screening Questionnaire"
     "description":
       "en": "Trauma Screening Questionnaire"
+  - "name": "WAST"
+    "title":
+      "en": "Woman Abuse Screening Tool"
+    "description":
+      "en": "Woman Abuse Screening Tool"
 - "name": "Other"
   "title":
     "en": "Constructs for other social environment characteristics"
@@ -299,6 +359,11 @@
       "en": "Brigance Parent-Child Interaction Scale"
     "description":
       "en": "Brigance Parent-Child Interaction Scale"
+  - "name": "CARP"
+    "title":
+      "en": "Coding of Attachment-Related Parenting"
+    "description":
+      "en": "Coding of Attachment-Related Parenting"
   - "name": "CESS"
     "title":
       "en": "Childhood Environmental Strengths Scale"
@@ -314,11 +379,16 @@
       "en": "Confusion, Hubbub, and Order Scale"
     "description":
       "en": "Confusion, Hubbub, and Order Scale"
+  - "name": "CPS"
+    "title":
+      "en": "Conflicts and Problem-Solving Scales "
+    "description":
+      "en": "Conflicts and Problem-Solving Scales "
   - "name": "Consensual_Solidarity"
     "title":
       "en": "Consensual Solidarity Scale"
     "description":
-      "en": "Consensual Solidarity Scale (Bengston, 1991)"
+      "en": "Consensual Solidarity Scale"
   - "name": "EPSI"
     "title":
       "en": "Erikson Psychosocial Stage Inventory "
@@ -333,12 +403,17 @@
     "title":
       "en": "Family Environment Scale"
     "description":
-      "en": "Family Environment Scale (Moos & Moos, 1981)"
+      "en": "Family Environment Scale"
+  - "name": "HOME"
+    "title":
+      "en": "Home Observation for Measurement of Environment"
+    "description":
+      "en": "Home Observation for Measurement of Environment"
   - "name": "Keyes_Social_Well_Being"
     "title":
       "en": "Social Well-Being Scale"
     "description":
-      "en": "Social Well-Being Scale (Keyes)"
+      "en": "Social Well-Being Scale"
   - "name": "Major_Experiences_Discrimination"
     "title":
       "en": "Major Experiences of Discrimination Scale"
@@ -349,6 +424,11 @@
       "en": "Marital Risk Scale"
     "description":
       "en": "Marital Risk Scale"
+  - "name": "Neighborhood_Collective_Efficacy"
+    "title":
+      "en": "Neighborhood Collective Efficacy - Community Cohesion and Informal Social Control"
+    "description":
+      "en": "Neighborhood Collective Efficacy - Community Cohesion and Informal Social Control"
   - "name": "PACOTIS"
     "title":
       "en": "Parental Cognitions and Conduct Toward the Infant Scale"
@@ -364,11 +444,21 @@
       "en": "Parent Adult Relationship Questionnaire"
     "description":
       "en": "Parent Adult Relationship Questionnaire"
+  - "name": "PIDACS"
+    "title":
+      "en": "Parent Interviews and Direct Assessments of Children Survey"
+    "description":
+      "en": "Parent Interviews and Direct Assessments of Children Survey"
   - "name": "PMI"
     "title":
       "en": "Parenting Morale Index"
     "description":
       "en": "Parenting Morale Index"
+  - "name": "PPS"
+    "title":
+      "en": "Parent Practices Scale"
+    "description":
+      "en": "Parent Practices Scale"
   - "name": "PRBI"
     "title":
       "en": "Parent Reading Belief Inventory"

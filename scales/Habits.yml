@@ -19,7 +19,7 @@
     "title":
       "en": "Alcohol Use Disorders Identification Test"
     "description":
-      "en": "Alcohol Use Disorders Identification Test (AUDIT)"
+      "en": "Alcohol Use Disorders Identification Test"
   - "name": "CAGE"
     "title":
       "en": "CAGE Questionnaire"
@@ -58,9 +58,9 @@
       "en": "24-hour Food Diary"
   - "name": "7day_dietary_record"
     "title":
-      "en": "7 day dietary record"
+      "en": "7 Day Dietary Record"
     "description":
-      "en": "7 day dietary record"
+      "en": "7 Day Dietary Record"
   - "name": "DHQ"
     "title":
       "en": "Diet History Questionnaire"
@@ -75,12 +75,22 @@
     "title":
       "en": "Food Frequency Questionnaire"
     "description":
-      "en": "Food Frequency Questionnaire (FFQ)"
+      "en": "Food Frequency Questionnaire"
+  - "name": "FSQ"
+    "title":
+      "en": "Food Security Questionnaire"
+    "description":
+      "en": "Food Security Questionnaire"
   - "name": "MCHFS"
     "title":
       "en": "Montreal Children's Hospital Feeding Scale"
     "description":
       "en": "Montreal Children's Hospital Feeding Scale"
+  - "name": "MDS"
+    "title":
+      "en": "Mediterranean Diet Score"
+    "description":
+      "en": "Mediterranean Diet Score"
   - "name": "MNA"
     "title":
       "en": "Mini Nutritional Assessment"
@@ -90,12 +100,12 @@
     "title":
       "en": "Nutritional Screening Initiative"
     "description":
-      "en": "Nutritional Screening Initiative (NSI)"
+      "en": "Nutritional Screening Initiative"
   - "name": "NutriStep"
     "title":
-      "en": "Nutrition Screening Tool for Every Preschooler"
+      "en": "Nutrition Screening Tool for Toddlers and Preschoolers"
     "description":
-      "en": "Nutrition Screening Tool for Every Preschooler"
+      "en": "Nutrition Screening Tool for Toddlers and Preschoolers"
   - "name": "Willett_FFQ"
     "title":
       "en": "Willett Semi-Quantitative Food Frequency Questionnaire"
@@ -117,16 +127,31 @@
       "en": "Active Australia Survey"
     "description":
       "en": "Active Australia Survey"
+  - "name": "GPAQ"
+    "title":
+      "en": "Global Physical Activity Questionnaire "
+    "description":
+      "en": "Global Physical Activity Questionnaire "
+  - "name": "HAES"
+    "title":
+      "en": "Habitual Activity Estimation Scale"
+    "description":
+      "en": "Habitual Activity Estimation Scale"
   - "name": "HAPAQ"
     "title":
-      "en": "Historical adulthood physical activity questionnaire"
+      "en": "Historical Adulthood Physical Activity Questionnaire"
     "description":
-      "en": "Historical adulthood physical activity questionnaire (HAPAQ)"
+      "en": "Historical Adulthood Physical Activity Questionnaire"
   - "name": "IPAQ"
     "title":
       "en": "International Physical Activity Questionnaire "
     "description":
-      "en": "International Physical Activity Questionnaire (IPAQ)"
+      "en": "International Physical Activity Questionnaire"
+  - "name": "LAPAQ"
+    "title":
+      "en": "Longitudinal Aging Study Amsterdam Physical Activity Questionnaire "
+    "description":
+      "en": "Longitudinal Aging Study Amsterdam Physical Activity Questionnaire "
   - "name": "Leisure_time_PAQ"
     "title":
       "en": "Leisure time physical activity questionnaire"
@@ -134,9 +159,9 @@
       "en": "Leisure Time Physical Activity Questionnaire"
   - "name": "Lifetime_total_PAQ"
     "title":
-      "en": "Lifetime total physical activity questionnaire"
+      "en": "Lifetime Total Physical Activity Questionnaire"
     "description":
-      "en": "Lifetime total Physical Activity Questionnaire"
+      "en": "Lifetime Total Physical Activity Questionnaire"
   - "name": "PAFQ"
     "title":
       "en": "Physical Activity Frequency Questionnaire"
@@ -151,7 +176,7 @@
     "title":
       "en": "Physical Activity Scale for the Elderly"
     "description":
-      "en": "Physical Activity Scale for the Elderly (PASE)"
+      "en": "Physical Activity Scale for the Elderly"
   - "name": "PHPAQ"
     "title":
       "en": "Person’s Habitual Physical Activity Questionnaire"
@@ -178,11 +203,26 @@
       "en": "Actiwatch: Daily Sleep Diary"
     "description":
       "en": "Actiwatch: Daily Sleep Diary"
+  - "name": "BISQ"
+    "title":
+      "en": "Brief Infant Sleep Questionnaire"
+    "description":
+      "en": "Brief Infant Sleep Questionnaire"
+  - "name": "CSHQ"
+    "title":
+      "en": "Children’s Sleep Habits Questionnaire"
+    "description":
+      "en": "Children’s Sleep Habits Questionnaire"
   - "name": "ESS"
     "title":
       "en": "Epworth Sleepiness Scale"
     "description":
       "en": "Epworth Sleepiness Scale"
+  - "name": "GSAQ"
+    "title":
+      "en": "Global Sleep Assessment Questionnaire"
+    "description":
+      "en": "Global Sleep Assessment Questionnaire"
   - "name": "Mayo_Sleep"
     "title":
       "en": "Mayo Sleep Questionnaire"
@@ -192,7 +232,12 @@
     "title":
       "en": "Pittsburgh Sleep Questionnaire"
     "description":
-      "en": "Pittsburgh Sleep Questionnaire (PSQ)"
+      "en": "Pittsburgh Sleep Questionnaire"
+  - "name": "Paediatric_SQ"
+    "title":
+      "en": "Paediatric Sleep Questionnaire"
+    "description":
+      "en": "Paediatric Sleep Questionnaire"
   - "name": "WHI_Sleep"
     "title":
       "en": "WHICAP Sleep Form"
@@ -219,6 +264,11 @@
       "en": "SLS Health behavior questionnaire"
     "description":
       "en": "Health Behavior Questionnaire from Seattle Longitudinal Study"
+  - "name": "SRDS"
+    "title":
+      "en": "Self-Report Delinquency Scale"
+    "description":
+      "en": "Self-Report Delinquency Scale"
   - "name": "Technology"
     "title":
       "en": "Technology Survey"
