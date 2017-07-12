@@ -1,12 +1,10 @@
 !!org.obiba.opal.core.domain.taxonomy.Taxonomy
 "name": "Mlstr_cogscale"
 "title":
-  "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif\
-    \ et de la santé mentale"
+  "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif et de la santé mentale"
   "en": "Constructs for cognitive functioning and mental health"
 "description":
-  "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif\
-    \ et de la santé mentale"
+  "fr": "Information au sujet de mesures composées (échelles) du fonctionnement cognitif et de la santé mentale"
   "en": "Constructs for cognitive functioning and mental health"
 "author": "Maelstrom Research"
 "license": "CC BY-NC-ND 4.0"
@@ -21,7 +19,12 @@
     "title":
       "en": "Modified Mini Mental State"
     "description":
-      "en": "Modified Mini Mental State (3MS)"
+      "en": "Modified Mini Mental State"
+  - "name": "5_Objects_Test"
+    "title":
+      "en": "The 5 Objects Test"
+    "description":
+      "en": "The 5 Objects Test"
   - "name": "7MS"
     "title":
       "en": "7 Minutes Screening Test"
@@ -32,6 +35,16 @@
       "en": "Addenbrooke's Cognitive Examination Revised"
     "description":
       "en": "Addenbrooke's Cognitive Examination Revised"
+  - "name": "ACT"
+    "title":
+      "en": "Alphabet Coding Task"
+    "description":
+      "en": "Alphabet Coding Task"
+  - "name": "ADAS"
+    "title":
+      "en": "Alzheimer’s Disease Assessment Scale"
+    "description":
+      "en": "Alzheimer’s Disease Assessment Scale"
   - "name": "AFQT"
     "title":
       "en": "Armed Forces Qualification Test"
@@ -42,6 +55,11 @@
       "en": "AH4 Group Test of General Intelligence"
     "description":
       "en": "AH4 Group Test of General Intelligence"
+  - "name": "AMI"
+    "title":
+      "en": "Autobiographical Memory Interview"
+    "description":
+      "en": "Autobiographical Memory Interview"
   - "name": "AMT"
     "title":
       "en": "Abbreviated Mental Test"
@@ -71,7 +89,12 @@
     "title":
       "en": "Blessed Orientation Memory Concentration Test"
     "description":
-      "en": "Blessed Orientation Memory Concentration Test (BOMC)"
+      "en": "Blessed Orientation Memory Concentration Test"
+  - "name": "BRIEF"
+    "title":
+      "en": "Behavior Rating Inventory of Executive Function"
+    "description":
+      "en": "Behavior Rating Inventory of Executive Function"
   - "name": "BSRA"
     "title":
       "en": "Bracken School Readiness Assessment"
@@ -111,7 +134,7 @@
     "title":
       "en": "Buschke Cued Recall Procedure"
     "description":
-      "en": "Buschke Cued Recall Procedure (Buschke, 1984)"
+      "en": "Buschke Cued Recall Procedure"
   - "name": "CAMCog"
     "title":
       "en": "Cambridge Cognitive Examination"
@@ -122,6 +145,21 @@
       "en": "Revised Cambridge Examination for Mental Disorders of the Elderly"
     "description":
       "en": "Revised Cambridge Examination for Mental Disorders of the Elderly"
+  - "name": "CANTAB_PAL"
+    "title":
+      "en": "Cambridge Neuropsychological Test Automated Battery (Paired Associates Learning)"
+    "description":
+      "en": "Cambridge Neuropsychological Test Automated Battery (Paired Associates Learning)"
+  - "name": "CANTAB_RTI"
+    "title":
+      "en": "Cambridge Neuropsychological Test Automated Battery (Reaction Time)"
+    "description":
+      "en": "Cambridge Neuropsychological Test Automated Battery (Reaction Time)"
+  - "name": "CANTAB_RVP"
+    "title":
+      "en": "Cambridge Neuropsychological Test Automated Battery (Rapid Visual Information Processing)"
+    "description":
+      "en": "Cambridge Neuropsychological Test Automated Battery (Rapid Visual Information Processing)"
   - "name": "CASI"
     "title":
       "en": "Cognitive Abilities Screening Instrument"
@@ -136,7 +174,7 @@
     "title":
       "en": "Clinical Dementia Rating Scale"
     "description":
-      "en": "Clinical Dementia Rating Scale (CDR)"
+      "en": "Clinical Dementia Rating Scale"
   - "name": "CERAD_Construction_Praxis"
     "title":
       "en": "CERAD Constructional Praxis Recall"
@@ -151,7 +189,7 @@
     "title":
       "en": "Controlled Oral Word Association Test"
     "description":
-      "en": "Controlled Oral Word Association Test (COWAT)"
+      "en": "Controlled Oral Word Association Test"
   - "name": "CPT"
     "title":
       "en": "Continuous Performance Test"
@@ -166,7 +204,12 @@
     "title":
       "en": "Choice Reaction Time"
     "description":
-      "en": "Choice Reaction Time (CRT)"
+      "en": "Choice Reaction Time"
+  - "name": "CSID"
+    "title":
+      "en": "Community Screening Instrument for Dementia"
+    "description":
+      "en": "Community Screening Instrument for Dementia"
   - "name": "CTT"
     "title":
       "en": "Color Trails Test"
@@ -204,29 +247,29 @@
       "en": "Clock Drawing Test"
   - "name": "CogState_DET"
     "title":
-      "en": "CogState Detection Task (DET)"
+      "en": "CogState Detection Task"
     "description":
-      "en": "CogState Detection Task (DET)"
+      "en": "CogState Detection Task"
   - "name": "CogState_GML"
     "title":
-      "en": "CogState Groton Maze Learning Task (GML)"
+      "en": "CogState Groton Maze Learning Task"
     "description":
-      "en": "CogState Groton Maze Learning Task (GML)"
+      "en": "CogState Groton Maze Learning Task"
   - "name": "CogState_IDN"
     "title":
-      "en": "CogState Identification Task (IDN)"
+      "en": "CogState Identification Task"
     "description":
-      "en": "CogState Identification Task (IDN)"
+      "en": "CogState Identification Task"
   - "name": "CogState_OCL"
     "title":
-      "en": "CogState One Card Learning Task (OCL)"
+      "en": "CogState One Card Learning Task"
     "description":
-      "en": "CogState One Card Learning Task (OCL)"
+      "en": "CogState One Card Learning Task"
   - "name": "CogState_ONB"
     "title":
-      "en": "CogState One Back Task (ONB)"
+      "en": "CogState One Back Task"
     "description":
-      "en": "CogState One Back Task (ONB)"
+      "en": "CogState One Back Task"
   - "name": "Coin_test"
     "title":
       "en": "Coin Test"
@@ -242,6 +285,11 @@
       "en": "Crossing Off Test"
     "description":
       "en": "Crossing Off Test"
+  - "name": "DDST"
+    "title":
+      "en": "Denver Developmental Screening Test"
+    "description":
+      "en": "Denver Developmental Screening Test"
   - "name": "DLST"
     "title":
       "en": "Digit Letter Substitution Test"
@@ -272,6 +320,11 @@
       "en": "Diagnostic Illiteracy Scale"
     "description":
       "en": "Diagnostic Illiteracy Scale"
+  - "name": "Digit_cancellation"
+    "title":
+      "en": "Digit Cancellation Test"
+    "description":
+      "en": "Digit Cancellation Test"
   - "name": "Double_Letter_Cancellation"
     "title":
       "en": "Double Letter Cancellation Test"
@@ -282,6 +335,16 @@
       "en": "Everyday Cognition Scale"
     "description":
       "en": "Everyday Cognition Scale"
+  - "name": "EDI"
+    "title":
+      "en": "Early Development Instrument"
+    "description":
+      "en": "Early Development Instrument"
+  - "name": "EPCCE"
+    "title":
+      "en": "Everyday Problems Test for the Cognitively Challenged Elderly"
+    "description":
+      "en": "Everyday Problems Test for the Cognitively Challenged Elderly"
   - "name": "Executive_function"
     "title":
       "en": "Executive Function Test"
@@ -291,17 +354,27 @@
     "title":
       "en": "Frontal Assessment Battery"
     "description":
-      "en": "Frontal Assessment Battery (Dubois, 2000)"
+      "en": "Frontal Assessment Battery"
   - "name": "FAST_GDS"
     "title":
       "en": "Functional Assessment Staging Test and Global Deterioration Scale"
     "description":
       "en": "Functional Assessment Staging Test and Global Deterioration Scale"
+  - "name": "FCRST"
+    "title":
+      "en": "Free and Cued Selective Reminding Test"
+    "description":
+      "en": "Free and Cued Selective Reminding Test"
   - "name": "FI_test"
     "title":
       "en": "Fluid Intelligence Test"
     "description":
       "en": "Fluid Intelligence Test"
+  - "name": "Faux_pas"
+    "title":
+      "en": "Faux Pas Recognition Test "
+    "description":
+      "en": "Faux Pas Recognition Test "
   - "name": "Fig_Iden_Task"
     "title":
       "en": "Figure Identification Task"
@@ -311,7 +384,7 @@
     "title":
       "en": "Figure Logic/Inductive Reasoning"
     "description":
-      "en": "Figure Logic/Inductive Reasoning (SRB2) "
+      "en": "Figure Logic/Inductive Reasoning"
   - "name": "Forward_Digit_Span"
     "title":
       "en": "Forward Digit Span Task"
@@ -322,6 +395,11 @@
       "en": "Gottschaldt’s Hidden Figures Test"
     "description":
       "en": "Gottschaldt’s Hidden Figures Test"
+  - "name": "GKT"
+    "title":
+      "en": "General Knowledge Task"
+    "description":
+      "en": "General Knowledge Task"
   - "name": "GMS"
     "title":
       "en": "Geriatric Mental State Examination"
@@ -332,21 +410,26 @@
       "en": "General Practitioner Assessment of Cognition"
     "description":
       "en": "General Practitioner Assessment of Cognition"
+  - "name": "GRTR"
+    "title":
+      "en": " Get Ready to Read! Screening Tool"
+    "description":
+      "en": "Get Ready to Read! Screening Tool\n"
   - "name": "Gesture_Execution"
     "title":
       "en": "Gesture Execution Test"
     "description":
-      "en": "Gesture Execution Test (Joanette, 1999)"
+      "en": "Gesture Execution Test"
   - "name": "HIS"
     "title":
       "en": "Hachinski Ischemic Score"
     "description":
-      "en": "Hachinski Ischemic Score (HIS)"
+      "en": "Hachinski Ischemic Score"
   - "name": "HVLT"
     "title":
-      "en": "Hopkins Verbal Learning test"
+      "en": "Hopkins Verbal Learning Test"
     "description":
-      "en": "Hopkins Verbal Learning test"
+      "en": "Hopkins Verbal Learning Test"
   - "name": "Henmon_Nelson"
     "title":
       "en": "Henmon-Nelson Test of Mental Ability"
@@ -354,29 +437,39 @@
       "en": "Henmon-Nelson Test of Mental Ability"
   - "name": "IQCODE"
     "title":
-      "en": "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE)"
+      "en": "Informant Questionnaire on Cognitive Decline in the Elderly"
     "description":
-      "en": "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE)"
+      "en": "Informant Questionnaire on Cognitive Decline in the Elderly"
+  - "name": "ITC"
+    "title":
+      "en": "Infant Toddler Checklist"
+    "description":
+      "en": "Infant Toddler Checklist"
   - "name": "Immed_wordlist"
     "title":
-      "en": "Immediate recall word list"
+      "en": "Immediate Recall Word List"
     "description":
-      "en": "Immediate recall word list"
+      "en": "Immediate Recall Word List"
   - "name": "KOHS_Block_Design"
     "title":
       "en": "Kohs Block Design Test"
     "description":
-      "en": "Kohs Block Design Test (SRB3)"
+      "en": "Kohs Block Design Test"
+  - "name": "LDS"
+    "title":
+      "en": "Language Development Survey"
+    "description":
+      "en": "Language Development Survey"
   - "name": "LEQ"
     "title":
       "en": "Lifetime of Experiences Questionnaire"
     "description":
-      "en": "Lifetime of Experiences Questionnaire (LEQ)"
+      "en": "Lifetime of Experiences Questionnaire"
   - "name": "Letter_comparison"
     "title":
-      "en": "Letter comparison test"
+      "en": "Letter Comparison Test"
     "description":
-      "en": "Letter comparison test"
+      "en": "Letter Comparison Test"
   - "name": "Letter_series"
     "title":
       "en": "Letter Series Test"
@@ -389,9 +482,9 @@
       "en": "Letter Sets Test"
   - "name": "Line_orientation"
     "title":
-      "en": "Judgement of line orientation test"
+      "en": "Judgement of Line Orientation Test"
     "description":
-      "en": "Judgement of line orientation test"
+      "en": "Judgement of Line Orientation Test"
   - "name": "MACQ"
     "title":
       "en": "Memory Assessment Clinic Questionnaire"
@@ -404,9 +497,9 @@
       "en": "Miller Analogies Test"
   - "name": "MCG_Complex_figures"
     "title":
-      "en": "MCG Complex figures"
+      "en": "MCG Complex Figures"
     "description":
-      "en": "MCG Complex figures"
+      "en": "MCG Complex Figures"
   - "name": "MIA"
     "title":
       "en": "Metamemory in Adulthood Questionnaire"
@@ -414,19 +507,19 @@
       "en": "Metamemory in Adulthood Questionnaire"
   - "name": "MIR"
     "title":
-      "en": "Memory in Reality test"
+      "en": "Memory in Reality Test"
     "description":
-      "en": "Memory in Reality test"
+      "en": "Memory in Reality Test"
   - "name": "MIS"
     "title":
       "en": "Modified Ischemic Score"
     "description":
-      "en": "Modified Ischemic Score (MIS)"
+      "en": "Modified Ischemic Score"
   - "name": "MMSE"
     "title":
       "en": "Mini Mental State Exam"
     "description":
-      "en": "Mini Mental State Exam (MMSE)"
+      "en": "Mini Mental State Exam"
   - "name": "MMSE_TMT"
     "title":
       "en": "Mini Mental State Exam with Trail Making Test"
@@ -436,12 +529,12 @@
     "title":
       "en": "Montreal Cognitive Assessment"
     "description":
-      "en": "Montreal Cognitive Assessment (MOCA)"
+      "en": "Montreal Cognitive Assessment"
   - "name": "MSQ"
     "title":
       "en": "Mental Status Questionnaire"
     "description":
-      "en": "Mental Status Questionnaire (Kahn, 1960)"
+      "en": "Mental Status Questionnaire"
   - "name": "M_CHAT"
     "title":
       "en": "Modified Checklist of Autism in Toddlers"
@@ -456,7 +549,7 @@
     "title":
       "en": "Memory Functioning Questionnaire"
     "description":
-      "en": "Memory Functioning Questionnaire (MFQ)"
+      "en": "Memory Functioning Questionnaire"
   - "name": "Memory_impair_screen"
     "title":
       "en": "Memory Impairment Screen"
@@ -467,6 +560,11 @@
       "en": "Mental Alternation Test"
     "description":
       "en": "Mental Alternation Test"
+  - "name": "Mental_rotation"
+    "title":
+      "en": "Mental Rotation Test"
+    "description":
+      "en": "Mental Rotation Test"
   - "name": "Mill_Hill"
     "title":
       "en": "Mill Hill Vocabulary Scale"
@@ -481,12 +579,22 @@
     "title":
       "en": "National Adult Reading Test"
     "description":
-      "en": "National Adult Reading Test (NART)"
+      "en": "National Adult Reading Test"
   - "name": "NCSE"
     "title":
       "en": "Neurobehavioral Cognitive Status Examination"
     "description":
-      "en": "Neurobehavioral Cognitive Status Examination (NCSE)"
+      "en": "Neurobehavioral Cognitive Status Examination"
+  - "name": "NDDS"
+    "title":
+      "en": "Nipissing District Developmental Screen"
+    "description":
+      "en": "Nipissing District Developmental Screen"
+  - "name": "NM"
+    "title":
+      "en": "Nishimura’s Mental State Scale for Elderly"
+    "description":
+      "en": "Nishimura’s Mental State Scale for Elderly"
   - "name": "Number_Series"
     "title":
       "en": "Number Series Test"
@@ -494,9 +602,9 @@
       "en": "Number Series Test"
   - "name": "Number_comparison"
     "title":
-      "en": "Number comparison"
+      "en": "Number Comparison"
     "description":
-      "en": "Number comparison"
+      "en": "Number Comparison"
   - "name": "Numeracy"
     "title":
       "en": "Numeracy Scale"
@@ -511,12 +619,12 @@
     "title":
       "en": "Oregon Noncognitive Inventory for Dementia"
     "description":
-      "en": "Oregon Noncognitive Inventory for Dementia (ONID)"
+      "en": "Oregon Noncognitive Inventory for Dementia"
   - "name": "PAL"
     "title":
-      "en": "Paired Associates Learning (PAL)"
+      "en": "Paired Associates Learning"
     "description":
-      "en": "Paired Associates Learning (PAL)"
+      "en": "Paired Associates Learning"
   - "name": "PLTM"
     "title":
       "en": "Prospective Long-Term Memory Test"
@@ -544,9 +652,9 @@
       "en": "Psychomotor Vigilance Task"
   - "name": "Pattern_comparison"
     "title":
-      "en": "Pattern comparison"
+      "en": "Pattern Comparison"
     "description":
-      "en": "Pattern comparison"
+      "en": "Pattern Comparison"
   - "name": "PiM"
     "title":
       "en": "Progress in Maths test"
@@ -556,12 +664,26 @@
     "title":
       "en": "Present Functioning Questionnaire"
     "description":
-      "en": "Present Functioning Questionnaire (Crockett, 1989)"
+      "en": "Present Functioning Questionnaire"
   - "name": "Prose_recall"
     "title":
-      "en": "Prose recall"
+      "en": "Prose Recall"
     "description":
-      "en": "Prose recall"
+      "en": "Prose Recall"
+  - "name": "RBANS_Figure_copy"
+    "title":
+      "en": "Repeatable Battery for the Assessment of Neuropsychological Status (Figure\
+        \ Copy)"
+    "description":
+      "en": "Repeatable Battery for the Assessment of Neuropsychological Status (Figure\
+        \ Copy)"
+  - "name": "RBANS_Figure_recall"
+    "title":
+      "en": "Repeatable Battery for the Assessment of Neuropsychological Status (Figure\
+        \ Recall)"
+    "description":
+      "en": "Repeatable Battery for the Assessment of Neuropsychological Status (Figure\
+        \ Recall)"
   - "name": "RBMT"
     "title":
       "en": "Rivermead Behavioral Memory Test"
@@ -579,9 +701,14 @@
       "en": "Reaction Time and Accuracy"
   - "name": "Repetition_test"
     "title":
-      "en": "Repetition test"
+      "en": "Repetition Test"
     "description":
-      "en": "Repetition test"
+      "en": "Repetition Test"
+  - "name": "Reversal_Learning"
+    "title":
+      "en": "Reversal Learning Task"
+    "description":
+      "en": "Reversal Learning Task"
   - "name": "Rey_Auditory"
     "title":
       "en": "Rey Auditory Verbal Learning Test"
@@ -606,12 +733,17 @@
     "title":
       "en": "Stop & Go Switch Task"
     "description":
-      "en": "Stop & Go Switch Task (SGST)"
+      "en": "Stop & Go Switch Task"
   - "name": "SIB"
     "title":
-      "en": "Severe Impairment Battery"
+      "en": "Scales of Independent Behavior"
     "description":
-      "en": "Severe Impairment Battery (SIB)"
+      "en": "Scales of Independent Behavior"
+  - "name": "SOPT"
+    "title":
+      "en": "Self-Ordered Pointing Task"
+    "description":
+      "en": "Self-Ordered Pointing Task"
   - "name": "SPMSQ"
     "title":
       "en": "Short Portable Mental Status Questionnaire"
@@ -621,12 +753,12 @@
     "title":
       "en": "Scenery Picture Memory Test"
     "description":
-      "en": "Scenery Picture Memory Test (SPMT)"
+      "en": "Scenery Picture Memory Test"
   - "name": "SRT"
     "title":
       "en": "Simple Reaction Time"
     "description":
-      "en": "Simple Reaction Time (SRT)"
+      "en": "Simple Reaction Time"
   - "name": "STAMAT_fig_rot"
     "title":
       "en": "STAMAT Figure rotation"
@@ -654,9 +786,9 @@
       "en": "Schaie-Thurstone Adult Mental Abilities Test (Word series)"
   - "name": "STMS"
     "title":
-      "en": "Short Test of Mental Status "
+      "en": "Short Test of Mental Status"
     "description":
-      "en": "Short Test of Mental Status (Kokmen E.,1987)"
+      "en": "Short Test of Mental Status"
   - "name": "Sally_Anne"
     "title":
       "en": "Sally-Anne Test"
@@ -666,7 +798,7 @@
     "title":
       "en": "Semiqualified Clinical Fluctuating Cognition Rating Scale"
     "description":
-      "en": "Semiqualified Clinical Fluctuating Cognition (FC) Rating Scale"
+      "en": "Semiqualified Clinical Fluctuating Cognition Rating Scale"
   - "name": "Serial_3s"
     "title":
       "en": "Subtraction Serial 3s"
@@ -711,22 +843,27 @@
     "title":
       "en": "Verbal Synonym Test"
     "description":
-      "en": "Verbal Synonym Test (SRB1)"
+      "en": "Verbal Synonym Test"
   - "name": "TICS"
     "title":
       "en": "Telephone Interview for Cognitive Status"
     "description":
-      "en": "Telephone Interview for Cognitive Status (TICS)"
+      "en": "Telephone Interview for Cognitive Status"
   - "name": "TMT"
     "title":
       "en": "Trail Making Test"
     "description":
-      "en": "Trail Making Test (TMT)"
+      "en": "Trail Making Test"
+  - "name": "TOPF"
+    "title":
+      "en": "Test of Premorbid Functioning"
+    "description":
+      "en": "Test of Premorbid Functioning"
   - "name": "TWFT"
     "title":
       "en": "Thurstone Word Fluency Test"
     "description":
-      "en": "Thurstone Word Fluency Test (Thurstone, 1938)"
+      "en": "Thurstone Word Fluency Test"
   - "name": "Tactile_Naming"
     "title":
       "en": "Tactile Naming Test"
@@ -739,24 +876,34 @@
       "en": "Temporal Orientation Test"
   - "name": "Thurstone_pic_memory"
     "title":
-      "en": "Thurstone's picture memory test"
+      "en": "Thurstone's Picture Memory Test"
     "description":
-      "en": "Thurstone's picture memory test"
+      "en": "Thurstone's Picture Memory Test"
   - "name": "Token"
     "title":
       "en": "Token Test"
     "description":
       "en": "Token Test"
+  - "name": "Tower_Test"
+    "title":
+      "en": "Tower of Hanoi"
+    "description":
+      "en": "Tower of Hanoi"
   - "name": "UFOV"
     "title":
-      "en": "Useful Field of View Test (UFOV)"
+      "en": "Useful Field of View Test"
     "description":
-      "en": "Useful Field of View Test (UFOV)"
+      "en": "Useful Field of View Test"
+  - "name": "VPT"
+    "title":
+      "en": "Visual Patterns Test"
+    "description":
+      "en": "Visual Patterns Test"
   - "name": "Verbal_fluency"
     "title":
-      "en": "Verbal fluency"
+      "en": "Verbal Fluency"
     "description":
-      "en": "Verbal fluency"
+      "en": "Verbal Fluency"
   - "name": "Verbal_learning"
     "title":
       "en": "Verbal Learning Test"
@@ -769,9 +916,9 @@
       "en": "Verbal Reasoning Test"
   - "name": "Vocabulary_test"
     "title":
-      "en": "Vocabulary test"
+      "en": "Vocabulary Test"
     "description":
-      "en": "Vocabulary test"
+      "en": "Vocabulary Test"
   - "name": "WAB_Reading"
     "title":
       "en": "WAB Reading commands"
@@ -786,60 +933,65 @@
     "title":
       "en": "WAIS Arithmetic"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Arithmetic"
+      "en": "Wechsler Adult Intelligence Scale Arithmetic"
   - "name": "WAIS_Block_Design"
     "title":
       "en": "WAIS Block Design"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Block Design"
+      "en": "Wechsler Adult Intelligence Scale Block Design"
   - "name": "WAIS_Coding"
     "title":
       "en": "WAIS Coding"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Coding"
+      "en": "Wechsler Adult Intelligence Scale Coding"
   - "name": "WAIS_Comprehension"
     "title":
       "en": "WAIS Comprehension"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Comprehension"
+      "en": "Wechsler Adult Intelligence Scale Comprehension"
   - "name": "WAIS_Digit_Span"
     "title":
       "en": "WAIS Digit Span"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Digit Span"
+      "en": "Wechsler Adult Intelligence Scale Digit Span"
   - "name": "WAIS_Information"
     "title":
       "en": "WAIS Information"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Information"
+      "en": "Wechsler Adult Intelligence Scale Information"
+  - "name": "WAIS_Letter_Number_Sequencing"
+    "title":
+      "en": "Wechsler Adult Intelligence Scale Letter-Number Sequencing"
+    "description":
+      "en": "Wechsler Adult Intelligence Scale (Letter-Number Sequencing)"
   - "name": "WAIS_Matrix_Reasoning"
     "title":
       "en": "WAIS Matrix Reasoning"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Matrix Reasoning"
+      "en": "Wechsler Adult Intelligence Scale Matrix Reasoning"
   - "name": "WAIS_Picture_Completion"
     "title":
       "en": "WAIS Picture Completion"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Picture Completion"
+      "en": "Wechsler Adult Intelligence Scale Picture Completion"
   - "name": "WAIS_Similarities"
     "title":
       "en": "WAIS Similarities"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Similarities"
+      "en": "Wechsler Adult Intelligence Scale Similarities"
   - "name": "WAIS_Symbol_Search"
     "title":
-      "en": "WAIS Digit Symbol test"
+      "en": "WAIS Digit Symbol Test"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Digit Symbol test"
+      "en": "Wechsler Adult Intelligence Scale Digit Symbol Test"
   - "name": "WAIS_Vocabulary"
     "title":
       "en": "WAIS Vocabulary"
     "description":
-      "en": "Wechsler Adult Intelligence Scale (WAIS) Vocabulary"
+      "en": "Wechsler Adult Intelligence Scale Vocabulary"
   - "name": "WASI_FSIQ"
     "title":
-      "en": "Wechsler Abbreviated Scale of Intelligence (Full Scale IQ)"
+      "en": "Wechsler Abbreviated Scale of Intelligence Full Scale IQ"
     "description":
       "en": "Wechsler Abbreviated Scale of Intelligence (Full Scale IQ)"
   - "name": "WBIS"
@@ -849,9 +1001,16 @@
       "en": "Wechsler-Bellevue Intelligence Scale"
   - "name": "WHI_SMC"
     "title":
-      "en": "Subjective memory complaints questionnaire (SMCQ)"
+      "en": "Subjective memory complaints questionnaire"
     "description":
-      "en": "Subjective Memory Complaints Questionnaire SMCQ "
+      "en": "Subjective Memory Complaints Questionnaire"
+  - "name": "WHO_AVLT"
+    "title":
+      "en": "World Health Organization-University of California-Los Angeles Auditory\
+        \ Verbal Learning Test"
+    "description":
+      "en": "World Health Organization-University of California-Los Angeles Auditory\
+        \ Verbal Learning Test"
   - "name": "WJ_III"
     "title":
       "en": "Woodcock Johnson Psychoeducational Battery"
@@ -859,44 +1018,54 @@
       "en": "Woodcock Johnson Psychoeducational Battery"
   - "name": "WMS_Digit_Span"
     "title":
-      "en": "Wechsler Memory Scale (Digit Span)"
+      "en": "Wechsler Memory Scale Digit Span"
     "description":
       "en": "Wechsler Memory Scale (Digit Span)"
   - "name": "WMS_Face_Recognition"
     "title":
-      "en": "Wechsler Face recognition"
+      "en": "Wechsler Memory Scale Face recognition"
     "description":
       "en": "Wechsler Memory Scale (Face recognition)"
   - "name": "WMS_Letter_Number"
     "title":
-      "en": "Wechsler Letter number"
+      "en": "Wechsler Memory Scale Letter number"
     "description":
       "en": "Wechsler Memory Scale (Letter number Sequence)"
   - "name": "WMS_Logical_Memory"
     "title":
-      "en": "Wechsler Logical memory"
+      "en": "Wechsler Memory Scale Logical memory"
     "description":
       "en": "Wechsler Memory Scale (Logical memory)"
   - "name": "WMS_Mental_Control"
     "title":
-      "en": "Wechsler Mental control"
+      "en": "Wechsler Memory Scale Mental control"
     "description":
       "en": "Wechsler Memory Scale (Mental control)"
   - "name": "WMS_Spatial_Span"
     "title":
-      "en": "Wechsler Memory Scale (Spatial Span)"
+      "en": "Wechsler Memory Scale Spatial Span"
     "description":
       "en": "Wechsler Memory Scale (Spatial Span)"
+  - "name": "WMS_Verbal_Paired_Associates"
+    "title":
+      "en": "Wechsler Memory Scale Verbal Paired Associates"
+    "description":
+      "en": "Wechsler Memory Scale (Verbal Paired Associates)"
   - "name": "WMS_Visual_Reproduction"
     "title":
-      "en": "Wechsler Visual reproduction"
+      "en": "Wechsler Memory Scale Visual reproduction"
     "description":
       "en": "Wechsler Memory Scale (Visual reproduction)"
   - "name": "WRAT"
     "title":
       "en": "Wide Range Achievement Test"
     "description":
-      "en": "Wide Range Achievement Test (WRAT)"
+      "en": "Wide Range Achievement Test"
+  - "name": "WTAR"
+    "title":
+      "en": "Wechsler Test of Adult Reading"
+    "description":
+      "en": "Wechsler Test of Adult Reading"
   - "name": "Wilson_Barona"
     "title":
       "en": "Wilson-Barona Index"
@@ -904,19 +1073,19 @@
       "en": "Wilson-Barona Index"
   - "name": "Word_recognition"
     "title":
-      "en": "Word recognition"
+      "en": "Word Recognition"
     "description":
-      "en": "Word recognition"
+      "en": "Word Recognition"
   - "name": "Word_series"
     "title":
-      "en": "Word series"
+      "en": "Word Series"
     "description":
-      "en": "Word series"
+      "en": "Word Series"
   - "name": "Work_Mem_Span"
     "title":
       "en": "Working Memory Span"
     "description":
-      "en": "Working Memory Span tasks (WMS)"
+      "en": "Working Memory Span Tasks"
 - "name": "Personality"
   "title":
     "en": "Constructs for personality measures"
@@ -931,6 +1100,11 @@
       "en": "Adaptive Behavior Assessment System"
     "description":
       "en": "Adaptive Behavior Assessment System"
+  - "name": "AISS"
+    "title":
+      "en": "Arnett Inventory of Sensation Seeking "
+    "description":
+      "en": "Arnett Inventory of Sensation Seeking "
   - "name": "BFI"
     "title":
       "en": "Big Five Inventory"
@@ -938,14 +1112,19 @@
       "en": "Big Five Inventory"
   - "name": "BISBAS"
     "title":
-      "en": "BIS/BAS scale"
+      "en": "Behavioural Inhibition and Behavioural Activation System"
     "description":
-      "en": "Behavioural inhibition (BIS) and behavioural activation system (BAS)"
+      "en": "Behavioural Inhibition and Behavioural Activation System"
   - "name": "BITSEA"
     "title":
       "en": "Brief Infant Toddler Social Emotional Assessment"
     "description":
       "en": "Brief Infant Toddler Social Emotional Assessment"
+  - "name": "BPAQ"
+    "title":
+      "en": "Buss Perry Aggression Questionnaire"
+    "description":
+      "en": "Buss Perry Aggression Questionnaire"
   - "name": "BSRI"
     "title":
       "en": "Bem Sex Roles Inventory"
@@ -965,17 +1144,27 @@
     "title":
       "en": "Brief Resilience Scale"
     "description":
-      "en": "Brief Resilience Scale (Smith et al. 2008)"
-  - "name": "CBQ_VSF"
+      "en": "Brief Resilience Scale"
+  - "name": "CBCL"
+    "title":
+      "en": "Child Behavior Checklist"
+    "description":
+      "en": "Child Behavior Checklist"
+  - "name": "CBQ"
     "title":
       "en": "Children’s Behaviour Questionnaire"
     "description":
       "en": "Children’s Behaviour Questionnaire"
+  - "name": "CDQ"
+    "title":
+      "en": "Choice Dilemmas Questionnaire"
+    "description":
+      "en": "Choice Dilemmas Questionnaire"
   - "name": "CD_RISC"
     "title":
       "en": "Connor-Davidson Resilience Scale"
     "description":
-      "en": "Connor-Davidson Resilience Scale (CD RISC)"
+      "en": "Connor-Davidson Resilience Scale"
   - "name": "CITS"
     "title":
       "en": "Carey Infant Temperament Scale"
@@ -986,6 +1175,11 @@
       "en": "Child Social Behaviour Questionnaire"
     "description":
       "en": "Child Social Behaviour Questionnaire"
+  - "name": "CSQ"
+    "title":
+      "en": "Cognitive Style Questionnaire"
+    "description":
+      "en": "Cognitive Style Questionnaire"
   - "name": "CTPQ"
     "title":
       "en": "Childhood Temperament and Personality Questionnaire"
@@ -1008,10 +1202,9 @@
       "en": "Divergent Thinking Test"
   - "name": "EAS_Scales"
     "title":
-      "en": "Emotionality, Activity and Sociability (EAS) temperament Survey "
+      "en": "Emotionality, Activity and Sociability Temperament Survey "
     "description":
-      "en": "Emotionality, Activity and Sociability (EAS) temperament Survey (Buss\
-        \ & Plomin 1984)"
+      "en": "Emotionality, Activity and Sociability Temperament Survey"
   - "name": "ECBQ"
     "title":
       "en": "Early Childhood Behavior Questionnaire"
@@ -1021,7 +1214,7 @@
     "title":
       "en": "Eysenck Personality Questionnaire"
     "description":
-      "en": "Eysenck Personality Questionnaire (EPQ)"
+      "en": "Eysenck Personality Questionnaire"
   - "name": "ERQ"
     "title":
       "en": "Emotion Regulation Questionnaire"
@@ -1031,7 +1224,7 @@
     "title":
       "en": "Ego Resilience Scale"
     "description":
-      "en": "Ego Resilience Scale (Block, 1996)"
+      "en": "Ego Resilience Scale"
   - "name": "Explanatory_Style"
     "title":
       "en": "Explanatory Style"
@@ -1041,7 +1234,7 @@
     "title":
       "en": "Flexible Goal Adjustment Scale"
     "description":
-      "en": "Flexible Goal Adjustment Scale (Brandtstädter 1990)"
+      "en": "Flexible Goal Adjustment Scale"
   - "name": "FTAS"
     "title":
       "en": "Framingham Type A Scale"
@@ -1051,12 +1244,17 @@
     "title":
       "en": "Goal Adjustment Scale "
     "description":
-      "en": "Goal Adjustment Scale (Wrosch, C., et al. 2003)"
+      "en": "Goal Adjustment Scale"
   - "name": "GSES"
     "title":
       "en": "General Self-Efficacy Scale"
     "description":
-      "en": "General Self-Efficacy Scale (Schwarzer, R., & Jerusalem, M., 1995)"
+      "en": "General Self-Efficacy Scale"
+  - "name": "HDHQ"
+    "title":
+      "en": "Hostility and Direction of Hostility Questionnaire"
+    "description":
+      "en": "Hostility and Direction of Hostility Questionnaire"
   - "name": "Hartmann_Schizo"
     "title":
       "en": "Hartmann Schizophrenia Prediction Scale"
@@ -1066,12 +1264,17 @@
     "title":
       "en": "Cook-Medley Hostility Scale"
     "description":
-      "en": "Cook-Medley Hostility Scale (Cook & Medley, 1954)"
+      "en": "Cook-Medley Hostility Scale"
   - "name": "IBQ"
     "title":
       "en": "Infant Behavior Questionnaire"
     "description":
       "en": "Infant Behavior Questionnaire"
+  - "name": "IPSM"
+    "title":
+      "en": "Interpersonal Sensitivity Measure"
+    "description":
+      "en": "Interpersonal Sensitivity Measure"
   - "name": "JAS"
     "title":
       "en": "Jenkins Activity Survey"
@@ -1081,7 +1284,7 @@
     "title":
       "en": "Karolinska Scales of Personality"
     "description":
-      "en": "Karolinska Scales of Personality (KSP)"
+      "en": "Karolinska Scales of Personality"
   - "name": "LOT"
     "title":
       "en": "Life Orientation Test"
@@ -1121,7 +1324,7 @@
     "title":
       "en": "MacArthur Reactive Responding Scale"
     "description":
-      "en": "MacArthur Reactive Responding Scale (1999)"
+      "en": "MacArthur Reactive Responding Scale"
   - "name": "Malaise_inventory"
     "title":
       "en": "Malaise Inventory "
@@ -1131,17 +1334,22 @@
     "title":
       "en": "Pearlin Personal Mastery Scale"
     "description":
-      "en": "Pearlin Personal Mastery Scale (Pearlin 1981)"
+      "en": "Pearlin Personal Mastery Scale"
   - "name": "Mattering"
     "title":
       "en": "Mattering Scale"
     "description":
-      "en": "Mattering Scale (Elliott, 2004)"
+      "en": "Mattering Scale"
+  - "name": "My_Child"
+    "title":
+      "en": "My Child Questionnaire"
+    "description":
+      "en": "My Child Questionnaire"
   - "name": "NEO_PIR"
     "title":
       "en": "NEO Personality Inventory - Revised"
     "description":
-      "en": "NEO Personality Inventory - Revised (NEO PIR)"
+      "en": "NEO Personality Inventory - Revised"
   - "name": "PDL"
     "title":
       "en": "Psychoanalytic Developmental Level"
@@ -1149,9 +1357,14 @@
       "en": "Psychoanalytic Developmental Level"
   - "name": "PIC"
     "title":
-      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+      "en": "Personality in Intellectual Aging Contexts Inventory"
     "description":
-      "en": "Personality in Intellectual Aging Contexts Inventory (PIC)"
+      "en": "Personality in Intellectual Aging Contexts Inventory"
+  - "name": "PSAI"
+    "title":
+      "en": "Preschool Activities Inventory"
+    "description":
+      "en": "Preschool Activities Inventory"
   - "name": "Personal_Mastery_Perceived_Constraint"
     "title":
       "en": "Personal Mastery and Perceived Constraints Scale"
@@ -1166,7 +1379,7 @@
     "title":
       "en": "Portrait Values Questionnaire"
     "description":
-      "en": "Portrait Values Questionnaire (Schwartz 2001)"
+      "en": "Portrait Values Questionnaire"
   - "name": "RASQ"
     "title":
       "en": "Reactivity to Affective Stimuli Questionnaire"
@@ -1192,6 +1405,11 @@
       "en": "Strengths and Difficulties Questionnaire"
     "description":
       "en": "Strengths and Difficulties Questionnaire"
+  - "name": "SOC"
+    "title":
+      "en": "Sense of Coherence Scale"
+    "description":
+      "en": "Sense of Coherence Scale"
   - "name": "SSS"
     "title":
       "en": "Sensation Seeking Scale"
@@ -1219,9 +1437,9 @@
       "en": "Sociopathy Scale"
   - "name": "TABP"
     "title":
-      "en": "Type A behavior pattern"
+      "en": "Type A Behavior Pattern"
     "description":
-      "en": "Type A behavior pattern (Friedman and Rosenman 1974)"
+      "en": "Type A Behavior Pattern"
   - "name": "TIPI"
     "title":
       "en": "Ten-Item Personality Inventory"
@@ -1231,7 +1449,7 @@
     "title":
       "en": "Twenty Statements Test"
     "description":
-      "en": "Twenty Statements Test (1954, Manfred Kuhn & Thomas McPartland) "
+      "en": "Twenty Statements Test"
   - "name": "TypeD"
     "title":
       "en": "Type-D Scale"
@@ -1246,12 +1464,12 @@
     "title":
       "en": "Washington University Sentence Completion Test "
     "description":
-      "en": "Washington University Sentence Completion Test ( Loevinger, 1987)"
+      "en": "Washington University Sentence Completion Test"
   - "name": "Wagnild_Young_Resilience"
     "title":
       "en": "Resilience Scale"
     "description":
-      "en": "Resilience Scale (Wagnild and Young, 1993)"
+      "en": "Resilience Scale"
 - "name": "Emotional"
   "title":
     "en": "Constructs for emotional distress"
@@ -1262,6 +1480,11 @@
     "fr": "Information au sujet de mesures composées (échelles) de tests de détresse\
       \ émotionnelle."
   "terms":
+  - "name": "ALS"
+    "title":
+      "en": "Affective Lability Scale"
+    "description":
+      "en": "Affective Lability Scale"
   - "name": "ASBS"
     "title":
       "en": "Anxiety Symtoms and Beliefs Scale"
@@ -1271,7 +1494,7 @@
     "title":
       "en": "Anxiety Sensitivity Index"
     "description":
-      "en": "Anxiety Sensitivity Index (Reiss S. 1984)"
+      "en": "Anxiety Sensitivity Index"
   - "name": "ASRS"
     "title":
       "en": "Adult ADHD Self-Report Scale"
@@ -1301,17 +1524,17 @@
     "title":
       "en": "Brief Patient Health Questionnaire"
     "description":
-      "en": "Brief Patient Health Questionnaire (BPHQ)"
+      "en": "Brief Patient Health Questionnaire"
   - "name": "CAMDEX_Depres"
     "title":
       "en": "Depression Symptoms from CAMDEX"
     "description":
       "en": "Depression Symptoms from CAMDEX"
-  - "name": "CBCL"
+  - "name": "CAQ"
     "title":
-      "en": "Child Behavior Checklist"
+      "en": "Childbirth Attitudes Questionnaire"
     "description":
-      "en": "Child Behavior Checklist"
+      "en": "Childbirth Attitudes Questionnaire"
   - "name": "CCI"
     "title":
       "en": "Crown-Crisp Index of Phobic Anxiety"
@@ -1321,22 +1544,37 @@
     "title":
       "en": "Center for Epidemiological Studies Depression Scale"
     "description":
-      "en": "Center for Epidemiological Studies Depression Scale (CES-D)"
+      "en": "Center for Epidemiological Studies Depression Scale"
   - "name": "CIDI"
     "title":
       "en": "Composite International Diagnostic Interview"
     "description":
-      "en": "Composite International Diagnostic Interview (CIDI)"
+      "en": "Composite International Diagnostic Interview"
   - "name": "CORN"
     "title":
       "en": "Cornell Scale for Depression in Dementia"
     "description":
-      "en": "Cornell Scale for Depression in Dementia (CORN)"
+      "en": "Cornell Scale for Depression in Dementia"
+  - "name": "CSR"
+    "title":
+      "en": "Chronic Stress Scale"
+    "description":
+      "en": "Chronic Stress Scale"
+  - "name": "CWS"
+    "title":
+      "en": "Cambridge Worry Scale"
+    "description":
+      "en": "Cambridge Worry Scale\n"
   - "name": "C_SSRS"
     "title":
       "en": "Columbia Suicide Severity Rating Scale"
     "description":
-      "en": "Columbia Suicide Severity Rating Scale (C SSRS)"
+      "en": "Columbia Suicide Severity Rating Scale"
+  - "name": "Comprehensive_Psychopathological"
+    "title":
+      "en": "Comprehensive Psychopathological Rating Scale"
+    "description":
+      "en": "Comprehensive Psychopathological Rating Scale"
   - "name": "DAWBA"
     "title":
       "en": "Development and Well-Being Assessment"
@@ -1346,12 +1584,22 @@
     "title":
       "en": "Dispositional Positive Emotion Scale"
     "description":
-      "en": "Dispositional Positive Emotion Scale (DPES)"
+      "en": "Dispositional Positive Emotion Scale"
+  - "name": "EDE"
+    "title":
+      "en": "Eating Disorder Examination"
+    "description":
+      "en": "Eating Disorder Examination"
   - "name": "EPDS"
     "title":
       "en": "Edinburgh Postnatal Depression Scale"
     "description":
       "en": "Edinburgh Postnatal Depression Scale"
+  - "name": "EURO_D"
+    "title":
+      "en": "EURO-D Scale"
+    "description":
+      "en": "EURO-D Scale"
   - "name": "Fram_Anger_Scale"
     "title":
       "en": "Framingham Anger Scales"
@@ -1361,12 +1609,12 @@
     "title":
       "en": "Goldberg Anxiety and Depression Scales - Anxiety"
     "description":
-      "en": "Goldberg Anxiety and Depression Scales - Anxiety (GADS)"
+      "en": "Goldberg Anxiety and Depression Scales - Anxiety"
   - "name": "GADS_dep"
     "title":
       "en": "Goldberg Anxiety and Depression Scales - Depression"
     "description":
-      "en": "Goldberg Anxiety and Depression Scales - Depression (GADS)"
+      "en": "Goldberg Anxiety and Depression Scales - Depression"
   - "name": "GDS"
     "title":
       "en": "Geriatric Depression Scale"
@@ -1379,19 +1627,24 @@
       "en": "General Health Questionnaire"
   - "name": "GLLM"
     "title":
-      "en": "Groningen List of Long-term Difficulties"
+      "en": "Groningen List of Long-Term Difficulties"
     "description":
-      "en": "Groningen List of Long-term Difficulties"
+      "en": "Groningen List of Long-Term Difficulties"
   - "name": "Gen_anx_7"
     "title":
-      "en": "Generalized Anxiety Disorder 7-item Scale"
+      "en": "Generalized Anxiety Disorder 7-Item Scale"
     "description":
-      "en": "Generalized Anxiety Disorder 7-item Scale"
+      "en": "Generalized Anxiety Disorder 7-Item Scale"
   - "name": "HADS"
     "title":
       "en": "Hospital Anxiety and Depression Scale"
     "description":
-      "en": "Hospital Anxiety and Depression Scale (HADS)"
+      "en": "Hospital Anxiety and Depression Scale"
+  - "name": "Illness_BQ"
+    "title":
+      "en": "Illness Behaviour Questionnaire"
+    "description":
+      "en": "Illness Behaviour Questionnaire"
   - "name": "Kessler_10"
     "title":
       "en": "Kessler Psychological Distress Scale "
@@ -1401,7 +1654,12 @@
     "title":
       "en": "Mood and Anxiety Symptom Questionnaire"
     "description":
-      "en": "Mood and Anxiety Symptom Questionnaire (MASQ)"
+      "en": "Mood and Anxiety Symptom Questionnaire"
+  - "name": "MFQ"
+    "title":
+      "en": "Mood and Feelings Questionnaire"
+    "description":
+      "en": "Mood and Feelings Questionnaire"
   - "name": "MHI"
     "title":
       "en": "Mental Health Inventory"
@@ -1426,22 +1684,27 @@
     "title":
       "en": "Neuropsychiatric Inventory"
     "description":
-      "en": "Neuropsychiatric Inventory (Cummings, 1994)"
+      "en": "Neuropsychiatric Inventory"
   - "name": "PANAS"
     "title":
       "en": "Positive and Negative Affect Schedule"
     "description":
-      "en": "Positive and Negative Affect Schedule (PANAS)"
+      "en": "Positive and Negative Affect Schedule"
   - "name": "PC_PTSD"
     "title":
       "en": "Primary Care: Post-Traumatic Stress Disorder"
     "description":
-      "en": "Primary Care: Post-Traumatic Stress Disorder (PC-PTSD)"
+      "en": "Primary Care: Post-Traumatic Stress Disorder"
   - "name": "PDSQ"
     "title":
       "en": "Psychiatric Diagnosis Screening Questionnaire"
     "description":
       "en": "Psychiatric Diagnosis Screening Questionnaire"
+  - "name": "PESc"
+    "title":
+      "en": "Pregnancy Experience Scale"
+    "description":
+      "en": "Pregnancy Experience Scale"
   - "name": "PGCMS"
     "title":
       "en": "Philadelphia Geriatric Center Morale Scale"
@@ -1452,16 +1715,26 @@
       "en": "Patient Health Questionnaire "
     "description":
       "en": "Patient Health Questionnaire "
+  - "name": "POMS"
+    "title":
+      "en": "Profile of Mood States"
+    "description":
+      "en": "Profile of Mood States"
   - "name": "PSF"
     "title":
       "en": "Psychiatric Symptom Frequency Scale"
     "description":
       "en": "Psychiatric Symptom Frequency Scale"
+  - "name": "PSI"
+    "title":
+      "en": "Parenting Stress Index"
+    "description":
+      "en": "Parenting Stress Index"
   - "name": "PSS"
     "title":
       "en": "PTSD Symptom Scale"
     "description":
-      "en": "PTSD Symptom Scale (PSS)"
+      "en": "PTSD Symptom Scale"
   - "name": "PSWQ"
     "title":
       "en": "Penn State Worry Questionnaire"
@@ -1482,11 +1755,16 @@
       "en": "Pregnancy Specific Anxiety Measure"
     "description":
       "en": "Pregnancy Specific Anxiety Measure\n"
+  - "name": "QD2A"
+    "title":
+      "en": "Échelle QD2A d'Évaluation de la Dépression"
+    "description":
+      "en": "Échelle QD2A d'Évaluation de la Dépression"
   - "name": "RRS"
     "title":
       "en": "Ruminative Responses Scale"
     "description":
-      "en": "Ruminative Responses Scale (RRS)"
+      "en": "Ruminative Responses Scale"
   - "name": "SCID"
     "title":
       "en": "Structured Clinical Interview for DSM Disorders"
@@ -1501,32 +1779,37 @@
     "title":
       "en": "Short Happiness and Affect Research Protocol"
     "description":
-      "en": "Short Happiness and Affect Research Protocol (Stones 1995)"
+      "en": "Short Happiness and Affect Research Protocol"
   - "name": "SPAQ"
     "title":
       "en": "Seasonal Pattern Assessment Questionniare"
     "description":
-      "en": "Seasonal Pattern Assessment Questionniare (SPAQ)"
+      "en": "Seasonal Pattern Assessment Questionniare"
+  - "name": "SRQ_20"
+    "title":
+      "en": "Self-Reporting Questionnaire"
+    "description":
+      "en": "Self-Reporting Questionnaire"
   - "name": "STAI"
     "title":
       "en": "Spielberger State-Trait Anxiety Inventory"
     "description":
-      "en": "Spielberger State-Trait Anxiety Inventory (STAI)"
+      "en": "Spielberger State-Trait Anxiety Inventory"
   - "name": "STAS"
     "title":
       "en": "Spielberger State-Trait Anger Scale"
     "description":
-      "en": "Spielberger State-Trait Anger Scale (STAS)"
+      "en": "Spielberger State-Trait Anger Scale"
   - "name": "STAXI"
     "title":
       "en": "Spielberger State-Trait Anger Expression Inventory"
     "description":
-      "en": "Spielberger State-Trait Anger Expression Inventory (STAXI)"
+      "en": "Spielberger State-Trait Anger Expression Inventory"
   - "name": "Stress_Coping"
     "title":
       "en": "Stress Coping Scale"
     "description":
-      "en": "Stress Coping Scale (Billings and Moos, 1984)"
+      "en": "Stress Coping Scale"
   - "name": "TRIG"
     "title":
       "en": "Texas Revised Inventory of Grief"
@@ -1537,6 +1820,11 @@
       "en": "Weekly Stress Inventory"
     "description":
       "en": "Weekly Stress Inventory"
+  - "name": "ZUNG_Dep"
+    "title":
+      "en": "Zung Self-Rating Depression Scale"
+    "description":
+      "en": "Zung Self-Rating Depression Scale"
   - "name": "ZUNG_SAS"
     "title":
       "en": "Zung Self-Rating Anxiety Scale"
@@ -1544,13 +1832,18 @@
       "en": "Zung Self-Rating Anxiety Scale"
 - "name": "Other_psycho"
   "title":
-    "fr": "D'autres mesures psychologiques"
     "en": "Constructs for other psychological measures"
+    "fr": "D'autres mesures psychologiques"
   "description":
-    "fr": "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
     "en": "Information about other composite measures (scales, scores) of psychological\
       \ tests."
+    "fr": "Information au sujet de mesures composées (échelles) d'autres tests psychologiques."
   "terms":
+  - "name": "AAQ"
+    "title":
+      "en": "Attitudes to Ageing Questionnaire"
+    "description":
+      "en": "Attitudes to Ageing Questionnaire"
   - "name": "APQ"
     "title":
       "en": "Ageing Perceptions Questionnaire"
@@ -1560,7 +1853,7 @@
     "title":
       "en": "Adult Hope Scale"
     "description":
-      "en": "Adult Hope Scale (Snyder 1991)"
+      "en": "Adult Hope Scale"
   - "name": "BCCI"
     "title":
       "en": "Brief California Coping Inventory"
@@ -1571,11 +1864,21 @@
       "en": "Balanced Inventory of Desirable Responding"
     "description":
       "en": "Balanced Inventory of Desirable Responding"
+  - "name": "BNSI"
+    "title":
+      "en": "Basic Needs Satisfaction Inventory"
+    "description":
+      "en": "Basic Needs Satisfaction Inventory"
+  - "name": "BSS"
+    "title":
+      "en": "Brief Serenity Scale"
+    "description":
+      "en": "Brief Serenity Scale"
   - "name": "Beck_Hopelessness"
     "title":
       "en": "Beck Hopelessness Scale"
     "description":
-      "en": "Beck Hopelessness Scale (Beck, 1988)"
+      "en": "Beck Hopelessness Scale"
   - "name": "Brief_COPE"
     "title":
       "en": "Brief COPE"
@@ -1583,15 +1886,19 @@
       "en": "Brief COPE"
   - "name": "Brief_H_Neg"
     "title":
-      "en": "Negatively Worded Brief Measure of Hopelessness (Brief-H-Neg)"
+      "en": "Negatively Worded Brief Measure of Hopelessness"
     "description":
-      "en": "Negatively Worded Brief Measure of Hopelessness (Brief-H-Neg) (Everson,\
-        \ 1996)"
+      "en": "Negatively Worded Brief Measure of Hopelessness"
   - "name": "COPE"
     "title":
       "en": "COPE Inventory"
     "description":
       "en": "COPE Inventory"
+  - "name": "CPQ"
+    "title":
+      "en": "Crying Patterns Questionnaire"
+    "description":
+      "en": "Crying Patterns Questionnaire"
   - "name": "Caregiver_burden"
     "title":
       "en": "Caregiver Burden Scale"
@@ -1601,22 +1908,37 @@
     "title":
       "en": "Dyadic Adjustment Scale"
     "description":
-      "en": "Dyadic Adjustment Scale (DAS)"
+      "en": "Dyadic Adjustment Scale"
   - "name": "ECR"
     "title":
       "en": "Experiences in Close Relationships Scale"
     "description":
       "en": "Experiences in Close Relationships Scale"
+  - "name": "EIBS"
+    "title":
+      "en": "Ellis Irrational Beliefs Scale"
+    "description":
+      "en": "Ellis Irrational Beliefs Scale"
   - "name": "ERI"
     "title":
       "en": "Effort-Reward Imbalance Questionnaire"
     "description":
       "en": "Effort-Reward Imbalance Questionnaire"
+  - "name": "ESS"
+    "title":
+      "en": "European Social Survey"
+    "description":
+      "en": "European Social Survey"
+  - "name": "FTOS"
+    "title":
+      "en": "Future-Time Orientation Scale "
+    "description":
+      "en": "Future-Time Orientation Scale "
   - "name": "FTP"
     "title":
       "en": "Future Time Perspective Scale"
     "description":
-      "en": "Future Time Perspective Scale (FTP)"
+      "en": "Future Time Perspective Scale"
   - "name": "Gilford_Bengtson_MS"
     "title":
       "en": "Gilford-Bengtson Marital Satisfaction Scale"
@@ -1634,9 +1956,9 @@
       "en": "Health Locus of Control Scale"
   - "name": "HV_4"
     "title":
-      "en": "4-item Health Value Scale"
+      "en": "4-Item Health Value Scale"
     "description":
-      "en": "4-item Health Value Scale"
+      "en": "4-Item Health Value Scale"
   - "name": "Infant_Toddler_Sensory"
     "title":
       "en": "Infant/Toddler Sensory Profile"
@@ -1646,7 +1968,12 @@
     "title":
       "en": "Job Content Questionnaire"
     "description":
-      "en": "Job Content Questionnaire (Karasek, 1998)"
+      "en": "Job Content Questionnaire"
+  - "name": "JSQ"
+    "title":
+      "en": "Job Strain Questionnaire"
+    "description":
+      "en": "Job Strain Questionnaire"
   - "name": "Job_sat"
     "title":
       "en": "Job Satisfaction Scale"
@@ -1656,7 +1983,7 @@
     "title":
       "en": "Loyola Generativity Scale"
     "description":
-      "en": "Loyola Generativity Scale (LGS)"
+      "en": "Loyola Generativity Scale"
   - "name": "LSIA"
     "title":
       "en": "Life Satisfaction Index A"
@@ -1671,12 +1998,12 @@
     "title":
       "en": "Life Satisfaction Questionnaire"
     "description":
-      "en": "Life Satisfaction Questionnaire (LSQ)"
+      "en": "Life Satisfaction Questionnaire"
   - "name": "Life_Invest"
     "title":
       "en": "Life Investment Scale"
     "description":
-      "en": "Life Investment Scale (Ebner et al., 2006)"
+      "en": "Life Investment Scale"
   - "name": "Locus_Control_Behaviour"
     "title":
       "en": "Locus of Control Behaviour Scale"
@@ -1701,17 +2028,17 @@
     "title":
       "en": "Neurobehavioral Rating Scale"
     "description":
-      "en": "Neurobehavioral Rating Scale (Levin 1987)"
+      "en": "Neurobehavioral Rating Scale"
   - "name": "Optimism"
     "title":
       "en": "Optimism Scale"
     "description":
-      "en": "Optimism Scale (Brandtstädter & Wentura, 1994)"
+      "en": "Optimism Scale"
   - "name": "Organiz_Justice"
     "title":
       "en": "Organizational Justice Questionnaire"
     "description":
-      "en": "Organizational Justice Questionnaire (Niehoff and Moorman, 1993)"
+      "en": "Organizational Justice Questionnaire"
   - "name": "PHS"
     "title":
       "en": "Psychological Health-Sickness"
@@ -1721,12 +2048,17 @@
     "title":
       "en": "Positive Reciprocity Orientation"
     "description":
-      "en": "Positive Reciprocity Orientation (PRO)"
+      "en": "Positive Reciprocity Orientation"
   - "name": "PSCS"
     "title":
       "en": "Primary and Secondary Control Scale"
     "description":
-      "en": "Primary and Secondary Control Scale (PSCS)"
+      "en": "Primary and Secondary Control Scale"
+  - "name": "PTOS"
+    "title":
+      "en": "Present-Time Orientation Scale"
+    "description":
+      "en": "Present-Time Orientation Scale"
   - "name": "Paulhus_Deception"
     "title":
       "en": "Paulhus Deception Scales"
@@ -1742,6 +2074,11 @@
       "en": "Assessment of Perceived Inequalities"
     "description":
       "en": "Assessment of Perceived Inequalities"
+  - "name": "Perceived_control"
+    "title":
+      "en": "Perceived Control Scale"
+    "description":
+      "en": "Perceived Control Scale"
   - "name": "Planning_Making_Sense_Past"
     "title":
       "en": "Planning and Making Sense of Past"
@@ -1751,12 +2088,12 @@
     "title":
       "en": "Quality of Marriage Index"
     "description":
-      "en": "Quality of Marriage Index (Norton, 1983)"
+      "en": "Quality of Marriage Index"
   - "name": "RPWB"
     "title":
       "en": "Ryff Psychological Well-Being Scale"
     "description":
-      "en": "Ryff Psychological Well-Being Scale (RPWB)"
+      "en": "Ryff Psychological Well-Being Scale"
   - "name": "Religiosity"
     "title":
       "en": "Religiosity"
@@ -1771,7 +2108,7 @@
     "title":
       "en": "Somatosensory Amplification Scale"
     "description":
-      "en": "Somatosensory Amplification Scale (SAS)"
+      "en": "Somatosensory Amplification Scale"
   - "name": "SDRS_5"
     "title":
       "en": "Socially Desirable Response Set Five-Item Survey"
@@ -1786,12 +2123,17 @@
     "title":
       "en": "Satisfaction with Life Scale"
     "description":
-      "en": "Satisfaction with Life Scale (SWLS)"
+      "en": "Satisfaction with Life Scale"
   - "name": "Subj_Well_Being"
     "title":
       "en": "Subjective Well-Being Scale"
     "description":
       "en": "Subjective Well-Being Scale"
+  - "name": "Utrechtse_coping"
+    "title":
+      "en": "Utrecht Coping List"
+    "description":
+      "en": "Utrecht Coping List"
   - "name": "WEMWBS"
     "title":
       "en": "Warwick-Edinburgh Mental Wellbeing Scale "
@@ -1806,7 +2148,7 @@
     "title":
       "en": "Ways of Coping Questionnaire"
     "description":
-      "en": "Ways of Coping Questionnaire (Folkman & Lazarus)"
+      "en": "Ways of Coping Questionnaire"
   - "name": "Work_Family_Spillover"
     "title":
       "en": "Work-Family Spillover Scale"
@@ -1816,4 +2158,4 @@
     "title":
       "en": "Zarit Caregiver Burden Scale"
     "description":
-      "en": "Zarit Caregiver Burden Scale (Zarit 1990)"
+      "en": "Zarit Caregiver Burden Scale"
