@@ -1,4 +1,4 @@
-maelstrom-taxonomies
-====================
+maelstrom-taxonomies-scales
+===========================
 
-Maelstrom classification systems
+Maelstrom sclaes classification systems
